@@ -1,0 +1,476 @@
+{
+	"body": [
+		{
+			"title": "Feature 364",
+			"library": "itextpdf",
+			"name": "add text",
+			"name_data": "<p><strong>text</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">69.32</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">45.45</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.go</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">35.23</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.setSimpleColumn</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">32.39</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.addElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.3</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.Add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">16.48</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfArray.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">15.34</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">13.64</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.SetSimpleColumn</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">10.8</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.AddElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">9.66</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.Go</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">9.09</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.Close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">9.09</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 365",
+			"library": "itextpdf",
+			"name": "create pdf",
+			"name_data": "<p><strong>pdf</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">87.68</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.open</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">67.71</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.getInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.93</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">63.96</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.addCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.Open</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">34.48</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.GetInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.54</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.Add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">32.61</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.Close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25.59</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.AddCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">21.84</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.newPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">19.34</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Image.getInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">16.07</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.getDirectContent</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">13.73</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">11.39</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.addTemplate</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">10.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getNumberOfPages</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">7.8</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setCellEvent</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">7.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.GetFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">7.18</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Document.NewPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">7.02</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setBorder</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">6.71</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.getImportedPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">6.55</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 366",
+			"library": "itextpdf",
+			"name": "add table,use table",
+			"name_data": "<p><strong>table</strong> -> (add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.addCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.AddCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setHorizontalAlignment</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">22.86</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.setWidthPercentage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">20</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 367",
+			"library": "itextpdf",
+			"name": "create pdf,use pdf",
+			"name_data": "<p><strong>pdf</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Image.getInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">48.29</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.addCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">41.03</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.getInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">38.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfWriter.GetInstance</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">16.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Image.setAbsolutePosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">12.39</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 368",
+			"library": "itextpdf",
+			"name": "create pdf",
+			"name_data": "<p><strong>pdf</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.register</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 372",
+			"library": "itextpdf",
+			"name": "create cell",
+			"name_data": "<p><strong>cell</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPRow.getCells</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.getRow.getCells</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 375",
+			"library": "itextpdf",
+			"name": "add image",
+			"name_data": "<p><strong>image</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.showText</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.61</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.setFontAndSize</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.61</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.moveText</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.61</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.beginText</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.61</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 376",
+			"library": "itextpdf",
+			"name": "show text",
+			"name_data": "<p><strong>text</strong> -> show </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getNumberOfPages</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReaderContentParser.processContent</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">92.31</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PathConstructionRenderInfo.getOperation</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">38.46</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ImageRenderInfo.getImage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 377",
+			"library": "itextpdf",
+			"name": "use font,embed font,be font,register font,use text",
+			"name_data": "<p><strong>font</strong> -> (use,embed,be,register) <strong>text</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.getFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.GetFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">30.77</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.register</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">21.15</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 378",
+			"library": "itextpdf",
+			"name": "extract text",
+			"name_data": "<p><strong>text</strong> -> extract </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfTextExtractor.GetTextFromPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">65.12</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfTextExtractor.getTextFromPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">46.51</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">StreamUtil.AddToResourceSearch</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">13.95</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 379",
+			"library": "itextpdf",
+			"name": "add font,set font,apply font,apply content,exist content",
+			"name_data": "<p><strong>font</strong> -> (add,set,apply) <strong>content</strong> -> (apply,exist) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.setAlignment</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 380",
+			"library": "itextpdf",
+			"name": "get text",
+			"name_data": "<p><strong>text</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">43.05</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Phrase.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.11</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 382",
+			"library": "itextpdf",
+			"name": "use pdf",
+			"name_data": "<p><strong>pdf</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PRStream.put</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">83.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getPdfObject</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getXrefSize</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PRStream.Put</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 383",
+			"library": "itextpdf",
+			"name": "have field",
+			"name_data": "<p><strong>field</strong> -> have </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getAcroFields</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">80</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 384",
+			"library": "itextpdf",
+			"name": "use font,embed font,support font,create font,embed text",
+			"name_data": "<p><strong>font</strong> -> (use,embed,support,create) <strong>text</strong> -> embed </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.createFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.02</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.CreateFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">28.09</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 385",
+			"library": "itextpdf",
+			"name": "set width",
+			"name_data": "<p><strong>width</strong> -> set </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfAnnotation.setColor</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfAnnotation.createStamp</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 387",
+			"library": "itextpdf",
+			"name": "add image",
+			"name_data": "<p><strong>image</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Image.setAbsolutePosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">57.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 388",
+			"library": "itextpdf",
+			"name": "add page",
+			"name_data": "<p><strong>page</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DocWriter.getISOBytes</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ByteBuffer.append</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 390",
+			"library": "itextpdf",
+			"name": "encode base64,encode string,encode image",
+			"name_data": "<p><strong>base64</strong> -> encode <strong>string</strong> -> encode <strong>image</strong> -> encode </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paths.get</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 391",
+			"library": "itextpdf",
+			"name": "create cell",
+			"name_data": "<p><strong>cell</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.addElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">90</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.AddElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">40</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">StyleSheet.LoadTagStyle</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">30</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 393",
+			"library": "itextpdf",
+			"name": "use font,have font,know font,draw font,support font",
+			"name_data": "<p><strong>font</strong> -> (use,have,know,draw,support) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.createFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">81.82</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.Add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.CreateFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Font.FontFamily.TIMES_ROMAN.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 394",
+			"library": "itextpdf",
+			"name": "expect reference,refer reference,show reference,resolve reference",
+			"name_data": "<p><strong>reference</strong> -> (expect,refer,show,resolve) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.addElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setHorizontalAlignment</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 397",
+			"library": "itextpdf",
+			"name": "associate page,stamp page",
+			"name_data": "<p><strong>page</strong> -> (associate,stamp) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.go</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ColumnText.setSimpleColumn</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 398",
+			"library": "itextpdf",
+			"name": "fill field,add object,fill concept,add creation,add manipulation",
+			"name_data": "<p><strong>field</strong> -> fill <strong>object</strong> -> add <strong>concept</strong> -> fill <strong>creation</strong> -> add <strong>manipulation</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">MessageLocalization.getComposedMessage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">MessageLocalization.GetComposedMessage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 399",
+			"library": "itextpdf",
+			"name": "set value,set pdf,set action,set setappearance,set widget",
+			"name_data": "<p><strong>value</strong> -> set <strong>pdf</strong> -> set <strong>action</strong> -> set <strong>setappearance</strong> -> set <strong>widget</strong> -> set </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">AcroFields.SetField</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">AcroFields.setField</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">40</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 400",
+			"library": "itextpdf",
+			"name": "check annotation,ask annotation,find annotation,refer annotation,examine annotation",
+			"name_data": "<p><strong>annotation</strong> -> (check,ask,find,refer,examine) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getStreamBytes</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getPdfObject</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 401",
+			"library": "itextpdf",
+			"name": "use property",
+			"name_data": "<p><strong>property</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.setTextAlignment</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">80</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 402",
+			"library": "itextpdf",
+			"name": "have bookmark,convert bookmark,read bookmark",
+			"name_data": "<p><strong>bookmark</strong> -> (have,convert,read) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">SimpleBookmark.getBookmark</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">SimpleBookmark.GetBookmark</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">37.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Path.GetFileName</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">12.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 403",
+			"library": "itextpdf",
+			"name": "create pdf",
+			"name_data": "<p><strong>pdf</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.addCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setBorder</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.setWidths</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.writeSelectedRows</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.getDefaultCell.setFixedHeight</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.setTotalWidth</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 404",
+			"library": "itextpdf",
+			"name": "add signature,apply signature",
+			"name_data": "<p><strong>signature</strong> -> (add,apply) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.createSignature</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">91.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.CreateSignature</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfFormField.setAdditionalAction</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">41.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 405",
+			"library": "itextpdf",
+			"name": "create text,create solution,create chunk,create tabbing,create space",
+			"name_data": "<p><strong>text</strong> -> create <strong>solution</strong> -> create <strong>chunk</strong> -> create <strong>tabbing</strong> -> create <strong>space</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.setHorizontalAlignment</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 406",
+			"library": "itextpdf",
+			"name": "add table,use table",
+			"name_data": "<p><strong>table</strong> -> (add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.addCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.Add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">83.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.AddCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">72.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPCell.addElement</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">List.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">38.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 407",
+			"library": "itextpdf",
+			"name": "rotate page,resize page,insert page,have page,retrieve method",
+			"name_data": "<p><strong>page</strong> -> (rotate,resize,insert,have) <strong>method</strong> -> retrieve </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">80</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 408",
+			"library": "itextpdf",
+			"name": "perform client,work client,write client,perform step,follow step",
+			"name_data": "<p><strong>client</strong> -> (perform,work,write) <strong>step</strong> -> (perform,follow) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.setKeepTogether</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 409",
+			"library": "itextpdf",
+			"name": "associate folder,share folder,associate file,extract file,specify file",
+			"name_data": "<p><strong>folder</strong> -> (associate,share) <strong>file</strong> -> (associate,extract,specify) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfDictionary.getAsDict</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 410",
+			"library": "itextpdf",
+			"name": "provide version",
+			"name_data": "<p><strong>version</strong> -> provide </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getNumberOfPages</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfTextExtractor.getTextFromPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">62.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 411",
+			"library": "itextpdf",
+			"name": "identify line,extract line,check line,be line,overlap line",
+			"name_data": "<p><strong>line</strong> -> (identify,extract,check,be,overlap) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">List.size</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">List.get</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 412",
+			"library": "itextpdf",
+			"name": "get dictionary,use dictionary,need dictionary,have dictionary,define dictionary",
+			"name_data": "<p><strong>dictionary</strong> -> (get,use,need,have,define) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfDictionary.getAsDict</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 413",
+			"library": "itextpdf",
+			"name": "add image",
+			"name_data": "<p><strong>image</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.SetColorFill</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">90</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 414",
+			"library": "itextpdf",
+			"name": "sign pdf,write pdf",
+			"name_data": "<p><strong>pdf</strong> -> (sign,write) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.setFormFlattening</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 415",
+			"library": "itextpdf",
+			"name": "embed subset,embed i,embed text,embed font,embed encoding",
+			"name_data": "<p><strong>subset</strong> -> embed <strong>i</strong> -> embed <strong>text</strong> -> embed <strong>font</strong> -> embed <strong>encoding</strong> -> embed </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.GetFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.CreateFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.getFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BaseFont.createFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 416",
+			"library": "itextpdf",
+			"name": "show box,assume box,be box,add box",
+			"name_data": "<p><strong>box</strong> -> (show,assume,be,add) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfTemplate.addImage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 417",
+			"library": "itextpdf",
+			"name": "draw line,use line,create line,be line,say line",
+			"name_data": "<p><strong>line</strong> -> (draw,use,create,be,say) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.lineTo</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.moveTo</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.stroke</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">70.59</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 418",
+			"library": "itextpdf",
+			"name": "add page",
+			"name_data": "<p><strong>page</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.GetPageSize.Height</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">37.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 419",
+			"library": "itextpdf",
+			"name": "create destination,name destination,add destination,use destination,specify destination",
+			"name_data": "<p><strong>destination</strong> -> (create,name,add,use,specify) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfAction.gotoLocalPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfAction.GotoLocalPage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">55.56</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 420",
+			"library": "itextpdf",
+			"name": "add table,use table",
+			"name_data": "<p><strong>table</strong> -> (add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfPTable.writeSelectedRows</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 421",
+			"library": "itextpdf",
+			"name": "use text,create text,colorize text,want text,ask text",
+			"name_data": "<p><strong>text</strong> -> (use,create,colorize,want,ask) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Logger.info</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfReader.getPdfObject</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStream.setData</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 422",
+			"library": "itextpdf",
+			"name": "show text",
+			"name_data": "<p><strong>text</strong> -> show </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfStamper.GetOverContent.AddTemplate</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">57.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 423",
+			"library": "itextpdf",
+			"name": "use service",
+			"name_data": "<p><strong>service</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfArray.getAsString</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfDictionary.getAsString</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 424",
+			"library": "itextpdf",
+			"name": "sign attribute,sign hash,claim time,sign byte,be byte",
+			"name_data": "<p><strong>attribute</strong> -> sign <strong>hash</strong> -> sign <strong>time</strong> -> claim <strong>byte</strong> -> (sign,be) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DigestAlgorithms.Digest</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 425",
+			"library": "itextpdf",
+			"name": "get answer,be answer,want answer,have answer",
+			"name_data": "<p><strong>answer</strong> -> (get,be,want,have) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfFormField.SetValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 426",
+			"library": "itextpdf",
+			"name": "contain signature,result signature,satisfy signature,work signature,use signature",
+			"name_data": "<p><strong>signature</strong> -> (contain,result,satisfy,work,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">MakeSignature.signDetached</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfSignatureAppearance.setVisibleSignature</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfSignatureAppearance.setLocation</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfSignatureAppearance.setReason</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.89</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 427",
+			"library": "itextpdf",
+			"name": "name destination,use destination,define destination",
+			"name_data": "<p><strong>destination</strong> -> (name,use,define) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.setFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">22.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Paragraph.setMarginBottom</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">22.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 428",
+			"library": "itextpdf",
+			"name": "fit field,fit font,fit need,fit string,fit line",
+			"name_data": "<p><strong>field</strong> -> fit <strong>font</strong> -> fit <strong>need</strong> -> fit <strong>string</strong> -> fit <strong>line</strong> -> fit </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">List.iterator</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">80</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 429",
+			"library": "itextpdf",
+			"name": "implement my,implement image,implement render,implement listener,implement interface",
+			"name_data": "<p><strong>my</strong> -> implement <strong>image</strong> -> implement <strong>render</strong> -> implement <strong>listener</strong> -> implement <strong>interface</strong> -> implement </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DocumentException.printStackTrace</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 430",
+			"library": "itextpdf",
+			"name": "get image",
+			"name_data": "<p><strong>image</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ImageRenderInfo.getImage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BarcodeQRCode.getImage</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ImageRenderInfo.getImageCtm.get</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 431",
+			"library": "itextpdf",
+			"name": "use document,create document",
+			"name_data": "<p><strong>document</strong> -> (use,create) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PdfContentByte.addTemplate</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 432",
+			"library": "itextpdf",
+			"name": "add snippet,have snippet",
+			"name_data": "<p><strong>snippet</strong> -> (add,have) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontSelector.process</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontSelector.addFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">FontFactory.getFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Font.setColor</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 433",
+			"library": "itextpdf",
+			"name": "scale image,use image,import image,write image,open image",
+			"name_data": "<p><strong>image</strong> -> (scale,use,import,write,open) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">AffineTransform.scale</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		}
+	]
+}

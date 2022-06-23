@@ -1,0 +1,20 @@
+{
+	"body": [
+		{
+			"title": "Feature 343",
+			"library": "pdfbox",
+			"name": "get error",
+			"name_data": "<p><strong>error</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDFTextStripper.getText</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">95.24</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDDocument.load</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">95.24</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDFTextStripper.setSortByPosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">19.05</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDFTextStripperByArea.setSortByPosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">19.05</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDDocument.isEncrypted</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">19.05</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PDDocument.getClass</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">19.05</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 75",
+			"library": "httpclient",
+			"name": "get error",
+			"name_data": "<p><strong>error</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">SchemeRegistry.register</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+	]
+}

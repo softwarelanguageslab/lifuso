@@ -1,0 +1,945 @@
+java.lang.IllegalStateException: Cannot read while there is an open stream writer-->https://stackoverflow.com/questions/39349813
+Create mutli-page document dynamically using PDFBox-->https://stackoverflow.com/questions/22022508
+How can I create fixed-width paragraphs with PDFbox?-->https://stackoverflow.com/questions/14107244
+How to center a text using PDFBox-->https://stackoverflow.com/questions/6531362
+Java: Create PDF pages from images using PDFBox library-->https://stackoverflow.com/questions/23409518
+Watermarking with PDFBox-->https://stackoverflow.com/questions/9382212
+Rotate PDF around its center using PDFBox in java-->https://stackoverflow.com/questions/40630514
+How to get raw text from pdf file using java-->https://stackoverflow.com/questions/18101544
+I am using pdfbox-app-2.0.0-RC3 but still I am getting Error while using RndomAccessFile in PDF parser-->https://stackoverflow.com/questions/36521028
+Java close PDF error-->https://stackoverflow.com/questions/4968514
+How to find pdf is portrait or landscape using PDFBOX Library in Java-->https://stackoverflow.com/questions/38921859
+how to add unicode in truetype0font on pdfbox 2.0.0?-->https://stackoverflow.com/questions/39644941
+PDFBox converting inches or centimeters into the coordinate system-->https://stackoverflow.com/questions/21523407
+pdfbox: how to clone a page-->https://stackoverflow.com/questions/20094626
+Form field values set with PDFBOX not visible in Adobe Reader-->https://stackoverflow.com/questions/24187719
+Java PDFBox setting custom font for a few fields in PDF Form-->https://stackoverflow.com/questions/30248927
+Create pdf and merge with pdfbox-->https://stackoverflow.com/questions/13808251
+PDFBox v2 write PNG image to PDF file, getting empty file-->https://stackoverflow.com/questions/35398054
+PDFBox PDFTextStripperByArea region coordinates-->https://stackoverflow.com/questions/11501041
+How to extract font styles of text contents using pdfbox?-->https://stackoverflow.com/questions/9538281
+PdfBox encode symbol currency euro-->https://stackoverflow.com/questions/22274334
+PDF form fill with PDFBox doesn't work-->https://stackoverflow.com/questions/21564812
+How to merge two PDF files into one in Java?-->https://stackoverflow.com/questions/4874334
+Get font of each line using PDFBox-->https://stackoverflow.com/questions/25290318
+PDFBox: working with very large PDFs.-->https://stackoverflow.com/questions/38859566
+How to draw a filled rectangle in PDFBox?-->https://stackoverflow.com/questions/34225371
+How to Insert a Linefeed with PDFBox drawString-->https://stackoverflow.com/questions/15205956
+Calculation String-Width in PDFbox seems only to count characters?-->https://stackoverflow.com/questions/14997136
+Reading a particular page from a PDF document using PDFBox-->https://stackoverflow.com/questions/11477790
+extract images from pdf using pdfbox-->https://stackoverflow.com/questions/37664125
+Java pdfBox: Fill out pdf form, append it to pddocument, and repeat-->https://stackoverflow.com/questions/29417945
+How to generate multiple lines in PDF using Apache pdfbox-->https://stackoverflow.com/questions/19683618
+extract images from pdf using pdfbox-->https://stackoverflow.com/questions/21301313
+Merge document with PDFMergerUtility in pdfbox 2.00-->https://stackoverflow.com/questions/35912555
+How to extract fonts from PDDocument in PDFBox 2.0.2-->https://stackoverflow.com/questions/46211301
+Apache PDFBox Java library - Is there an API for creating tables?-->https://stackoverflow.com/questions/3872839
+PDFBOX Same Stream with bold and normal text-->https://stackoverflow.com/questions/21573253
+read text from a particular page using PDFBox-->https://stackoverflow.com/questions/15689797
+Using PDFBox to get location of line of text-->https://stackoverflow.com/questions/33027322
+Scaled image blurry in PDFBox-->https://stackoverflow.com/questions/23224766
+Convert PDF files to images with PDFBox-->https://stackoverflow.com/questions/23327024
+How to extract text from a PDF file with Apache PDFBox-->https://stackoverflow.com/questions/38806828
+Convert a PDF file to image-->https://stackoverflow.com/questions/21071761
+How to extract text from a PDF file with Apache PDFBox-->https://stackoverflow.com/questions/23814989
+Reading a particular page from a PDF document using PDFBox-->https://stackoverflow.com/questions/6839835
+Creating a new PDF document using PDFBOX API-->https://stackoverflow.com/questions/18781173
+How can I create an accessible PDF with Java PDFBox 2.0.8 library that is also verifiable with PAC 2 tool?-->https://stackoverflow.com/questions/49888359
+Problem for rotate several shapes with PDFBox-->https://stackoverflow.com/questions/58284100
+PDF Automation using URL that's a continuation from what is already opened-->https://stackoverflow.com/questions/33777943
+Converting PDF to multipage tiff (Group 4)-->https://stackoverflow.com/questions/57732968
+PDFBox - how to create table of contents-->https://stackoverflow.com/questions/27986248
+Java PDFBox, how to get File object from PDDocument-->https://stackoverflow.com/questions/16892787
+Comparing PDF's with different timestamps in footer for equality using Apache PDFBox-->https://stackoverflow.com/questions/14695778
+getting my arrraylist into a pdf file with java-->https://stackoverflow.com/questions/42251961
+Java - Merge multiple images to a single PDF using PDFBox-->https://stackoverflow.com/questions/62027895
+How to identitfy tables, images and list in pdf file using java?-->https://stackoverflow.com/questions/26094085
+How to extract text to JLabel using PDFBox-->https://stackoverflow.com/questions/20699682
+How to set print setup properties on Existing Document with Apache PDFBox-->https://stackoverflow.com/questions/17983421
+Apache pdfbox claims that PDF documents are encrypted (but they are not!) - fix?-->https://stackoverflow.com/questions/53950287
+Text coordinates when stripping from PDFBox-->https://stackoverflow.com/questions/57104945
+How to merge PDF elements with Java-->https://stackoverflow.com/questions/54596143
+PDFBox and chinese characters-->https://stackoverflow.com/questions/50291748
+Lucene for Java with PDFBox getting a nullpointer exception-->https://stackoverflow.com/questions/26400881
+I need to convert PDDocument to File Object-->https://stackoverflow.com/questions/39202985
+How to add text watermark to pdf in Java using Apache PDFBox?-->https://stackoverflow.com/questions/39712758
+Create pdf file from ArrayList<String> using pdfbox in JAVA-->https://stackoverflow.com/questions/57519853
+Mispositioned textboxes in Reading doc, pdf files using Apache POI and Apache PDFBox-->https://stackoverflow.com/questions/51577370
+java.io.IOException: COSStream has been closed and cannot be read. Perhaps its enclosing PDDocument has been closed?-->https://stackoverflow.com/questions/61747563
+PDFBox - How to change encoding from WinAnsiEncoding to Unicode?-->https://stackoverflow.com/questions/58697041
+how can I write java code with syntax highlighting using pdfbox-->https://stackoverflow.com/questions/32703594
+Extract Image from PDF using Java-->https://stackoverflow.com/questions/63399933
+Getting decryption error while extracting data from pdf by selenium webdriver-->https://stackoverflow.com/questions/30477668
+How to achieve a web browser like pdf rendering in java?-->https://stackoverflow.com/questions/57264377
+How to encrypt a merged pdfdocument properly-->https://stackoverflow.com/questions/54884141
+How to extract fonts from PDDocument in PDFBox 2.0.2-->https://stackoverflow.com/questions/61722951
+Tiff image files are blank while converting pdf to tiff using PDFbox-->https://stackoverflow.com/questions/34665099
+How to add /D[0/Fit] command to pdf using PDActionRemoteGoTo class in pdfbox?-->https://stackoverflow.com/questions/47013315
+Creating CRUD a Multi-section PDF Document using PDFBox (PDF Generation) and Maintaining in MongoDB-->https://stackoverflow.com/questions/38128245
+How to generate PKCS#7 signature from digest?-->https://stackoverflow.com/questions/52763251
+Read PDF content in Android using Apache PDFBox-->https://stackoverflow.com/questions/57058167
+PDFTextStripper: Last letter positioned before first letter-->https://stackoverflow.com/questions/57152537
+How to print `Non-breaking space` to a pdf using apache pdf box?-->https://stackoverflow.com/questions/47945723
+PdfBox-Android adding page text overlay-->https://stackoverflow.com/questions/34653658
+Text extraction from PDF using PDFBox 2.0-->https://stackoverflow.com/questions/43945040
+Image in PDF generated with PDFBox disappears when file is moved from local machine-->https://stackoverflow.com/questions/36923777
+Using PDFbox to determine the coordinates of words in a document-->https://stackoverflow.com/questions/55661504
+PDF signing by PDFBox with Lock-->https://stackoverflow.com/questions/54614443
+Signing an encrypted PDF document with PDFBox 2.0.0-->https://stackoverflow.com/questions/34403363
+java apache.pdfbox SetTextHorizontalScaling-->https://stackoverflow.com/questions/43339583
+JAVA pdfbox PDF to very simple HTML-->https://stackoverflow.com/questions/32456599
+PDFBox: COSStream has been closed and cannot be read. Adding PDF File to PDF. And Review-->https://stackoverflow.com/questions/63701517
+Drawing glyph from ZapfDingbats using PDFbox-->https://stackoverflow.com/questions/36314395
+Using pdfbox - how to get the font from a COSName?-->https://stackoverflow.com/questions/52574525
+Apache PDFBox - PAGE LENGTH-->https://stackoverflow.com/questions/52194590
+Pdfbox split PDF in multi files with different page Ranges and Filenames-->https://stackoverflow.com/questions/57655152
+how to count the number of alphabet in a pdf file in java-->https://stackoverflow.com/questions/53442579
+How do I store meta data in pdf which can only be edited by my application?-->https://stackoverflow.com/questions/43316650
+Not able to override PDFTextStripper.writeString(String text, List<TextPosition> textPositions) method using c#?-->https://stackoverflow.com/questions/42129968
+Text associated to PDF paragraph in document content object wit PDFBox-->https://stackoverflow.com/questions/51900503
+PDF Box generating blank images due to JBIG2 Images in it-->https://stackoverflow.com/questions/42911997
+PDFBox 2.0.3 - Image Coordinates returned from PrintImageLocations.java not as expected-->https://stackoverflow.com/questions/52728833
+List pdf Attachments using PDFBox (Java)-->https://stackoverflow.com/questions/36161267
+Error when try to run pdfbox programm-->https://stackoverflow.com/questions/32205041
+pdfbox convert pdf to image byte[]-->https://stackoverflow.com/questions/21124124
+How to split a pdf into multiple pages in a single pdf using PDFBOX-->https://stackoverflow.com/questions/60594205
+PDFBox - PageDrawer draws outside the PdfPagePanel-->https://stackoverflow.com/questions/20708617
+When I extract spanish text from a PDF with PDFBox, accents are changed by "strange" characters-->https://stackoverflow.com/questions/55130752
+Search texts and get position in pdf with java-->https://stackoverflow.com/questions/62819363
+Not able to read individual page using PDFTextStripper with multiple threads-->https://stackoverflow.com/questions/58669629
+Accessing "alternate text" for an image via PDFBox-->https://stackoverflow.com/questions/12557302
+comment or highlight two-column pdf using pdf-clown-->https://stackoverflow.com/questions/22794280
+List pdf Attachments using PDFBox (Java)-->https://stackoverflow.com/questions/36285275
+Creating file with PDFBox and downloading it [SOLVED]-->https://stackoverflow.com/questions/63530509
+PDFBox: extracting images from pdf to inputstream-->https://stackoverflow.com/questions/37732290
+Extract all text with string positions from a PDF-->https://stackoverflow.com/questions/60412498
+Apache PDFBox - Adobe Acrobat prompts saving-->https://stackoverflow.com/questions/61801068
+PDFBox: Unable to save pdf while running on tomcat-->https://stackoverflow.com/questions/44912226
+How to read pdf line by line-->https://stackoverflow.com/questions/54303236
+Font problem with renderImage function pdfbox-->https://stackoverflow.com/questions/59254790
+PDFBox not printing text-->https://stackoverflow.com/questions/37109212
+PDFBox True Type font bold-->https://stackoverflow.com/questions/52620826
+How to sanitise a string before printing it to PDF with PDFBox-->https://stackoverflow.com/questions/42479831
+PDFbox saying PDDocument closed when its not-->https://stackoverflow.com/questions/61299092
+PDFBox 2.0 : First letter of some words are not visible when extracting text-->https://stackoverflow.com/questions/48746632
+How to add time stamp with pdfbox and TimeStampToken-->https://stackoverflow.com/questions/41738203
+highlight text using pdfbox when it's location in the pdf is known-->https://stackoverflow.com/questions/58078268
+PDFBOX: Indexing using pdfbox-->https://stackoverflow.com/questions/54703321
+How to keep both text layout format and text font from PDF?-->https://stackoverflow.com/questions/58053390
+I can't delete file, after pdfBox-->https://stackoverflow.com/questions/57090691
+PDFBox - How to change encoding from WinAnsiEncoding to Unicode?-->https://stackoverflow.com/questions/54104850
+PDFBOX Same Stream with bold and normal text-->https://stackoverflow.com/questions/60485731
+How to get raw text from pdf file using java-->https://stackoverflow.com/questions/47774936
+where is certificate chain in PDF-->https://stackoverflow.com/questions/53351341
+PDFBox xmpMetadata in C#-->https://stackoverflow.com/questions/50111116
+Splitting at a specific point in PDFBox-->https://stackoverflow.com/questions/30654469
+Extract text word by word from .pdf file using pdfbox-->https://stackoverflow.com/questions/32250018
+get number of pages from PDF in android code-->https://stackoverflow.com/questions/45622504
+Get correct (rotated) image dimensions in PDF with pdfbox-->https://stackoverflow.com/questions/41396145
+Using PDFBox to remove Optional Content Groups that are not enabled-->https://stackoverflow.com/questions/49586520
+Image replacement using PDFBox does not change size of pdf according to image-->https://stackoverflow.com/questions/51597050
+Which unit of measurement is returned by the PDFBox's getXDirAdj() method-->https://stackoverflow.com/questions/62912373
+How to calculate the coordinates of every vertex of retrieved pdf image-->https://stackoverflow.com/questions/55732179
+How do you track the location of PDPageContentStream's text output?-->https://stackoverflow.com/questions/57014482
+Why are special characters not drawn properly?-->https://stackoverflow.com/questions/31219164
+how to add background image to PDF using PDFBox?-->https://stackoverflow.com/questions/58487369
+PDFBox - Issue with generating PDF from a image-->https://stackoverflow.com/questions/58956999
+How to extract text from a PDF file with Apache PDFBox-->https://stackoverflow.com/questions/46211428
+Removing watermark from pdf generated from MS-WORD-->https://stackoverflow.com/questions/62339051
+Change PDFbox font of field text-->https://stackoverflow.com/questions/54704762
+How to extract parameter from pdf file using java code & pdfbox-->https://stackoverflow.com/questions/51134229
+PDFBox image size issues-->https://stackoverflow.com/questions/51311077
+Insufficient Data For An Image (PDF File Generation)-->https://stackoverflow.com/questions/63265241
+How to print PDF with cropped printer's hard margins instead of shift?-->https://stackoverflow.com/questions/55666933
+How to import an XFDF into an PDF with Apache pdfbox 2.0-->https://stackoverflow.com/questions/36861916
+How to exactly position an Image inside an existing PDF page using PDFBox?-->https://stackoverflow.com/questions/50693389
+insert a NULL character with PDFBox-->https://stackoverflow.com/questions/18192305
+How to translate x, y origin of a PDPage?-->https://stackoverflow.com/questions/20719113
+How to get the current Page Number from PDF form using PDFBOX?-->https://stackoverflow.com/questions/14831829
+Embed fonts for flattend PDF form with PDFBox-->https://stackoverflow.com/questions/63373302
+Using PDFbox to determine the coordinates of words in a document-->https://stackoverflow.com/questions/60264157
+Get font properties of pdf text with pdfbox-->https://stackoverflow.com/questions/10736603
+Workaround for PDFBox PDTrueTypeFont bad /widths bug?-->https://stackoverflow.com/questions/6103998
+How to determine artificial bold style ,artificial italic style and artificial outline style of a text using PDFBOX-->https://stackoverflow.com/questions/26996067
+PDFBox - Rectangle with gradient-->https://stackoverflow.com/questions/42302969
+Image not displaying (but loading) in PDF generation using resource stream-->https://stackoverflow.com/questions/40489413
+Scala PDFBox error in code-->https://stackoverflow.com/questions/37289009
+Apache PDFBox Renders Straight Line Crooked in PNG-->https://stackoverflow.com/questions/54694845
+pdfbox wrap text-->https://stackoverflow.com/questions/24060879
+I can't get embed a color space in a pdf for Pdf/A creation-->https://stackoverflow.com/questions/57144936
+PDFBox: How to print pdf with specified printer?-->https://stackoverflow.com/questions/51293371
+Creating a gradient in background with PDFBox-->https://stackoverflow.com/questions/60235561
+Changing page zoom of an existing pdf with PDFBox-->https://stackoverflow.com/questions/39475223
+How can I get PDVisibleSigProperties to write the signature on the 3 page into the signature box-->https://stackoverflow.com/questions/31587673
+Get page index of pdf page containing digital signature-->https://stackoverflow.com/questions/51534615
+How to get the Radio button values from PDF form using PDFbox (C#)-->https://stackoverflow.com/questions/14935039
+Get line coordinates of pdf using PDFBox java-->https://stackoverflow.com/questions/50890560
+How to get particular position words in pdf using pdfbox in c# .net-->https://stackoverflow.com/questions/57769480
+PDFBox - document is empty after loading-->https://stackoverflow.com/questions/32200148
+how to get image from pdf using pdfbox in c# .net-->https://stackoverflow.com/questions/57889664
+Removing watermark from pdf generated from MS-WORD-->https://stackoverflow.com/questions/40083470
+How to get the pagenumber of the content of a bookmark in a PDF with PDFBox-->https://stackoverflow.com/questions/62359495
+PDFBox U+00A0 is not available in this font's encoding-->https://stackoverflow.com/questions/56293796
+Error when try to run pdfbox programm-->https://stackoverflow.com/questions/19061231
+How do I find which image field in PDF has image inserted and which one has no images attached using PDFbox 1.8.11?-->https://stackoverflow.com/questions/57099035
+Unable to read a PDF file using PDFBOX-->https://stackoverflow.com/questions/48262799
+PDFBox inserting data into multi-page doc-->https://stackoverflow.com/questions/40234691
+PDFBox - convert image to PDF, PDF resolution-->https://stackoverflow.com/questions/47995684
+How to heal inconsistent parent tree mappings in a PDF created by pdfBox-->https://stackoverflow.com/questions/59397177
+PDFBox does not write the message I want into the page-->https://stackoverflow.com/questions/53276272
+How to set the PDDocument as pageable in PDFBox 2.0.0?-->https://stackoverflow.com/questions/21714214
+Using PDFBox to remove Optional Content Groups that are not enabled-->https://stackoverflow.com/questions/63491897
+PdfBox: PDFMergerUtility How to reuse the object?-->https://stackoverflow.com/questions/14467401
+Extract Multiple Embedded Images from a single PDF Page using PDFBox-->https://stackoverflow.com/questions/63399858
+Text is missing when converting pdf file into image in java using pdfbox-->https://stackoverflow.com/questions/50173088
+PDFBox - print encrypted file-->https://stackoverflow.com/questions/36500066
+How to make PDF show filename instead of title using program?-->https://stackoverflow.com/questions/60180819
+Creating a new PDF document using PDFBOX API-->https://stackoverflow.com/questions/51813546
+How do I add relative hyperlinks to a group of pdf files using pdfbox?-->https://stackoverflow.com/questions/42130022
+PDFBox unable to generate images from a PDF file pages-->https://stackoverflow.com/questions/60765381
+Moving from PDFBox 1.x to PDFBox 2-->https://stackoverflow.com/questions/40160838
+error with PDFBox in servlets-->https://stackoverflow.com/questions/44912368
+PDFBox (2.1.0): When printed from IE11, transparent text watermark has opaque background-->https://stackoverflow.com/questions/40291739
+Line numbering in PDFBox-->https://stackoverflow.com/questions/58200539
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/62544596
+How to add Code128 Barcode image to existing pdf using pdfbox(1.8.12) with barcode4j library?-->https://stackoverflow.com/questions/38207444
+What is the equivalent of PDFTextStripper in pdfbox snapshot 2.0-->https://stackoverflow.com/questions/31113061
+Watermarking with PDFBox-->https://stackoverflow.com/questions/62544791
+Create pdf and merge with pdfbox-->https://stackoverflow.com/questions/58463654
+How to fill PDF textbox annotations-->https://stackoverflow.com/questions/63510992
+For Loop is slow - Java-->https://stackoverflow.com/questions/53665657
+How to insert barcode in PDF using PDFBox 2.0.13?-->https://stackoverflow.com/questions/54647765
+Fastest way to count PDF images using PDFBox 2.x-->https://stackoverflow.com/questions/38485185
+Hierarchical Bookmark Generation in PDF using PDFBox library-->https://stackoverflow.com/questions/30695726
+How to draw a string at a specific position on a pdf page in java using pdfbox?-->https://stackoverflow.com/questions/25029157
+NoClassDefFoundError on adding image to a pdf page in PDFBox Android-->https://stackoverflow.com/questions/41321783
+Get Coordinates and write on them-->https://stackoverflow.com/questions/60207185
+How to extract font styles of text contents using pdfbox?-->https://stackoverflow.com/questions/7021461
+How to remove headers and footer from pdf file using pdfbox in java-->https://stackoverflow.com/questions/51785599
+Memory leaks/spike while parsing pdf images to be sent to ftp-->https://stackoverflow.com/questions/62651792
+How to exactly position an Image inside an existing PDF page using PDFBox?-->https://stackoverflow.com/questions/63518094
+How to extract font styles of text contents using pdfbox?-->https://stackoverflow.com/questions/51420575
+PDF Document is only half in width when converted a png image to pdf using PDFBox-->https://stackoverflow.com/questions/22318741
+PDFBox outputs question marks instead of some Japanese characters-->https://stackoverflow.com/questions/50291810
+How to replace centered text in a PDF with PDFBox-->https://stackoverflow.com/questions/22047963
+How to create PageDrawer instance in PDFBox 2.0?-->https://stackoverflow.com/questions/37331857
+What is the correct way to deep clone PDPage?-->https://stackoverflow.com/questions/55607544
+Creating PDF push buttons with PDFBox 2.0.5 that shows/hides another button on the page. Only the last set created works properly-->https://stackoverflow.com/questions/62269253
+Error trying to show Spanish or French characters with PDFBOX-->https://stackoverflow.com/questions/32352118
+Use PDFBox to Merge Pages?-->https://stackoverflow.com/questions/19102138
+Getting negative DPI of a image in java-->https://stackoverflow.com/questions/36885470
+PdfBox fails to import page-->https://stackoverflow.com/questions/26421075
+Pdfbox split PDF in multi files with different page Ranges and Filenames-->https://stackoverflow.com/questions/51427063
+How to underlay a content stream with using PDPageContentStream?-->https://stackoverflow.com/questions/28505813
+Flattening PDF fields removes formatting-->https://stackoverflow.com/questions/55417182
+PDFBox: Remove a single field from PDF-->https://stackoverflow.com/questions/41125682
+How can I get bookmarks page number in a PDF file with Apache PdfBox?-->https://stackoverflow.com/questions/56737709
+Rename PDXObjectForm created in /Catalog-->https://stackoverflow.com/questions/17728403
+Editing existing pdf in Java-->https://stackoverflow.com/questions/25503615
+PDFBox extracting paragraphs-->https://stackoverflow.com/questions/27729145
+Copy-pasting text from generated PDF using PDFBox results in garbage-->https://stackoverflow.com/questions/47820354
+S3 file as input to PDFBox-->https://stackoverflow.com/questions/60385960
+PDFBox - Issue with generating PDF from a image-->https://stackoverflow.com/questions/33713082
+how to read conditional text from PDF?-->https://stackoverflow.com/questions/57644577
+How do I save all the pages of a PDDocument in seperate .pdf files?-->https://stackoverflow.com/questions/54863480
+How to Overlay two documents at run time-->https://stackoverflow.com/questions/32523267
+Reading checkbox value from pdf which converted from word-->https://stackoverflow.com/questions/57699193
+pdfbox getcharacterbyarticle() rendering the vector for last page-->https://stackoverflow.com/questions/50763875
+PDFBox 2.0.1 hangs rendering pdf page-->https://stackoverflow.com/questions/37728870
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/14517081
+pdf to .tiff conversion using java-->https://stackoverflow.com/questions/26975022
+PDFBox 2.0.7 Unable to set XFA-->https://stackoverflow.com/questions/47824529
+How to search some specific string or a word and there coordinates from a pdf document in java-->https://stackoverflow.com/questions/51651552
+Put a Button on PDF with PDFBox 2.x-->https://stackoverflow.com/questions/52810726
+Convert a PDF file to image-->https://stackoverflow.com/questions/21123998
+How to extract the nested bookmark which are under the header bookmark-->https://stackoverflow.com/questions/45013014
+pdfbox not rendering modified pdf file properly-->https://stackoverflow.com/questions/41561761
+PDFBOX : U+000A ('controlLF') is not available in this font Helvetica encoding: WinAnsiEncoding-->https://stackoverflow.com/questions/56947178
+Rendering generated png into JSF-->https://stackoverflow.com/questions/17896311
+How to extract fonts from PDDocument in PDFBox 2.0.2-->https://stackoverflow.com/questions/38370022
+PDFbox loading large files-->https://stackoverflow.com/questions/61347703
+Java PDFBox, how to get File object from PDDocument-->https://stackoverflow.com/questions/49729758
+Text extraction from PDF using PDFBox 2.0.2 missing class PDFTextStripper()-->https://stackoverflow.com/questions/38695475
+Could someone give me an example of how to extract coordinates for a 'word' using PDFBox-->https://stackoverflow.com/questions/62966618
+PdfBox encode symbol currency euro-->https://stackoverflow.com/questions/22376969
+Merge Pdf: Error: there was an error opening this document file cannot be opened because it has no pages-->https://stackoverflow.com/questions/45606176
+Java, edit pdf exist text with PDFBox-->https://stackoverflow.com/questions/52586830
+How to extract Font color using PDFBOX java?-->https://stackoverflow.com/questions/16106606
+How to underlay a content stream with using PDPageContentStream?-->https://stackoverflow.com/questions/28619285
+Extract Embedded files from pdf using pdfbox in .NET application-->https://stackoverflow.com/questions/17205332
+Java pdfbox file not being loaded-->https://stackoverflow.com/questions/41307100
+Strongname Signing IKVM PDFBox for Word Addin-->https://stackoverflow.com/questions/39569115
+Using pdfbox to convert a color PDF to a b/w tiff-->https://stackoverflow.com/questions/37039708
+Handle many unicode caracters with PDFBox-->https://stackoverflow.com/questions/62203330
+PDFBox Insert a PDF File as a Page into Another PDF file-->https://stackoverflow.com/questions/63588365
+replace string with unicode text in pdf file using PDFbox?-->https://stackoverflow.com/questions/50562967
+How to get the position of a field using pdfbox?-->https://stackoverflow.com/questions/14930171
+extracting names of the images embedded inside a pdf-->https://stackoverflow.com/questions/12315663
+Show formatted number and save double value-->https://stackoverflow.com/questions/42071023
+PDDocument can't add list of PDPage with addPage()-->https://stackoverflow.com/questions/30596184
+How to add blob image to pdf file?-->https://stackoverflow.com/questions/54763679
+create a one page PDF from two PDFs using PDFBOX-->https://stackoverflow.com/questions/47349671
+pdfbox merge pdf with form-->https://stackoverflow.com/questions/24386798
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/51273480
+Parsing PDF files (especially with tables) with PDFBox-->https://stackoverflow.com/questions/46211663
+How to select pdf page using bookmark in pdf box?-->https://stackoverflow.com/questions/44990933
+PDF files merge : remove blank at end of page. I am using PDFBox v2.0.13 to achieve that-->https://stackoverflow.com/questions/54652390
+Shapes drawn on an image is inverted when written into PDF file part 2-->https://stackoverflow.com/questions/57550933
+PDFBOX 1.8.9 Overlay two PDF documents: Layout pages with COSArray currently not supported-->https://stackoverflow.com/questions/31186349
+PDFBox omits form fields when page is cloned-->https://stackoverflow.com/questions/40107963
+PDFBox - read text from multiple PDFs and load it into multiple Text files-->https://stackoverflow.com/questions/52691170
+Removing screen reader data in PDF so Microsoft Edge can open it?-->https://stackoverflow.com/questions/40957044
+Attachments not showing up in pdf document - created using pdfbox-->https://stackoverflow.com/questions/44697358
+How to delete an optional content group alongwith its content from pdf using pdfbox?-->https://stackoverflow.com/questions/45083601
+SVG to PNG with Apache Batik then attach to PDF with PDFBox without saving images-->https://stackoverflow.com/questions/52914798
+Play Framework: how to deal with memory-intensive actions?-->https://stackoverflow.com/questions/60528644
+How to separate pdf based on given intervals-->https://stackoverflow.com/questions/58393962
+Remove ID field from PDF with Apache PDFBox-->https://stackoverflow.com/questions/24069701
+Strange combobox behavior in PDFBox-->https://stackoverflow.com/questions/42116208
+Highlight text using PDFbox-->https://stackoverflow.com/questions/51360799
+How to heal inconsistent parent tree mappings in a PDF created by pdfBox-->https://stackoverflow.com/questions/59410256
+Javafx-Image To PDF Conversion Displaying Half of the Image Using PDFBox-->https://stackoverflow.com/questions/52801768
+Parsing pdf with Kotlin using a Uri?-->https://stackoverflow.com/questions/63218571
+Make some characters as invisible from an existing PDF document by using PDFBox-->https://stackoverflow.com/questions/17817713
+PDFBox create PDF with screen-only content-->https://stackoverflow.com/questions/58770053
+Reading a particular page from a PDF document using PDFBox-->https://stackoverflow.com/questions/44859170
+PDFBox set field value doesn't work-->https://stackoverflow.com/questions/49055955
+Full text search engine with snapshots-->https://stackoverflow.com/questions/14572424
+Render Type3 font character as image using PDFBox-->https://stackoverflow.com/questions/42067713
+How to distinguish between two encrypted / secured PDF files-->https://stackoverflow.com/questions/31020561
+PDFBox - How to click a link in a PDF file to move to another page and underline specific text inside it?-->https://stackoverflow.com/questions/48883176
+How to underlay a content stream with using PDPageContentStream?-->https://stackoverflow.com/questions/43179966
+Not able to read the exact text highlighted across the lines-->https://stackoverflow.com/questions/38929436
+count images in pdf using pdfbox-->https://stackoverflow.com/questions/46217878
+PDFBOX : U+000A ('controlLF') is not available in this font Helvetica encoding: WinAnsiEncoding-->https://stackoverflow.com/questions/47731904
+PDFBox: Fill out a PDF with adding repeatively a one-page template containing a form-->https://stackoverflow.com/questions/50300009
+pdfBox: how to get signing name from signature field-->https://stackoverflow.com/questions/60200272
+Jpg with black background (or completely white) when extracted via PDFBox from a PDF file-->https://stackoverflow.com/questions/32381479
+Positioning A4 image as page inside PDF file using pdfbox-->https://stackoverflow.com/questions/56617714
+Read embedded pdf file in excel using Java-->https://stackoverflow.com/questions/18476991
+PDFBox creating Sound object with link/reference to external mp3 or wav file-->https://stackoverflow.com/questions/36753430
+Add spot color (direct tone) to a PDF-->https://stackoverflow.com/questions/58824182
+PDF parser text contains-->https://stackoverflow.com/questions/34918974
+How do I make modifications to existing layer(Optional Content Group) in pdf?-->https://stackoverflow.com/questions/43356673
+Get the image with PDFbox-->https://stackoverflow.com/questions/33120845
+How to get position of Radiobutton using PDFbox-->https://stackoverflow.com/questions/44632399
+How to get the glyphs of a pdf file using java/scala?-->https://stackoverflow.com/questions/50217455
+how to set hyperlink in content using pdfbox-->https://stackoverflow.com/questions/50189824
+Error when extract text from pdf file (java + pdfbox)-->https://stackoverflow.com/questions/49601534
+PDFBOX after adding PDAnnotationLinks file size is increased twice-->https://stackoverflow.com/questions/36201133
+PDFBox merge 2 pdf files side by side with java-->https://stackoverflow.com/questions/52689866
+Can't print anything using pdfbox-->https://stackoverflow.com/questions/14694385
+PDFBox Overlapped Text-->https://stackoverflow.com/questions/47034015
+Add form fields to a rotated page in pdfBox-->https://stackoverflow.com/questions/60814662
+Pdfbox how to extract font type and style from pdf-->https://stackoverflow.com/questions/26181775
+PDFBox: Remove text behind image-->https://stackoverflow.com/questions/53065236
+Not able to draw multiple semi circles using PDPageContentStream-->https://stackoverflow.com/questions/42649208
+PdfBox issue while changing page-->https://stackoverflow.com/questions/30801513
+PDFBox PDFTextStripperByArea region coordinates-->https://stackoverflow.com/questions/51785714
+extract PDF text by columns-->https://stackoverflow.com/questions/56017632
+Freehand Ink Drawing is not getting displayed in pdfbox-->https://stackoverflow.com/questions/51299365
+Letters from two lines are interchanged, Adobe Reader can do the job-->https://stackoverflow.com/questions/45596591
+Unable to merge streams with PDFBox-->https://stackoverflow.com/questions/45609232
+how to know if a field is on a particular page?-->https://stackoverflow.com/questions/60960043
+extract images from pdf using pdfbox-->https://stackoverflow.com/questions/63399731
+PDFBox - How to get the page index of a page by it's page-number-->https://stackoverflow.com/questions/49380219
+Converting PDF to multipage tiff (Group 4)-->https://stackoverflow.com/questions/57109440
+PDFBox 2.0 and TTC Fonts-->https://stackoverflow.com/questions/33241647
+PdfBox transform PDF with several pages to one Image JPG-->https://stackoverflow.com/questions/58031443
+Replace Inline Images in PDF with pdfbox-->https://stackoverflow.com/questions/56598982
+highlight text using pdfbox when it's location in the pdf is known-->https://stackoverflow.com/questions/48295386
+How to embed an standard font into generated PDF with PDFBox-->https://stackoverflow.com/questions/53819612
+Read paragraphs in order in PDFBox-->https://stackoverflow.com/questions/58873179
+how to create ProcSet - pdfbox. (Procedure Sets)-->https://stackoverflow.com/questions/17503395
+Using pdfbox how do I get a certain string on a line?-->https://stackoverflow.com/questions/34392630
+PDFBox on Mac critical error when silent printing-->https://stackoverflow.com/questions/38392458
+Text stripper stops and waits-->https://stackoverflow.com/questions/59246851
+Creating pdf document in memory-->https://stackoverflow.com/questions/45969706
+Create a watermark (pdf Optional Content) that shows only when printing using PDFBox-->https://stackoverflow.com/questions/53052371
+PDFBox: Convert Document to PDDocument-->https://stackoverflow.com/questions/26820598
+Using pdfbox in java to overlay text onto previously created pdf document-->https://stackoverflow.com/questions/43271111
+Apache PDFBOX - getting java.lang.OutOfMemoryError when using split(PDDocument document)-->https://stackoverflow.com/questions/38294575
+PDFBox text extraction with bold/italic info does not work on some files-->https://stackoverflow.com/questions/26573760
+get page number which contains particular word in pdf-->https://stackoverflow.com/questions/19560728
+Need help verifying a PDF exists from a URL-->https://stackoverflow.com/questions/56573040
+How do I extract viewport from a pdf and modify an annotation's bounding rectangle according to the viewport?-->https://stackoverflow.com/questions/47775519
+PDFBox 2.0.3 Set cropBox using TextPosition coordinates-->https://stackoverflow.com/questions/39703089
+PDFbox overlaped links at index document-->https://stackoverflow.com/questions/37616685
+How to read from PDF using Selenium webdriver and Java-->https://stackoverflow.com/questions/51172147
+Apache PDFBox - Difference among PDFont types-->https://stackoverflow.com/questions/56184169
+Java create link to page in PDF with PDFBox-->https://stackoverflow.com/questions/46156143
+Vbscript issue : executed vbscript with help of wrapper class-->https://stackoverflow.com/questions/15526017
+How to add a page number to the output pdf when merging two pdfs?-->https://stackoverflow.com/questions/59385369
+Does PDFBox Support Spot Colors and Separations?-->https://stackoverflow.com/questions/45230680
+Why do I get this error "java.io.IOException: Error: Header doesn't contain versioninfo" when using PDFBox?-->https://stackoverflow.com/questions/62800935
+PDFBox - PageDrawer draws outside the PdfPagePanel-->https://stackoverflow.com/questions/16545425
+Extract footer data of PDF in java-->https://stackoverflow.com/questions/26158401
+PDFBox locks JPEG input file until application exits-->https://stackoverflow.com/questions/34866672
+How to split a large PDF(document bundle) into chunks of pages using the index-->https://stackoverflow.com/questions/57572095
+how to count the number of alphabet in a pdf file in java-->https://stackoverflow.com/questions/53443570
+How to draw triangle in PDFBox-->https://stackoverflow.com/questions/32651916
+Remove Large Tokens from PDF using PDFBox or equivalent library-->https://stackoverflow.com/questions/61208854
+PDFBox PDFTextStripperByArea region coordinates-->https://stackoverflow.com/questions/9968641
+PDFBox "Symbolic fonts must have a built-in encoding" error when using PDFTextStripper.getText()-->https://stackoverflow.com/questions/38069514
+How to split a pdf into multiple pages in a single pdf using PDFBOX-->https://stackoverflow.com/questions/60594372
+SVG to PNG with Apache Batik then attach to PDF with PDFBox without saving images-->https://stackoverflow.com/questions/52890099
+PDFBox returns isEncrypted true even if i can open file-->https://stackoverflow.com/questions/54778649
+pdfbox document.save() compilation error-->https://stackoverflow.com/questions/43046766
+Convert a PDF with forms to a PDF with text only (preserve data) using iText-->https://stackoverflow.com/questions/28699432
+Courier Font in PdfBox?-->https://stackoverflow.com/questions/51660378
+Adding of filled circles to PDF page using Apache PDFBox-->https://stackoverflow.com/questions/42813670
+count images in pdf using pdfbox-->https://stackoverflow.com/questions/46712117
+PDF page size with wider image-->https://stackoverflow.com/questions/21750848
+How to get page content height using pdfbox-->https://stackoverflow.com/questions/28343958
+How to replace a string by an URL in PDFBOX?-->https://stackoverflow.com/questions/38246085
+Cannot open embedded hyperlink in PDF generated using PDFBox-->https://stackoverflow.com/questions/41795719
+PDFBox: How to print pdf with specified printer?-->https://stackoverflow.com/questions/38273494
+Java Pdf content to String-->https://stackoverflow.com/questions/49407557
+Font Awesome with pdfbox and boxable-->https://stackoverflow.com/questions/38025251
+PDFBox Freezes at Print() Command-->https://stackoverflow.com/questions/31951539
+Cannot read generated text of pdf file in Java-->https://stackoverflow.com/questions/56652546
+Reading CMYK colors for graphic vectors from PDF-->https://stackoverflow.com/questions/45589407
+PDFBox / Java: Printing to Paper:java.lang.NoClassDefFoundError: org/apache/commons/logging/LogFactory-->https://stackoverflow.com/questions/11999797
+pdfbox convert pdf to image byte[]-->https://stackoverflow.com/questions/41338847
+Text replace with Image in Apache PDFBOX-->https://stackoverflow.com/questions/33925754
+Wrong y,x coordinates for XObject Form Bounding Box - PDFBOX-->https://stackoverflow.com/questions/45151517
+Edit images in PDF file using COSStream object-->https://stackoverflow.com/questions/24174068
+Some glyph ID's missing while trying to extract glyph ID from pdf-->https://stackoverflow.com/questions/50679508
+PDFBox - Removing invisible text (by clip/filling paths issue)-->https://stackoverflow.com/questions/47911344
+Pdfbox split PDF in multi files with different page Ranges and Filenames-->https://stackoverflow.com/questions/60761994
+Read pdf uploadstream one page at a time with java-->https://stackoverflow.com/questions/45137817
+Java, edit pdf exist text with PDFBox-->https://stackoverflow.com/questions/28607129
+How to extract text from a PDF file with Apache PDFBox-->https://stackoverflow.com/questions/50678270
+Border around Images when making PDF in PDFBox-->https://stackoverflow.com/questions/26659374
+PDFbox, exception on fonts-->https://stackoverflow.com/questions/19940578
+How to merge 10000 pdf into one using pdfbox in most effective way-->https://stackoverflow.com/questions/38404515
+Setting image form field-->https://stackoverflow.com/questions/54091766
+Why does PDFBox return image dimension of size 0 x 0-->https://stackoverflow.com/questions/50588214
+Drawing a table into pdf with pdfbox-->https://stackoverflow.com/questions/54922133
+"Lock" dictionary in signature field is the reason of broken signature after signing-->https://stackoverflow.com/questions/49964903
+Creating a new PDF document using PDFBOX API-->https://stackoverflow.com/questions/20779205
+Can't Get Path to Fill in PDFBox-->https://stackoverflow.com/questions/60988169
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/24091243
+Creating pdf document in memory-->https://stackoverflow.com/questions/53761430
+Setting "overprint=true" for a specific ColorSpace on PDF (not the entire PDF Page)-->https://stackoverflow.com/questions/45259160
+How to create Transparent text in pdfBOX or add opacity to the text with the help of pdfBOX?-->https://stackoverflow.com/questions/40018402
+How to substitute missing font when filling a form with PDFBox?-->https://stackoverflow.com/questions/50627873
+Java print PDF with embedded fonts-->https://stackoverflow.com/questions/39966899
+How to insert a image created by decode of a string to a pdf in pdfbox-->https://stackoverflow.com/questions/62066652
+working with Tj and TJ Operators by using PDFBox-->https://stackoverflow.com/questions/18831097
+PDFBox: "you did not close a PDFDocument" right after printing-->https://stackoverflow.com/questions/51670720
+Pdf Extracting text-->https://stackoverflow.com/questions/50063095
+How to read PDF from the .jar file-->https://stackoverflow.com/questions/59355557
+PDFBox 2 Column Issue How To Check Beads-->https://stackoverflow.com/questions/39847162
+Why some of the content is getting cropped off after resizing the page to 7.31 x 11 size?-->https://stackoverflow.com/questions/45005310
+How to insert image programmatically in to AcroForm field using java PDFBox?-->https://stackoverflow.com/questions/61469461
+Getting irregularities from java PDFBOX-->https://stackoverflow.com/questions/52695272
+PDFBox: How to detect the max length of a PDTextBox-->https://stackoverflow.com/questions/20070890
+Not able to get the specific location of the bookmark in a page using PDFBOX-->https://stackoverflow.com/questions/58539468
+PDFBox 2 - How do I remove borders from form fields before flattening?-->https://stackoverflow.com/questions/47167886
+PDFBox: Writing HD images to PDF-->https://stackoverflow.com/questions/47995601
+Adding Top level Bookmark to the exsting PDF using PDFBOX-->https://stackoverflow.com/questions/60549577
+How to define regions in PDFTextStripperByArea?-->https://stackoverflow.com/questions/23378255
+How to extract all properties (Paper Size, Format, Producer) of a PDF using java program-->https://stackoverflow.com/questions/44898817
+PDFBox invalid option in radio-->https://stackoverflow.com/questions/63084108
+PDFBox 2.0.8 issue while signing document-->https://stackoverflow.com/questions/50257203
+pdf to text coversion using pdfbox in netbeans 8.1-->https://stackoverflow.com/questions/36450608
+I need to convert PDDocument to File Object-->https://stackoverflow.com/questions/52861450
+Check embedded fonts in pdf using PDFBox-->https://stackoverflow.com/questions/39850267
+How to create multiWidget Form-->https://stackoverflow.com/questions/56272915
+In PDFBox, why does file size becomes extremely large after saving?-->https://stackoverflow.com/questions/47581963
+How to add time stamp with pdfbox and TimeStampToken-->https://stackoverflow.com/questions/41737208
+Crop PDF & add margins-->https://stackoverflow.com/questions/36922525
+PDFBox throwing error: PDPageNode - No Kids found in getAllKids(). Probably a malformed pdf-->https://stackoverflow.com/questions/25247339
+PDFBox scrambling the text-->https://stackoverflow.com/questions/19705887
+PDFBox not supporting multiple languages-->https://stackoverflow.com/questions/54716138
+PDFbox - how can i add content to a layer?-->https://stackoverflow.com/questions/49661518
+Can I obtain a PDImageXObject for a PNG file via streams instead of BufferedImage?-->https://stackoverflow.com/questions/63389239
+Using PDFbox to determine the coordinates of words in a document-->https://stackoverflow.com/questions/29590473
+How do you extract color profiles from a PDF file using pdfbox (or other open source Java lib)-->https://stackoverflow.com/questions/40585139
+PDFBox: Problem with converting pdf page into image-->https://stackoverflow.com/questions/6223261
+PDFBox Split into 3 at specified page numbers (to insert pdf)-->https://stackoverflow.com/questions/36016281
+Pdfbox signing and protecting without saving in filesystem-->https://stackoverflow.com/questions/55706060
+Writing bullet character using java pdfbox 2.0.2-->https://stackoverflow.com/questions/38774394
+how to add background image to PDF using PDFBox?-->https://stackoverflow.com/questions/33476065
+How to apply digital signature image at bottom left position in the last page of pdf using pdfbox?-->https://stackoverflow.com/questions/58663380
+How to use PDFBox to create a link i can click to go to another page in the same document-->https://stackoverflow.com/questions/54987599
+Apache PDFBOXMerge functionality-->https://stackoverflow.com/questions/58908099
+Replacing images with same resource in PDFBox-->https://stackoverflow.com/questions/31018974
+How can I Align/ Arrange text fields into two column layout using Apache PDFBox - java-->https://stackoverflow.com/questions/48904490
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/32256388
+Superscript and subscript differentiation using pdf box-->https://stackoverflow.com/questions/32671815
+Crop a pdf File with selcted page number in scala-->https://stackoverflow.com/questions/59484547
+TextPosition Bounding Box PDFBox-->https://stackoverflow.com/questions/54045861
+I Want to Convert PDF TO IMAGE but I only want single output image which contain all the images and Vector graphics only. I do not want text-->https://stackoverflow.com/questions/63338859
+Reading a particular page from a PDF document using PDFBox-->https://stackoverflow.com/questions/33705814
+How to set interactive PDF form in read-only mode while writing as new PDF by using Apache PDFBox?-->https://stackoverflow.com/questions/26883522
+Java- stretch pdf pages content-->https://stackoverflow.com/questions/49734239
+Input image not getting read in java with getResource-->https://stackoverflow.com/questions/55726441
+Embedded font error at PDFbox-->https://stackoverflow.com/questions/18400806
+Trying to sign a pdf document with java. Why is the signature invalid in the PDF files?-->https://stackoverflow.com/questions/53049043
+PDFBox, BBox, page number?-->https://stackoverflow.com/questions/12324392
+Extract Stream-Dump from PDF-Body with PDFBox-->https://stackoverflow.com/questions/41548953
+Manipulating acrofields with pdfbox changes encoding of checkboxes onValue-->https://stackoverflow.com/questions/48306517
+Page blank in PDDocument after split-->https://stackoverflow.com/questions/32283305
+Embedding PDFont after adjusting character widths-->https://stackoverflow.com/questions/28723594
+insert a NULL character with PDFBox-->https://stackoverflow.com/questions/18185850
+Save custom page number labels in bookmarks-->https://stackoverflow.com/questions/57504769
+How to add annotations and comments/replies using PDF Box-->https://stackoverflow.com/questions/51297636
+Zooming with PDFBox-->https://stackoverflow.com/questions/14099979
+How to merge two PDF files into one in Java?-->https://stackoverflow.com/questions/21894264
+Detecting text field overflow-->https://stackoverflow.com/questions/49648601
+External Signature with PDFBox 2.0.15-->https://stackoverflow.com/questions/56890782
+What is the best way to extract embedded flash file from a PDF using the PDFBox parser?-->https://stackoverflow.com/questions/45463904
+How to exactly position an Image inside an existing PDF page using PDFBox?-->https://stackoverflow.com/questions/14411129
+Disable pdf-text searching with pdfBox-->https://stackoverflow.com/questions/49600134
+How to import XFDF Annotations into PDF with PDFBox-->https://stackoverflow.com/questions/57425291
+Java PDFBox list all named destinations of a page-->https://stackoverflow.com/questions/52222321
+how to set multiple bookmarks in a single page using java pdfbox library-->https://stackoverflow.com/questions/41715802
+Remove other operators and keep only Text operators(TJ,Tj) pdfBox-->https://stackoverflow.com/questions/22114636
+How to Remove whole bookmark from pdf using PDFBOX-->https://stackoverflow.com/questions/29790474
+PDFBox add background when creating document-->https://stackoverflow.com/questions/35840378
+PDF Reading using PDF box - Clarification with page count-->https://stackoverflow.com/questions/39035229
+PDFBOX - Sign AcroForm PDSignatureField-->https://stackoverflow.com/questions/53194905
+PdfBox 2.0.0 write text at given postion in a page-->https://stackoverflow.com/questions/54210546
+PDF Signature Validation-->https://stackoverflow.com/questions/41117691
+write text into ploygon with PDFBox-->https://stackoverflow.com/questions/8171217
+Check embedded fonts in pdf using PDFBox-->https://stackoverflow.com/questions/18490076
+Extract embedded file which is not listed in NAMES-->https://stackoverflow.com/questions/20001702
+Lucene for Java with PDFBox getting a nullpointer exception-->https://stackoverflow.com/questions/55703061
+convert jpg to pdf using PDFBOX but I can't set dpi-->https://stackoverflow.com/questions/60846238
+Shapes drawn on an image is inverted when written into PDF file-->https://stackoverflow.com/questions/57409205
+PDFBox how to import acrofield from another pdf-->https://stackoverflow.com/questions/48538505
+PDFBox: How to modify page and save changes to a new file (e.g. remove link annotation)?-->https://stackoverflow.com/questions/47573050
+How to translate x, y origin of a PDPage?-->https://stackoverflow.com/questions/20724647
+pdfBox add different lines to pdf-->https://stackoverflow.com/questions/37777156
+set tooltip for textfield using pdfbox-->https://stackoverflow.com/questions/56162388
+PDFBOX JPG image is working but PNG not working-->https://stackoverflow.com/questions/42654559
+Writing Arabic with PDFBOX with correct characters presentation form without being separated-->https://stackoverflow.com/questions/61147393
+Get colours from fonts in PDFBox-->https://stackoverflow.com/questions/38392128
+Extract Images from PDF using pdfbox library java-->https://stackoverflow.com/questions/27186792
+Rotate text using pdfbox-->https://stackoverflow.com/questions/59704909
+decrease font size on exisiting text in pdf-->https://stackoverflow.com/questions/38132748
+PDFbox to extract pdf page and rectangle of AnnotationLinks-->https://stackoverflow.com/questions/62192244
+How to set interactive PDF form in read-only mode while writing as new PDF by using Apache PDFBox?-->https://stackoverflow.com/questions/54791375
+How to add a page number to the output pdf when merging two pdfs?-->https://stackoverflow.com/questions/21158156
+Convert a PDF file to image-->https://stackoverflow.com/questions/50148523
+Extract Multiple Embedded Images from a single PDF Page using PDFBox-->https://stackoverflow.com/questions/62437625
+I want to add a Line into a PDF document using java-->https://stackoverflow.com/questions/7258240
+PDFBox incorrect text appearance after copy/paste-->https://stackoverflow.com/questions/48551163
+Adding page numbers using PDFBox-->https://stackoverflow.com/questions/52383396
+PDFBox specify cert in the signature dictionary when using adbe.x509.rsa_sha1-->https://stackoverflow.com/questions/43456889
+How to convert ByteBuffer to pdf-->https://stackoverflow.com/questions/57176005
+Getting hashed Password from StandardProtectionPolicy before saving File - using Apache PDFBox-->https://stackoverflow.com/questions/53009027
+PDFBOX 2.0+ java flatten annotations freetext created by foxit-->https://stackoverflow.com/questions/61127801
+Replace or remove text from PDF with PDFbox in Java-->https://stackoverflow.com/questions/63615499
+how to add image as page in PDFBox Android-->https://stackoverflow.com/questions/30435965
+Pdfbox1.8.12 convert pdf to white page image-->https://stackoverflow.com/questions/42169884
+Java: Write national characters to PDF using PDFBox-->https://stackoverflow.com/questions/13274856
+Remove acroform in pdf-->https://stackoverflow.com/questions/55466749
+java.lang.OutOfMemoryError when validating pdf with pdfbox preflight 2.0.13-->https://stackoverflow.com/questions/54452956
+Center vertically inside rect pdfbox-->https://stackoverflow.com/questions/35221589
+How to extract label text from Push button using Apache PDFBox?-->https://stackoverflow.com/questions/49435619
+PDFbox runs into error (how to calculate the position for non-simple fonts)-->https://stackoverflow.com/questions/24978366
+Did Matlab 2017a change how it imports external java classes?-->https://stackoverflow.com/questions/44336692
+Unable to add PDF/A valid meta data-->https://stackoverflow.com/questions/60304671
+PDFBox: No glyph for U+0054 in font AAAAAD+FreeSerifBold-->https://stackoverflow.com/questions/52504755
+How to extract fonts from PDDocument in PDFBox 2.0.2-->https://stackoverflow.com/questions/38369783
+How to deal with an exception thrown by file close?-->https://stackoverflow.com/questions/39022789
+PDF Rendering with PDFBox 2.0 and Decrypting-->https://stackoverflow.com/questions/36698864
+Creating PDF file in java using PDDocument results in corrupted PDF files-->https://stackoverflow.com/questions/58074622
+How to generate Dyanamic no of pages using PDFBOX-->https://stackoverflow.com/questions/30888656
+Creating a checkbox and printing it to pdf file is not working using pdfbox 1.8.9 api-->https://stackoverflow.com/questions/43606762
+search used resources through page and remove them-->https://stackoverflow.com/questions/55422701
+How to read PDF departments(header,abstract,refrences) With PDFBox?-->https://stackoverflow.com/questions/41686236
+What is the replacement of PDDocument.silentprint() in pdfbox version 2.0.0 and above?-->https://stackoverflow.com/questions/42864930
+How to render part of a page as an image using PDFBox?-->https://stackoverflow.com/questions/36041411
+Pdfbox : Draw image in rotated page-->https://stackoverflow.com/questions/63611985
+How to detect OCR in a scanned Document with pdfbox 2.0.0?-->https://stackoverflow.com/questions/33626392
+How to add hyperlink in pdf using pdfbox-->https://stackoverflow.com/questions/61496153
+How to change the filter of an image in a PDF file-->https://stackoverflow.com/questions/58265965
+Add dss dictionary-->https://stackoverflow.com/questions/30754978
+how to print unusual characters on PDF (using pdfbox)-->https://stackoverflow.com/questions/27784201
+How to add metadata to PDF document using PDFbox?-->https://stackoverflow.com/questions/40303624
+How to center the content of a PDFormField?-->https://stackoverflow.com/questions/63490595
+Read PDF in selenium: The constructor PDFParser(BufferedInputStream) is undefined-->https://stackoverflow.com/questions/39272425
+Splitting a PDF results in very large PDF documents with PDFBox 2.0.2-->https://stackoverflow.com/questions/38192096
+Flip PDF with pdfbox-->https://stackoverflow.com/questions/51300067
+PDFBox : How can a PDAcroForm be flattened?-->https://stackoverflow.com/questions/51273171
+Create pdf and merge with pdfbox-->https://stackoverflow.com/questions/43861600
+org.apache.pdfbox.pdmodel.PDDocument does not load / read the PDF document-->https://stackoverflow.com/questions/18989859
+Add dss dictionary-->https://stackoverflow.com/questions/31678867
+PDFBox inconsistent PDTextField behaviour after setValue-->https://stackoverflow.com/questions/60970352
+PDFBox 2.0 RC3 -- Find and replace text-->https://stackoverflow.com/questions/47088935
+PDF Box getXObjectNames() does not recognize bar code on my PDF, however it does recognize it on a PDF file I got off the internet-->https://stackoverflow.com/questions/63581713
+Draw auto-resized image in PDF file with PDFBox-->https://stackoverflow.com/questions/49940809
+Remove underlines from text in PDF file-->https://stackoverflow.com/questions/34726088
+PDFBox dotted pattern with gradient-->https://stackoverflow.com/questions/55041241
+Show all pages of a PDF using Apache PDFBox-->https://stackoverflow.com/questions/35983646
+Extracting and Printing text positions-->https://stackoverflow.com/questions/35299074
+Insert a thumbnail for PDF attachment using apache PDF-Box-->https://stackoverflow.com/questions/48827095
+Convert PDF files to images with PDFBox-->https://stackoverflow.com/questions/50813780
+How to create custom pdf annotation using PDPageContentStream class of pdfbox library?-->https://stackoverflow.com/questions/44829602
+GetPages error while migrating PDFBox to 2.x-->https://stackoverflow.com/questions/52742277
+Parsing a bank statement PDF-->https://stackoverflow.com/questions/49764315
+How open and replace a data from PDF stream in the apache PDFBox lib in java?-->https://stackoverflow.com/questions/32650814
+How do I reconcile these text positions and line positions with PDFBox?-->https://stackoverflow.com/questions/46507350
+PDFbox with Restlet-->https://stackoverflow.com/questions/32666689
+Adding fonts to Apache Pdfbox?-->https://stackoverflow.com/questions/43740562
+counting the number of occurences of each word in a pdf file java-->https://stackoverflow.com/questions/53095566
+Get Images by rectangle-->https://stackoverflow.com/questions/42815182
+PDFBOX - header in all pages using easytable-->https://stackoverflow.com/questions/60100581
+PDFBox Button execute javascript to close document-->https://stackoverflow.com/questions/56287882
+Paragraph in PDFbox-->https://stackoverflow.com/questions/15106940
+Java- Does pdfBox have an option to open file instead of loading it?-->https://stackoverflow.com/questions/53551448
+PDFBox: do PDDocument and PDPage have references to one another?-->https://stackoverflow.com/questions/54134380
+Close a PDF file when read it from java-->https://stackoverflow.com/questions/35697768
+Implement Type 4 shadings using PDShadingType4 Apache pdf box-->https://stackoverflow.com/questions/43786443
+how to add timestamp without Digital Signature-->https://stackoverflow.com/questions/40385593
+Pdf signing with bouncycastle using pdfbox 2.x.x-->https://stackoverflow.com/questions/47551692
+Splitting a large Pdf file with PDFBox gets large result files-->https://stackoverflow.com/questions/35477351
+PDFBox: How to print pdf with specified printer?-->https://stackoverflow.com/questions/31780350
+PDFBox Newer version extracts data in jumbled order-->https://stackoverflow.com/questions/63052240
+PDFBox image metadata-->https://stackoverflow.com/questions/6197442
+How to read the current page number of the pdf document using pdfbox-->https://stackoverflow.com/questions/59264251
+Apache PDFBox - no fields?-->https://stackoverflow.com/questions/58203986
+NullPointerException while PDF to image conversion-->https://stackoverflow.com/questions/11193169
+pdfbox class cast exception-->https://stackoverflow.com/questions/27544495
+get number of pages from PDF in android code-->https://stackoverflow.com/questions/45641174
+PDFBox extracting paragraphs-->https://stackoverflow.com/questions/41873237
+PDF size too large generating through Android PDFDocument. And while using pdfbox it is cutting image in output-->https://stackoverflow.com/questions/58609862
+PDFbox Could not find font: /Helv-->https://stackoverflow.com/questions/46446879
+Type definition error with PDFBox in Spring Boot-->https://stackoverflow.com/questions/61529773
+Background color is incorrect on first page for some reason-->https://stackoverflow.com/questions/54669314
+Moving from PDFBox 1.x to PDFBox 2-->https://stackoverflow.com/questions/33968508
+Parsing PDF files (especially with tables) with PDFBox-->https://stackoverflow.com/questions/26934363
+Cloning a form field with all styles using PDFBox-->https://stackoverflow.com/questions/32735942
+How to export PDFBox (pdf file) by response?-->https://stackoverflow.com/questions/49730046
+PDFBox Inconsistent PDTextField Autosize Behavior after setValue-->https://stackoverflow.com/questions/56951160
+PDFBox not returning the correct size of an image-->https://stackoverflow.com/questions/35043154
+How do you extract color profiles from a PDF file using pdfbox (or other open source Java lib)-->https://stackoverflow.com/questions/40583645
+PDFBox - checkbox is not displayed if set readonly-->https://stackoverflow.com/questions/32600369
+Cropping a region from a PDF page with PDFBox-->https://stackoverflow.com/questions/36127117
+Crop PDF & add margins-->https://stackoverflow.com/questions/32910063
+How to add .png images to pdf using Apache PDFBox-->https://stackoverflow.com/questions/45690350
+Placing an image over text, by using the text postiton in a PDF using PDFBox.-->https://stackoverflow.com/questions/50335516
+PDFBox delete comment maintain strikethrough-->https://stackoverflow.com/questions/45816689
+COSStream has been closed and cannot be read. Perhaps its enclosing PDDocument has been closed?-->https://stackoverflow.com/questions/60037857
+Why pdf contain one field only is around 500Kb-->https://stackoverflow.com/questions/55513433
+How to display two arrays of different sizes from an Excel file displayed on same line for PDF output?-->https://stackoverflow.com/questions/57743847
+Signing PDF with multiple signature fields using PDFBox 2.0.17-->https://stackoverflow.com/questions/59049571
+Filter out all text above a certain font size from PDF-->https://stackoverflow.com/questions/58501254
+PDFBox IO Exception: COSStream has been closed and cannot be read-->https://stackoverflow.com/questions/55591429
+Lucene for Java with PDFBox getting a nullpointer exception-->https://stackoverflow.com/questions/58429933
+How to add multiple pages in PDFBox-->https://stackoverflow.com/questions/53742060
+Creating a transparency group or setting graphics state soft mask with PDFBox-->https://stackoverflow.com/questions/60262799
+extract images from pdf using pdfbox-->https://stackoverflow.com/questions/14422501
+Understanding loading of font in PDFBox 2.0-->https://stackoverflow.com/questions/47096907
+Apache PDFBox PDFTextStripper access text parts of the page, how can I?-->https://stackoverflow.com/questions/44131738
+Saved Text Field value is not displayed properly in PDF generated using PDFBOX-->https://stackoverflow.com/questions/32535221
+How to get the pagenumber of the content of a bookmark in a PDF with PDFBox-->https://stackoverflow.com/questions/38358951
+Do I have to set the offset or cursor on everyline in PDFBox?-->https://stackoverflow.com/questions/38145682
+extract pdf text location using pdfboxnet-->https://stackoverflow.com/questions/40309324
+How to import an icon to a button field in a PDF using PDFBox?-->https://stackoverflow.com/questions/40206273
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/24633113
+How to add a border to a checkbox and make it always visible-->https://stackoverflow.com/questions/43351685
+highlight text using pdfbox when it's location in the pdf is known-->https://stackoverflow.com/questions/51654691
+insert new page in middle of pdf using pdfbox-->https://stackoverflow.com/questions/20324564
+PDFBox : Maintaining PDF structure when extracting text-->https://stackoverflow.com/questions/45842515
+PDFBox: How to print pdf with specified printer?-->https://stackoverflow.com/questions/22005747
+Clip and create new pdf from existing pdf with page numbers as input - pdfbox-->https://stackoverflow.com/questions/27685890
+Check with PDFBox v2.x.x if a PDF Form was changed after signing-->https://stackoverflow.com/questions/44007920
+Clip an image with PDFBOX-->https://stackoverflow.com/questions/50990080
+custom schema to XMP metadata-->https://stackoverflow.com/questions/7976018
+Get line of PDF file after a specific line-->https://stackoverflow.com/questions/51236496
+Printing Chinese characters in pdfbox-->https://stackoverflow.com/questions/57456816
+java- rotated file extraction?-->https://stackoverflow.com/questions/53776054
+PDFBox: Invisible text from PdfTextStripper (not clip path or color issue)-->https://stackoverflow.com/questions/50048294
+How to fill PDF form with specific font using pdfbox?-->https://stackoverflow.com/questions/51132799
+Open PDF file in a specific page using pdfbox-->https://stackoverflow.com/questions/23965718
+Possible bug with load() and parse() methods in PDFBox?-->https://stackoverflow.com/questions/20005254
+Text extraction from PDF using PDFBox 2.0-->https://stackoverflow.com/questions/35743173
+Polygon annotation in PDFBox PDAnnotation-->https://stackoverflow.com/questions/51149324
+How to move to the next line when adding text using Apache PDFBox-->https://stackoverflow.com/questions/47731737
+PDFBox: Problem with converting pdf page into image-->https://stackoverflow.com/questions/22378192
+Setting a text style to underlined in PDFBox-->https://stackoverflow.com/questions/58813794
+Parsing PDF files (especially with tables) with PDFBox-->https://stackoverflow.com/questions/46749879
+Unable to add Pages to PDF using PDFBox using separate method from main()-->https://stackoverflow.com/questions/35348583
+PdfBox: PDF/A-1A to PDF/A-3A-->https://stackoverflow.com/questions/31591978
+Not able to extract images from PDFA1-a format document-->https://stackoverflow.com/questions/27827883
+How to apply squiggly lines using PDFBox?-->https://stackoverflow.com/questions/53816726
+in pdf remove old revisions and keep only last one-->https://stackoverflow.com/questions/55492944
+Converting pdfDocument to byte[] stream - PDFBox Java-->https://stackoverflow.com/questions/55451206
+Most practical way to read an Azure Blob (PDF) in the Cloud?-->https://stackoverflow.com/questions/63645459
+How to render part of a PDF file as an image using PDFBox?-->https://stackoverflow.com/questions/51154403
+Problem drawing some 16bit transparent images with PDPageContentStream.drawImage after updating PDFBox from Version 2.08 to 2.12/2.16-->https://stackoverflow.com/questions/57215528
+U+0151 ('odblacute') is not available in this font Times-Roman encoding: WinAnsiEncoding-->https://stackoverflow.com/questions/46352055
+PDFBOX unable to find number of pixels which contain a particular character-->https://stackoverflow.com/questions/38094912
+How to create a button in PDF BOX?-->https://stackoverflow.com/questions/36694300
+PDFBox Overlay fails-->https://stackoverflow.com/questions/29100771
+Setting a text style to underlined in PDFBox-->https://stackoverflow.com/questions/26364397
+pdfbox, PDFRenderer.renderImage().getWidth() and PDImageXObject.getImage().getWidth() return numbers in different scale?-->https://stackoverflow.com/questions/63565308
+How to replace a space with a word while extract the data from PDF using PDFBox-->https://stackoverflow.com/questions/54983991
+Multiple esign using pdfbox 2.0.12 java?-->https://stackoverflow.com/questions/52834362
+How to down scale content of a pdf?-->https://stackoverflow.com/questions/49689891
+pdfbox - document has been altered or corrupted since it was signed-->https://stackoverflow.com/questions/34310486
+Java PDFBox, how to get File object from PDDocument-->https://stackoverflow.com/questions/32717958
+How to set Page Scaling option in Apache PDfBox-->https://stackoverflow.com/questions/17983432
+PDFBox U+00A0 is not available in this font's encoding-->https://stackoverflow.com/questions/46470652
+Print byte[] to pdf using pdfbox-->https://stackoverflow.com/questions/35751615
+how to read resolution of a pdf in pdf box-->https://stackoverflow.com/questions/14230982
+how to get the current position,position of a curve using pdfbox-->https://stackoverflow.com/questions/20327294
+PDFBox bloated PDF file size-->https://stackoverflow.com/questions/26729180
+Drawing vector images on PDF with PDFBox-->https://stackoverflow.com/questions/58567219
+How can a java class locate and load a static pdf file in WebLogic 12c?-->https://stackoverflow.com/questions/49925180
+Make some characters as invisible from an existing PDF document by using PDFBox-->https://stackoverflow.com/questions/17807624
+How to swallow IOException as Custom Runtime Exception Java 8-->https://stackoverflow.com/questions/55719760
+How to get font color using pdfbox-->https://stackoverflow.com/questions/14064675
+How to draw a pie chart using pdfbox?-->https://stackoverflow.com/questions/40790693
+How to extract hyperlink information PDFBox-->https://stackoverflow.com/questions/38846776
+pdfbox - sign landscape file error-->https://stackoverflow.com/questions/34359956
+Replace PDF page using PDFBox-->https://stackoverflow.com/questions/27288199
+How to set the text of a PDTextbox to a color?-->https://stackoverflow.com/questions/22082301
+How to find pdf is portrait or landscape using PDFBOX Library in Java-->https://stackoverflow.com/questions/58743030
+Creating a gradient in background with PDFBox-->https://stackoverflow.com/questions/40709428
+Pdf to image using java-->https://stackoverflow.com/questions/40539677
+adding sticky Notes to pdf using pdfbox-->https://stackoverflow.com/questions/60375248
+PDFBox Avoid Do you want to save changes before closing-->https://stackoverflow.com/questions/56271768
+PDFBox not recognising pdf to be non printable-->https://stackoverflow.com/questions/19895252
+Radiobutton display problems with PDFBox-->https://stackoverflow.com/questions/41632982
+Pdfbox - adding pdf embedded File and save the PDDocument to OutputStream does not keep the embedded Files-->https://stackoverflow.com/questions/27985783
+How to draw a filled polygon in PDFBOX?-->https://stackoverflow.com/questions/57705895
+How to get raw text from pdf file using java-->https://stackoverflow.com/questions/58798622
+PDFBox API: How to change font to handle Cyrillic values in an AcroForm field-->https://stackoverflow.com/questions/47997118
+Rotate watermark text at 45 degree angle across the center Apache PDFBox-->https://stackoverflow.com/questions/53155610
+Add hyperlink to pdf files using pdfbox-->https://stackoverflow.com/questions/50975462
+Apache PDFBox - Not able to read all fields from PDF-->https://stackoverflow.com/questions/51778528
+how to get field page in PDFBox API 2?-->https://stackoverflow.com/questions/36894982
+How to add a link to a file attachment of PDF document-->https://stackoverflow.com/questions/32538020
+Extracting sticky notes using PDFBox-->https://stackoverflow.com/questions/26042771
+Converting base64 encoded pdf to file input stream without writing file to system-->https://stackoverflow.com/questions/49797441
+Using pdfbox to get form field values-->https://stackoverflow.com/questions/46731840
+Highlight words inside existing PDF-->https://stackoverflow.com/questions/60388918
+How to change text height in pdfbox-->https://stackoverflow.com/questions/22042810
+how to know if a field is on a particular page?-->https://stackoverflow.com/questions/31461710
+PDFBox: extracting images from pdf to inputstream-->https://stackoverflow.com/questions/30693576
+Apache PDFBox rotate PDImageXObject-->https://stackoverflow.com/questions/26123591
+Create PDF file with default "zoom to page level" (pdfbox)-->https://stackoverflow.com/questions/35635074
+Overlaying PDF on all Pages at specific location on all Pages using PDFBox 2.X-->https://stackoverflow.com/questions/49392971
+How to Create a Radio Button Group with PDFBox 2.0-->https://stackoverflow.com/questions/34895158
+Rotate text in pdfbox with java-->https://stackoverflow.com/questions/52061271
+Tagged PDF with PDFBox-->https://stackoverflow.com/questions/49466066
+Converting Docx to image using Docx4j and PdfBox causes OutOfMemoryError-->https://stackoverflow.com/questions/12904735
+PDFBox returns isEncrypted true even if i can open file-->https://stackoverflow.com/questions/39572397
+PDFBox 2.0 create signature field and save incremental with already signed document-->https://stackoverflow.com/questions/62619388
+Embed fonts for flattend PDF form with PDFBox-->https://stackoverflow.com/questions/54007498
+How to check a radiobutton in PDF form using PDFBox in Java-->https://stackoverflow.com/questions/14778740
+adding sticky notes in an existing pdf using java itext or pdfbox-->https://stackoverflow.com/questions/60375209
+How to use PDFBox to create a link that goes to *previous view*?-->https://stackoverflow.com/questions/28070124
+PDFBOX - header in all pages using easytable-->https://stackoverflow.com/questions/54242192
+Apache PDFBox cannot find class 'Loader'. Why?-->https://stackoverflow.com/questions/61312716
+PDFbox This font type only supports 8-bit code points-->https://stackoverflow.com/questions/43022791
+In PDFBox, how to create a link annotation with "rollover" / "mouse over" effects?-->https://stackoverflow.com/questions/28874068
+PDF special char in TJ operator, base 14 fonts-->https://stackoverflow.com/questions/21906296
+How to create pdf package using PdfBox?-->https://stackoverflow.com/questions/46647185
+digital signature using pdfbox-->https://stackoverflow.com/questions/22167640
+PDFBox 1.8 - Signing PDF Document using TSA (Time Stamp Autority)-->https://stackoverflow.com/questions/27898764
+PDFBox setOpenAction to print-->https://stackoverflow.com/questions/33284420
+Adding an image to a pdf via pdfbox but after adding the pdf get blank-->https://stackoverflow.com/questions/63502433
+pdfbox unable to draw bezier curve-->https://stackoverflow.com/questions/32076277
+PDFBox - Single drawString method call to generate both normal and bold font-->https://stackoverflow.com/questions/30912937
+How do you track the location of PDPageContentStream's text output?-->https://stackoverflow.com/questions/20487299
+How can I stitch two pdf pages together with pdfbox (java)?-->https://stackoverflow.com/questions/9580872
+How to dense merge PDF files using PDFBox 2 without whitespace near page breaks?-->https://stackoverflow.com/questions/60151096
+How to sign an InputStream from a PDF file with PDFBox 2.0.0-->https://stackoverflow.com/questions/29142061
+How to convert byte array of PDF to byte array of jpg image in Java using apache pdfbox api?-->https://stackoverflow.com/questions/53699681
+Are there some better approaches to convert a byte array of pdf with PdfStripper?-->https://stackoverflow.com/questions/46590592
+Error while using pdfbox to create pdf : Identifier expected after this token-->https://stackoverflow.com/questions/30287110
+Invalid block type while using pdfbox 2.0.8-->https://stackoverflow.com/questions/47571282
+Converting from image to Pdf and then sending it as response without saving in disk java-->https://stackoverflow.com/questions/59712760
+Creating new PDF with multiple pages using existing PDF as template-->https://stackoverflow.com/questions/19839955
+How can I get max fontsize of a pdf using pdfbox-->https://stackoverflow.com/questions/29208444
+How to delete annotations in PDF file using PDFBox-->https://stackoverflow.com/questions/32750395
+Java - Text Extraction from PDF using OCR-->https://stackoverflow.com/questions/36663404
+Change font colour and background colour of PDField using PDFBox - 2.0.2-->https://stackoverflow.com/questions/39084814
+Verify the byte range of a PDSignature in a pdf file using PDFBox-->https://stackoverflow.com/questions/58102825
+How to insert an PDPage within another PDPage with pdfbox-->https://stackoverflow.com/questions/26299557
+Get tag's related BBox's even though there is no attributes (/A in document catalog structure) related to Layout in PDFBox?-->https://stackoverflow.com/questions/59306167
+PDF generated with PDFBox is blank-->https://stackoverflow.com/questions/31391930
+How to merge two PDF files into one in Java?-->https://stackoverflow.com/questions/53811370
+How to check if a text is transparent with pdfbox-->https://stackoverflow.com/questions/20179928
+Highlight words inside existing PDF-->https://stackoverflow.com/questions/49155127
+Page is cropped in new document in PDFBox while copying-->https://stackoverflow.com/questions/37529059
+How to read pdf line by line-->https://stackoverflow.com/questions/45626805
+Vbscript issue : executed vbscript with help of wrapper class-->https://stackoverflow.com/questions/15535056
+Getting Text Colour with PDFBox-->https://stackoverflow.com/questions/9157714
+Read PDF in selenium: The constructor PDFParser(BufferedInputStream) is undefined-->https://stackoverflow.com/questions/39272642
+Text coordinates when stripping from PDFBox-->https://stackoverflow.com/questions/46113333
+Copy(or repeat) a page of source pdf into another pdf using java PDFBox-->https://stackoverflow.com/questions/49053500
+Converting PDF to image (with proper formatting)-->https://stackoverflow.com/questions/22377073
+Apache PDFBox cannot find class 'Loader'. Why?-->https://stackoverflow.com/questions/60251196
+PDFBox: clipping text when writing to PDPageContentStream or PDPage-->https://stackoverflow.com/questions/42296281
+Extracting text from pdf (java using pdfbox library) from a table's rows with different heights-->https://stackoverflow.com/questions/51560024
+How can I extract images and their metadata from PDFs?-->https://stackoverflow.com/questions/6197171
+Apache PDFBox: How can I specify the position of the texts I'm outputting-->https://stackoverflow.com/questions/46927457
+Search and replace text in PDF using JAVA-->https://stackoverflow.com/questions/52027952
+PDFbox loading large files-->https://stackoverflow.com/questions/30780628
+Write cyrillic chars into PDF form fields with PDFBox-->https://stackoverflow.com/questions/43002076
+Place an image on a PDF file using JavaFX-->https://stackoverflow.com/questions/18069836
+How can I check if PDF page is image(scanned) by PDFBOX, XPDF-->https://stackoverflow.com/questions/40621136
+How to determine artificial bold style ,artificial italic style and artificial outline style of a text using PDFBOX-->https://stackoverflow.com/questions/20924898
+Form field values set with PDFBOX not visible in Adobe Reader-->https://stackoverflow.com/questions/32346322
+PDFBox - obtain bounding box of rotated image-->https://stackoverflow.com/questions/47423413
+PDFBox 2.0.7 ExtractText not working but 1.8.13 does and PDFReader as well-->https://stackoverflow.com/questions/45922162
+₹ (Indian Rupee Symbol) symbol is printing as ? (question mark) in pdf using Apache PDFBOX-->https://stackoverflow.com/questions/49427319
+Determine the number of lines in a PDF page-->https://stackoverflow.com/questions/30445444
+Convert a PDF file to image-->https://stackoverflow.com/questions/18189965
+Unable to save Arabic words in a PDF - PDFBox Java-->https://stackoverflow.com/questions/55458225
+How to substitute missing font when filling a form with PDFBox?-->https://stackoverflow.com/questions/50628697
+Does PDFBox allow to remove one field from AcroForm?-->https://stackoverflow.com/questions/47202560
+merge files gives error: End-of-File, expected line-->https://stackoverflow.com/questions/34873794
+PDFBox LayerUtility - Importing layers into existing PDF-->https://stackoverflow.com/questions/17785306
+"You did not close a PDF Document" when signing in Apache PDFBox 2.0-->https://stackoverflow.com/questions/37411650
+Crop page with PDFBox and fill outside of rectangle with white-->https://stackoverflow.com/questions/63489072
+How to resolve "...is not available in this font's encoding"?-->https://stackoverflow.com/questions/40058724
+Create a pdf with dimensions 1700pixels*2200pixels in java using pdfBox-->https://stackoverflow.com/questions/24953138
+Watermarking with PDFBox-->https://stackoverflow.com/questions/46162632
+Using pdfbox to convert a color PDF to a b/w tiff-->https://stackoverflow.com/questions/37037720
+Create pkcs7 signature from file digest-->https://stackoverflow.com/questions/41848320
+PDFBox 2.0: Overcoming dictionary key encoding-->https://stackoverflow.com/questions/37137341
+How to display an image in PdfBox 2.0.3?-->https://stackoverflow.com/questions/39825457
+PDFBox Rotating all content of an existing PDF by 90 degrees-->https://stackoverflow.com/questions/58763100
+Right Alignment of numerical value in PDF using Apache PDFBox library-->https://stackoverflow.com/questions/48277242
+Extract PDF comments into HTML-->https://stackoverflow.com/questions/37401030
+insert new page in middle of pdf using pdfbox-->https://stackoverflow.com/questions/26975075
+How to merge two PDF files into one in Java?-->https://stackoverflow.com/questions/20835200
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/37242504
+Why are Form Fields set with PDFBox(2.0.11) not being displayed?-->https://stackoverflow.com/questions/52100078
+Finding javascript code in PDF using Apache PDFBox-->https://stackoverflow.com/questions/34899156
+Apache PDFBox: Can I set font other than those present in PDType1Font-->https://stackoverflow.com/questions/41313904
+Could someone give me an example of how to extract coordinates for a 'word' using PDFBox-->https://stackoverflow.com/questions/50514745
+How do determine location of actual PDF content with PDFBox?-->https://stackoverflow.com/questions/52969119
+Apache PDFBox and PDF/A-3-->https://stackoverflow.com/questions/46806392
+java - generate unicode pdf with Apache PDFBox-->https://stackoverflow.com/questions/28134476
+insert transparent image to pdf using pdfbox-->https://stackoverflow.com/questions/43966664
+Is there any field to hold an image in PDFBOX-1.8.10?-->https://stackoverflow.com/questions/32580332
+PDFBOX: Merge adds unused Fonts, how to remove it-->https://stackoverflow.com/questions/54917253
+Draw transparent lines with PDFBox-->https://stackoverflow.com/questions/44054786
+Reading a particular page from a PDF document using PDFBox-->https://stackoverflow.com/questions/21401305
+Attachment damages signature part 2-->https://stackoverflow.com/questions/30592558
+How to generate layered pdf file using PdfBox?-->https://stackoverflow.com/questions/27616860
+java pdfbox printerjob wrong scaling / page format-->https://stackoverflow.com/questions/35483083
+I want to show Arabic text from pdf using pdfbox?-->https://stackoverflow.com/questions/10778836
+How to create a PDF document from languages of Unicode char set regarding using third party Fonts-->https://stackoverflow.com/questions/6186620
+How to load a password protected PDF form using PDFBOX-->https://stackoverflow.com/questions/36565052
+How to center a text using PDFBox-->https://stackoverflow.com/questions/34286655
+How to create a button in PDF BOX?-->https://stackoverflow.com/questions/32324074
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/28115566
+PDFBox pdf to image generates overlapping text-->https://stackoverflow.com/questions/24238070
+PDFBox “special” characters in Helvetica-->https://stackoverflow.com/questions/34607186
+Identifying the text based on the output in PDF using PDFBOX-->https://stackoverflow.com/questions/21453780
+Removing new lines from output text using pdfbox-->https://stackoverflow.com/questions/20435937
+How to reduce the size of merged PDF/A-1b files with pdfbox or other java library-->https://stackoverflow.com/questions/53550454
+pdfbox 2.0.2 > Calling of PageDrawer.processPage method caught exceptions-->https://stackoverflow.com/questions/38933039
+How to get font color using pdfbox-->https://stackoverflow.com/questions/23335415
+Extract unselectable content from PDF-->https://stackoverflow.com/questions/34720656
+Detect Bold, Italic and Strike Through text using PDFBox with VB.NET-->https://stackoverflow.com/questions/40039407
+How to find page to jump to. I using PDFBox 2.0.0 and PDActionGoTo-->https://stackoverflow.com/questions/36791717
+How do I rotate the contents of a PDF page to an arbitrary angle?-->https://stackoverflow.com/questions/28281072
+Unable to verify digital signature using Apache PDFBOX-->https://stackoverflow.com/questions/45244151
+PDFBox document to InputStream-->https://stackoverflow.com/questions/42761579
+Using pdfbox to get form field values-->https://stackoverflow.com/questions/23498817
+PDFBOX generates PDF/A file of very large size-->https://stackoverflow.com/questions/48398323
+Apache PDFBox: Get alignment and font from a PDAnnotationWidget or PDTextField-->https://stackoverflow.com/questions/47929229
+Can't insert Tabs and Spaces into PDBox PDF document-->https://stackoverflow.com/questions/34554902
+Getting PDF TextObjects with PDFBox-->https://stackoverflow.com/questions/44991381
+How to add metadata to PDF document using PDFbox?-->https://stackoverflow.com/questions/44976111
+Reading a table or cell value in a pdf file using java?-->https://stackoverflow.com/questions/28295244
+Java: Apache PDFbox Extract highlighted text-->https://stackoverflow.com/questions/38929488
+highlight text using pdfbox when it's location in the pdf is known-->https://stackoverflow.com/questions/18585304
+Getting PDF TextObjects with PDFBox-->https://stackoverflow.com/questions/25427445
+How can i extract image from button icon in PDF using Apache PDFBox?-->https://stackoverflow.com/questions/33351383
+PDFBox “special” characters in Helvetica-->https://stackoverflow.com/questions/34598915
+Combining XFA with PDFBox-->https://stackoverflow.com/questions/21169130
+How to add metadata to PDF document using PDFbox?-->https://stackoverflow.com/questions/45722484
+How to find table border lines in pdf using PDFBox?-->https://stackoverflow.com/questions/35415336
+Merge Pdf Files Using PDFBox-->https://stackoverflow.com/questions/37595137
+PDFBox blurry image when inserted on pdf in Java-->https://stackoverflow.com/questions/14846428
+PDFBox - merge 2 portrait pages onto a single side by side landscape page-->https://stackoverflow.com/questions/33778107
+Combining XFA with PDFBox-->https://stackoverflow.com/questions/27194928
+How do you extract color profiles from a PDF file using pdfbox (or other open source Java lib)-->https://stackoverflow.com/questions/40588767
+How to split pdf file by result in java pdfbox-->https://stackoverflow.com/questions/32046952
+Cleaning up unused images in PDF page resources-->https://stackoverflow.com/questions/51680449
+How to extract hyperlink information PDFBox-->https://stackoverflow.com/questions/38591541
+How to insert image programmatically in to AcroForm field using java PDFBox?-->https://stackoverflow.com/questions/46820098
+How to create image from PDF using PDFBox in JAVA-->https://stackoverflow.com/questions/14883668
+Using Overlay in PDFBox 2.0-->https://stackoverflow.com/questions/32861737
+How to get the content of PDF form text fields using pdfbox?-->https://stackoverflow.com/questions/27795227
+How can I create fixed-width paragraphs with PDFbox?-->https://stackoverflow.com/questions/20717850
+PDFBox Form fill - saveIncremental does not work-->https://stackoverflow.com/questions/42816293
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/17727337
+How to split a PDF using Apache PDFBox?-->https://stackoverflow.com/questions/32259295
+How to generate multiple lines in PDF using Apache pdfbox-->https://stackoverflow.com/questions/47311914
+Java close PDF error-->https://stackoverflow.com/questions/31253584
+Add BufferedImage to PDFBox document-->https://stackoverflow.com/questions/7067605
+Re-write the same text into an existing PDF document by using PDFBox-->https://stackoverflow.com/questions/18461738
+pdfbox: trying to decrypt PDF-->https://stackoverflow.com/questions/29676262
+Extract Image from PDF using Java-->https://stackoverflow.com/questions/18728147
+Re: pdfbox library ; Has anyone discovered how to add text fields to a pdf?-->https://stackoverflow.com/questions/20228483
+PDFBox: How to "flatten" a PDF-form?-->https://stackoverflow.com/questions/19723539
+Can duplicating a pdf with PDFBox be small like with iText?-->https://stackoverflow.com/questions/19059820
+Convert PDF files to images with PDFBox-->https://stackoverflow.com/questions/57724726
+How to generate multiple lines in PDF using Apache pdfbox-->https://stackoverflow.com/questions/31962119
+how to know if a field is on a particular page?-->https://stackoverflow.com/questions/22132921
+How to get the position of a field using pdfbox?-->https://stackoverflow.com/questions/14896857
+PdfBox 2.0.0 write text at given postion in a page-->https://stackoverflow.com/questions/36450284
+extract images from pdf using pdfbox-->https://stackoverflow.com/questions/37176699
+PDFBox 2.0.0 - decryption using password-->https://stackoverflow.com/questions/36580428
+Handle many unicode caracters with PDFBox-->https://stackoverflow.com/questions/51596459
+How to check a check box in PDF-form using Java PDFBOX api-->https://stackoverflow.com/questions/14603942
+Visual signature with pdfbox 1.8.8-->https://stackoverflow.com/questions/27940667
+How to reduce the size of merged PDF/A-1b files with pdfbox or other java library-->https://stackoverflow.com/questions/53544377
+Adding Header to existing PDF File using PDFBox-->https://stackoverflow.com/questions/19512650
+Pdf in Landscape using pdfBox-->https://stackoverflow.com/questions/37554006
+how to make my watermark text in any pdf file as non-selectable?-->https://stackoverflow.com/questions/20361261
+How to search some specific string or a word and there coordinates from a pdf document in java-->https://stackoverflow.com/questions/35987635
+Apache PDFBox Java library - Is there an API for creating tables?-->https://stackoverflow.com/questions/44721627
+Get the font height of a character in PDFBox-->https://stackoverflow.com/questions/17202929
+Read multi page Tiff image and write to a pdf in Java-->https://stackoverflow.com/questions/58502122
+Converting PDF to multipage tiff (Group 4)-->https://stackoverflow.com/questions/32702373
+Calculate correct width of a text-->https://stackoverflow.com/questions/27800361
+Protecting PDF using PDFBox-->https://stackoverflow.com/questions/22368454
+remove invisible text from pdf using pdfbox-->https://stackoverflow.com/questions/47396555
+Extract Image from PDF using Java-->https://stackoverflow.com/questions/7063629
+How to get all bookmarks in PDF file using PDFBox in Java-->https://stackoverflow.com/questions/35264210
+Create mutli-page document dynamically using PDFBox-->https://stackoverflow.com/questions/22451507
+Adding page numbers using PDFBox-->https://stackoverflow.com/questions/16585032
+Extracting text from an area with PDFbox-->https://stackoverflow.com/questions/40112315
+PDFBox: How to draw text on top of a filled rectangle?-->https://stackoverflow.com/questions/33440883
+In java using PDFBox, how to create visible digital signature with text-->https://stackoverflow.com/questions/48232829
+Writing Arabic with PDFBOX with correct characters presentation form without being separated-->https://stackoverflow.com/questions/48346903
+Get Visible Signature from a PDF using PDFBox?-->https://stackoverflow.com/questions/17145649
+PDFBox 2.0 RC3 -- Find and replace text-->https://stackoverflow.com/questions/36404377
+pdfbox. how to fetch fields of all kind of pdf forms-->https://stackoverflow.com/questions/35698018
+How to write text, draw a line and then again write text in a pdf file using PDFBox-->https://stackoverflow.com/questions/44523271
+Java PDFBox, how to get File object from PDDocument-->https://stackoverflow.com/questions/16917525
+How to exactly position an Image inside an existing PDF page using PDFBox?-->https://stackoverflow.com/questions/9409509
+Adding of filled circles to PDF page using Apache PDFBox-->https://stackoverflow.com/questions/42836210
+How to draw a string at a specific position on a pdf page in java using pdfbox?-->https://stackoverflow.com/questions/24992794
+PDFBox - Issue with generating PDF from a image-->https://stackoverflow.com/questions/22318681
+How to load a password protected PDF form using PDFBOX-->https://stackoverflow.com/questions/14769579
+Parsing PDF files (especially with tables) with PDFBox-->https://stackoverflow.com/questions/42460419
+Create pdf and merge with pdfbox-->https://stackoverflow.com/questions/14951961
+PDF-Form Text hidden unless clicked-->https://stackoverflow.com/questions/34611473
+Why are my lines disappearing when I switch the deprecated drawLine() method for the version with moveTo / lineTo / stroke in Apache PDFBox 2.x?-->https://stackoverflow.com/questions/38993685
+Watermarking with PDFBox-->https://stackoverflow.com/questions/20618152
+How to add hyperlink in pdf using pdfbox-->https://stackoverflow.com/questions/21163795
+attach compressed file to PDF-->https://stackoverflow.com/questions/18230398
+How to use PDDestination class in PDFbox?-->https://stackoverflow.com/questions/18877090
+Groovy unable to load class-->https://stackoverflow.com/questions/39819822
+Reading text of a pdf using PDFBOX occasionally returns \r\n-->https://stackoverflow.com/questions/49978762
+pdfbox. how to fetch fields of all kind of pdf forms-->https://stackoverflow.com/questions/35697715
+PDFBox image size issues-->https://stackoverflow.com/questions/56148010
+Java - PDFBox 1.8.9 unicode textfile to pdf-->https://stackoverflow.com/questions/31385790
+PDFBox: How to print a range of pages from a PDF-->https://stackoverflow.com/questions/44198588
+Read pdf uploadstream one page at a time with java-->https://stackoverflow.com/questions/3522629

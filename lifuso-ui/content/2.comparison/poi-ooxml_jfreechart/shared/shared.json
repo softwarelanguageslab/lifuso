@@ -1,0 +1,412 @@
+{
+	"body": [
+		{
+			"title": "Feature 243",
+			"library": "poi-ooxml",
+			"name": "set color,change color",
+			"name_data": "<p><strong>color</strong> -> (set,change) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFCellStyle.setFillForegroundColor</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">87.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFCellStyle.setFillPattern</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">87.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 260",
+			"library": "poi-ooxml",
+			"name": "get value",
+			"name_data": "<p><strong>value</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRow.getCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">88.24</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 266",
+			"library": "poi-ooxml",
+			"name": "be chart,update chart,use chart,work chart",
+			"name_data": "<p><strong>chart</strong> -> (be,update,use,work) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XDDFDataSourcesFactory.fromNumericCellRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.getRow.getCell.setCellValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XDDFDataSourcesFactory.fromStringCellRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.getSheet</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.getSheetName</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XWPFDocument.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XWPFDocument.write</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 267",
+			"library": "poi-ooxml",
+			"name": "get value",
+			"name_data": "<p><strong>value</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.getSheetAt</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.getRow</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">82.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.getLastRowNum</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">39.29</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRow.getCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">32.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 274",
+			"library": "poi-ooxml",
+			"name": "create chart,add chart,be chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,add,be,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.write</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">83.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XDDFChartLegend.setPosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.createSheet</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XDDFDataSourcesFactory.fromNumericCellRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.createDrawingPatriarch</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">77.78</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFDrawing.createChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">72.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFDrawing.createAnchor</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">72.22</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.createRow</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XDDFShapeProperties.setLineProperties</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 285",
+			"library": "poi-ooxml",
+			"name": "set color",
+			"name_data": "<p><strong>color</strong> -> set </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.write</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.createCellStyle</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRow.createCell</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.createRow</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.createSheet</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFFont.setColor</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.createFont</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 287",
+			"library": "poi-ooxml",
+			"name": "show time",
+			"name_data": "<p><strong>time</strong> -> show </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFCellStyle.setDataFormat</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">87.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 289",
+			"library": "poi-ooxml",
+			"name": "set label,set chart",
+			"name_data": "<p><strong>label</strong> -> set <strong>chart</strong> -> set </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.getCTChart.getPlotArea.getValAxArray</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.getCTChart.setDispBlanksAs</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 296",
+			"library": "poi-ooxml",
+			"name": "add chart,be chart",
+			"name_data": "<p><strong>chart</strong> -> (add,be) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSLFSlide.getRelations</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 307",
+			"library": "poi-ooxml",
+			"name": "get chart,create chart,draw chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (get,create,draw,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.plot</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.createData</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.createValueAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFChart.createCategoryAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 105",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createPieChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultPieDataset.setValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">PiePlot.setLabelGenerator</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">28.57</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 106",
+			"library": "jfreechart",
+			"name": "create chart,change color",
+			"name_data": "<p><strong>color</strong> -> change <strong>chart</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BarRenderer.setSeriesPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">37.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 107",
+			"library": "jfreechart",
+			"name": "get chart",
+			"name_data": "<p><strong>chart</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ValueAxis.setLowerBound</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 109",
+			"library": "jfreechart",
+			"name": "show time",
+			"name_data": "<p><strong>time</strong> -> show </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createTimeSeriesChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">TimeSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 111",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setBackgroundPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">81.48</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 112",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYLineChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">32.26</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 113",
+			"library": "jfreechart",
+			"name": "set color,change color",
+			"name_data": "<p><strong>color</strong> -> (set,change) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createPieChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 114",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYLineChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">72.73</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFrame.setVisible</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">63.64</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">JFreeChart.getXYPlot</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">63.64</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFrame.pack</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">54.55</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">45.45</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYLineAndShapeRenderer.setBaseShapesVisible</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYLineAndShapeRenderer.addAnnotation</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">27.27</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 115",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultPieDataset.setValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">61.54</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 116",
+			"library": "jfreechart",
+			"name": "use chart",
+			"name_data": "<p><strong>chart</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">LegendTitle.setPosition</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">83.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 117",
+			"library": "jfreechart",
+			"name": "add chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">76.92</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">JFreeChart.getXYPlot</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">61.54</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.getRangeAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">53.85</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYLineChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">53.85</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">46.15</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.getDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">38.46</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ValueAxis.setRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.getRangeAxis.setRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYLineAndShapeRenderer.setSeriesShapesVisible</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createScatterPlot</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">23.08</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 118",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">37.74</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 119",
+			"library": "jfreechart",
+			"name": "create chart,update chart",
+			"name_data": "<p><strong>chart</strong> -> (create,update) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYLineChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 121",
+			"library": "jfreechart",
+			"name": "create chart",
+			"name_data": "<p><strong>chart</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.getRangeAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">42.86</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 123",
+			"library": "jfreechart",
+			"name": "use chart",
+			"name_data": "<p><strong>chart</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setRenderer</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">62.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setDataset</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">62.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setRangeAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 125",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setRenderer</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">58.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setDataset</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">41.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.setRenderer</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">41.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.setDataset</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">41.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 126",
+			"library": "jfreechart",
+			"name": "add chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYTextAnnotation.setRotationAngle</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">JFreeChart.getTitle.setPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ValueMarker.setPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 127",
+			"library": "jfreechart",
+			"name": "use chart",
+			"name_data": "<p><strong>chart</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">NumberAxis.setTickUnit</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">70</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 129",
+			"library": "jfreechart",
+			"name": "create chart,add chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,add,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setRenderer</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">57.14</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 131",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">JFreeChart.setBackgroundPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 132",
+			"library": "jfreechart",
+			"name": "show time",
+			"name_data": "<p><strong>time</strong> -> show </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ValueAxis.setRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">NumberAxis.setRange</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 133",
+			"library": "jfreechart",
+			"name": "use chart",
+			"name_data": "<p><strong>chart</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.getDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 135",
+			"library": "jfreechart",
+			"name": "create chart,draw chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,draw,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">45</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">45</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">TimeSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">40</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 136",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.setDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 137",
+			"library": "jfreechart",
+			"name": "create chart",
+			"name_data": "<p><strong>chart</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">TimeSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">36.36</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 138",
+			"library": "jfreechart",
+			"name": "create chart,draw chart",
+			"name_data": "<p><strong>chart</strong> -> (create,draw) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">LineAndShapeRenderer.setSeriesShape</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">LineAndShapeRenderer.setBaseShapesVisible</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 139",
+			"library": "jfreechart",
+			"name": "set chart,update chart",
+			"name_data": "<p><strong>chart</strong> -> (set,update) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYLineChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYSeriesCollection.addSeries</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 141",
+			"library": "jfreechart",
+			"name": "create chart",
+			"name_data": "<p><strong>chart</strong> -> create </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DateAxis.setDateFormatOverride</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 142",
+			"library": "jfreechart",
+			"name": "create chart,be chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,be,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createBarChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 143",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultCategoryDataset.setValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 145",
+			"library": "jfreechart",
+			"name": "set label",
+			"name_data": "<p><strong>label</strong> -> set </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.getDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">80</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryAxis.setTickLabelPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">40</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 148",
+			"library": "jfreechart",
+			"name": "add chart",
+			"name_data": "<p><strong>chart</strong> -> add </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DateAxis.setDateFormatOverride</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.setDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 150",
+			"library": "jfreechart",
+			"name": "change color",
+			"name_data": "<p><strong>color</strong> -> change </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYItemRenderer.setSeriesPaint</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XYPlot.getRenderer</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">50</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 152",
+			"library": "jfreechart",
+			"name": "create chart,add chart,use chart,work chart",
+			"name_data": "<p><strong>chart</strong> -> (create,add,use,work) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">BarRenderer.setBaseToolTipGenerator</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">44.44</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 154",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.setChartTheme</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 155",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createXYBarChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">85.71</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 156",
+			"library": "jfreechart",
+			"name": "get value",
+			"name_data": "<p><strong>value</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">NumberAxis.setNumberFormatOverride</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">93.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 157",
+			"library": "jfreechart",
+			"name": "create chart,update chart",
+			"name_data": "<p><strong>chart</strong> -> (create,update) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartFactory.createTimeSeriesChart</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">TimeSeries.add</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">83.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">Day.next</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">66.67</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 159",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CategoryPlot.getDomainAxis</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">75</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 160",
+			"library": "jfreechart",
+			"name": "set chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (set,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">ChartPanel.addChartMouseListener</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">40</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 162",
+			"library": "jfreechart",
+			"name": "create chart,use chart",
+			"name_data": "<p><strong>chart</strong> -> (create,use) </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultCategoryDataset.addValue</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		}
+	]
+}

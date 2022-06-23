@@ -1,0 +1,60 @@
+{
+	"body": [
+		{
+			"title": "Feature 75",
+			"library": "httpclient",
+			"name": "get error",
+			"name_data": "<p><strong>error</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">SchemeRegistry.register</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 84",
+			"library": "httpclient",
+			"name": "use method",
+			"name_data": "<p><strong>method</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultHttpClient.execute</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">97.5</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">DefaultHttpClient.getParams.setParameter</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">10</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 87",
+			"library": "httpclient",
+			"name": "get file",
+			"name_data": "<p><strong>file</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">CloseableHttpClient.execute</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">HttpPost.setEntity</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">95.83</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 261",
+			"library": "poi-ooxml",
+			"name": "get error",
+			"name_data": "<p><strong>error</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.getSheetAt</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">100</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFSheet.iterator</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">33.33</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 268",
+			"library": "poi-ooxml",
+			"name": "get file",
+			"name_data": "<p><strong>file</strong> -> get </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRichTextString.getIndexOfFormattingRun</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRichTextString.getLengthOfFormattingRun</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRichTextString.toString.substring</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRichTextString.numFormattingRuns</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFCell.toString</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFCell.getColumnIndex</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRow.cellIterator</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRichTextString.toString</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFRow.toString</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">25</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 272",
+			"library": "poi-ooxml",
+			"name": "use method",
+			"name_data": "<p><strong>method</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XSSFWorkbook.close</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">42.86</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		},
+		{
+			"title": "Feature 291",
+			"library": "poi-ooxml",
+			"name": "use method",
+			"name_data": "<p><strong>method</strong> -> use </p>",
+			"heading": "<h5 id-\"api-references\">API References</h5>",
+			"code": "<pre><code><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XWPFTable.getCTTbl.getTblPr</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">60</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XWPFTable.getCTTbl.getTblPr.getTblW</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">20</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span><span class=\"line\"><span style=\"color: rgb(36, 41, 47);\">XWPFTable.getCTTbl</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">--></span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">20</span><span style=\"color: rgb(36, 41, 47);\"> </span><span style=\"color: rgb(5, 80, 174);\">%</span></span></code></pre>"
+		}
+	]
+}

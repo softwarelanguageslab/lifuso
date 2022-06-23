@@ -1,0 +1,882 @@
+jfreechart customize piechart to show absolute values and percentages-->https://stackoverflow.com/questions/17507061
+JFreeChart Bar chart custom color?-->https://stackoverflow.com/questions/24555770
+Bar chart with exact value printed on top of each bar-->https://stackoverflow.com/questions/23666022
+JFreeChart - how to reverse axis order-->https://stackoverflow.com/questions/7979746
+Setting Range for X,Y Axis-JfreeChart-->https://stackoverflow.com/questions/7232702
+Using JFreeChart to display recent changes in a time series-->https://stackoverflow.com/questions/5048863
+Displaying a histogram of image data-->https://stackoverflow.com/questions/28519356
+Setting label and value of the chart-->https://stackoverflow.com/questions/3551238
+How to create an SVG with JFreeChart?-->https://stackoverflow.com/questions/9515676
+Making dynamic line chart using jfree chart in java-->https://stackoverflow.com/questions/11470272
+JFreeChart select an area without zooming-->https://stackoverflow.com/questions/16106116
+JFreeChart get mouse coordinates-->https://stackoverflow.com/questions/1512195
+Closing up blank space in JFreeChart bar chart-->https://stackoverflow.com/questions/16738907
+Change font-size of domain axis label and range axis label for jfreechart-->https://stackoverflow.com/questions/21405058
+Changing shape of single point in JFreeChart XYPLot-->https://stackoverflow.com/questions/20359200
+how to change pie chart colors of JFreeChart?-->https://stackoverflow.com/questions/13009869
+How can I create a bar-chart with JFreeChart, that shortens too long bars with a visible hint?-->https://stackoverflow.com/questions/1389045
+How i can use jfreeChart with Javafx2-->https://stackoverflow.com/questions/16697279
+How do I rotate tick mark labels on the domain of a number axis in JFreeChart?-->https://stackoverflow.com/questions/16473272
+Width of the bar in Jfreechart-->https://stackoverflow.com/questions/1985537
+How to specify the position and layout of a JFreeChart chart legend-->https://stackoverflow.com/questions/4969918
+How can I put axis on a .png file in java?-->https://stackoverflow.com/questions/9875534
+Setting Range for X,Y Axis-JfreeChart-->https://stackoverflow.com/questions/7232680
+how to plot day-wise chart using Jfreechart-->https://stackoverflow.com/questions/576788
+Changing the shapes of points in scatter plot-->https://stackoverflow.com/questions/6669529
+JFreeChart: Is there a way to draw long tick labels in two lines in XYPlot-->https://stackoverflow.com/questions/12977038
+How to display Date in a X-axis of Line Graph using Jfreechart-->https://stackoverflow.com/questions/12838600
+How to draw line over a JFreeChart chart?-->https://stackoverflow.com/questions/9214978
+Create stylish charts in Java eg with JFreeChart-->https://stackoverflow.com/questions/13345781
+JFreeChart x axis scale-->https://stackoverflow.com/questions/14158305
+Embed the legend into the plot area of JFreeChart-->https://stackoverflow.com/questions/11324487
+How to make plots in Java like in Matlab (same syntax)-->https://stackoverflow.com/questions/38933056
+How can I update a JFreeChart's appearance after it's been made visible?-->https://stackoverflow.com/questions/5522583
+How to hide JFreeChart XYSeries yaxis?-->https://stackoverflow.com/questions/3973920
+JFreeChart BarChart -> NO gradient-->https://stackoverflow.com/questions/7092567
+Making a Scatter Plot Using 2d array and JfreeChart-->https://stackoverflow.com/questions/6598479
+JFreeChart line chart with text at each point-->https://stackoverflow.com/questions/14459322
+How to remove automatic axis label stretching?-->https://stackoverflow.com/questions/13610196
+Setting different y-axis for two series with JFreeChart-->https://stackoverflow.com/questions/29496007
+JFreeChart & Image-->https://stackoverflow.com/questions/13759193
+How to change the axis value font on a JFreeChart-->https://stackoverflow.com/questions/16338817
+Different color for different series in XYline chart JFreeChart-->https://stackoverflow.com/questions/10135441
+JFreeChart XYPlot with labels-->https://stackoverflow.com/questions/21879964
+Jfree chart version of jide soft line chart with gradient fill-->https://stackoverflow.com/questions/26274211
+How to control the increments of values on the Y-Axis of BarChart-->https://stackoverflow.com/questions/38726569
+How to plot out my two vector lists of data on jfreechart-->https://stackoverflow.com/questions/51803588
+Flickering XYImageAnnotation on JFreeChart with timer-->https://stackoverflow.com/questions/13883194
+How to convert a string into TimeSeriesDataItem-->https://stackoverflow.com/questions/38387969
+JFreeChart restore zoom position after refresh-->https://stackoverflow.com/questions/37103831
+LayeredBar Chart using JFreeChart Scale with minimum labels-->https://stackoverflow.com/questions/22142112
+JFreeChart Pie Chart not working-->https://stackoverflow.com/questions/23153322
+disable a series in StackedXYAreaChart - jfreechart-->https://stackoverflow.com/questions/31440690
+How to put benchmark line on barchart?-->https://stackoverflow.com/questions/35649400
+Make chips Selectable on mouse click event in wafermap jfree chart (javafx application)-->https://stackoverflow.com/questions/44830664
+how to set the x axis to int instead of date in Gantt Chart-->https://stackoverflow.com/questions/24064512
+Dynamic graphing using Jfreechart-->https://stackoverflow.com/questions/3204086
+JFreeChart CombinedXYPlot with Time Series-->https://stackoverflow.com/questions/21152492
+JFreeChart - Ring Plot Simple Label Positioning-->https://stackoverflow.com/questions/37414338
+How to internationalize the date value in jfreechart?-->https://stackoverflow.com/questions/46259262
+JFreechart multiline Label on Symbolaxis or other way to align charts-->https://stackoverflow.com/questions/26277969
+Add Regression Line using Java and mysql-->https://stackoverflow.com/questions/51629274
+Multiple Stacked Area datasets in JFreechart-->https://stackoverflow.com/questions/53544495
+Creating a normal distribution graph with JFreeChart-->https://stackoverflow.com/questions/40359388
+Java JFreeChart - plot isn't updated-->https://stackoverflow.com/questions/20375148
+how to make values in X axis horizontal in a JFreeChart?-->https://stackoverflow.com/questions/30003737
+how to display many legends for chart on the image-->https://stackoverflow.com/questions/4793784
+JFreeChart Add Percentage to PieChart in JSP-->https://stackoverflow.com/questions/21723925
+JFreeChart with truncated data points-->https://stackoverflow.com/questions/14274848
+JFreeChart Pie graph labels squishing-->https://stackoverflow.com/questions/29235369
+Using a Hibernate datasource with JFreeCharts-->https://stackoverflow.com/questions/51322308
+Disable right click menu of JFreeChart-->https://stackoverflow.com/questions/46102803
+JFreeChart MultiPiePlot change title font colour-->https://stackoverflow.com/questions/15003614
+Read csv file to draw a pie chart in JfreeChart-->https://stackoverflow.com/questions/18152514
+JFreeChart XYPlot time series y value that intersects x-->https://stackoverflow.com/questions/40688670
+How to transfer object from one class to another class - JAVA-->https://stackoverflow.com/questions/40796297
+why getName() of XSSFWorksheet is not working?-->https://stackoverflow.com/questions/28937892
+Barchart Bar width is very thin in jasper-->https://stackoverflow.com/questions/60486133
+JFreeChart Large Data Can't Read Axis-->https://stackoverflow.com/questions/20351691
+JFreeChart - BarChart with vertical DateAxis-->https://stackoverflow.com/questions/49550648
+How can I draw a chart with a TimeSeries in jfreecharts that doesn't interpolate date values for me?-->https://stackoverflow.com/questions/1485972
+how to change the default color (red) of an XYbarchart [jfreechart]-->https://stackoverflow.com/questions/23188034
+JfreeChart: Need to remove vertical white lines in stackedareachart-->https://stackoverflow.com/questions/45472335
+Manually specifying tick marks on a logarithmic axis in JFreeChart-->https://stackoverflow.com/questions/5279391
+how to draw crosshair on stock barchart-->https://stackoverflow.com/questions/16351806
+Area chart in JFreeChart includes zero-->https://stackoverflow.com/questions/26344892
+Setting different y-axis for two series with JFreeChart-->https://stackoverflow.com/questions/54431379
+Add point shapes to afreechart-->https://stackoverflow.com/questions/21450517
+How to add a Jfreechart(pie chart) to a panel in netbeans-->https://stackoverflow.com/questions/11465096
+How to resize a JFreeChart before encoding as PNG-->https://stackoverflow.com/questions/41044197
+Change format legend Jfreechart-->https://stackoverflow.com/questions/30172755
+How to display current time in DynamicTimeSeriesCollection in Jfreechart?-->https://stackoverflow.com/questions/21473060
+Show values inside LegendItems graphical shape-->https://stackoverflow.com/questions/23990624
+How can i display pie chart in jsp page?-->https://stackoverflow.com/questions/11045181
+Draw a down triangle shape-->https://stackoverflow.com/questions/56675185
+java JFreeChart how do I use renderers to set different paints-->https://stackoverflow.com/questions/19952325
+Difficulty Changing background colour of JFreeChart-->https://stackoverflow.com/questions/36389267
+Dynamic setting of Domain Axis Min Value Expression-->https://stackoverflow.com/questions/17991469
+Make bars in JFreeChart semi-transparent?-->https://stackoverflow.com/questions/18712370
+JFreeChart: One Axis Distribution Chart-->https://stackoverflow.com/questions/25780922
+Break the line of a JFreeChart in Java-->https://stackoverflow.com/questions/19490478
+Hide labels on jfreechart/PiePlot3D piechart-->https://stackoverflow.com/questions/49835040
+JFreeChart: crosshair label custom position-->https://stackoverflow.com/questions/55282813
+How to add custom font to JFreeChart with CP1250 encoding-->https://stackoverflow.com/questions/57572719
+How to plot XYLineChart graph using two arrays: one for x and y coordinates-->https://stackoverflow.com/questions/47052012
+jfreechart - change sample of colors in legend-->https://stackoverflow.com/questions/28084707
+Logarithmic Axis Labels/Ticks Customization-->https://stackoverflow.com/questions/26225645
+How to make the line graph start from zero and end at the last range JFreeChart-->https://stackoverflow.com/questions/38583994
+Graphing Time per trip using JFreeChart-->https://stackoverflow.com/questions/16132009
+JFreeChart: bar overlaps y-axis-->https://stackoverflow.com/questions/4135037
+How to add date in the form of DD/MM/YYYY hh:mm:ss to the X-axis of a TimeSeries graph using jfreechart?-->https://stackoverflow.com/questions/31329801
+Position label text on conditional basis-->https://stackoverflow.com/questions/28967431
+How to set line thickness for multiple series in JFreeChart?-->https://stackoverflow.com/questions/62727005
+How to insert a background image in JfreeChart?-->https://stackoverflow.com/questions/50497664
+Getting bar chart with text formatting in jfreechart library-->https://stackoverflow.com/questions/20046847
+how to display image in html using jsp call?-->https://stackoverflow.com/questions/18910756
+Add label outside bar-->https://stackoverflow.com/questions/25533639
+JFreechart program running, but window not displayed-->https://stackoverflow.com/questions/27921442
+Java Headless Exception after setting -Djava.awt.headless=true-->https://stackoverflow.com/questions/10186275
+Bar chart with exact value printed on top of each bar-->https://stackoverflow.com/questions/63539521
+Jfreechart unable to set time in X axes-->https://stackoverflow.com/questions/24294622
+JFreeChart show values in line chart-->https://stackoverflow.com/questions/61241959
+Jfreechart scatter plot with categories-->https://stackoverflow.com/questions/28558703
+How to convert the number of month in the name abbreviation in Jasper Report?-->https://stackoverflow.com/questions/52476202
+How I can add additional details about the chart outside of the graph-->https://stackoverflow.com/questions/40958162
+How to set color of bar in barChart in JasperStudio based on value in dataset?-->https://stackoverflow.com/questions/57661124
+Add a JFreeChart in to JPanel-->https://stackoverflow.com/questions/47457646
+Getting customizer class error in case using BarChart: BarRenderer cannot be cast to net.sf.jasperreports.engine.JRChartCustomizer-->https://stackoverflow.com/questions/21931160
+How to render Date Values on X Axis of LineChart in 2 Lines using JFreeChart?-->https://stackoverflow.com/questions/55218782
+JFreechart - Polar plot with a colormap-->https://stackoverflow.com/questions/53634159
+JFreechart Gantt chart millisecond X axis?-->https://stackoverflow.com/questions/24993126
+How to stack the chart series on top of each other with vertical separation?-->https://stackoverflow.com/questions/36073345
+Has anyone done crosshairs that follow the mouse in JFreeChart?-->https://stackoverflow.com/questions/9114081
+How to show information of each task in Gantt chart-->https://stackoverflow.com/questions/32450265
+I have a LegendItemEntity, how do I get the LegendItem?-->https://stackoverflow.com/questions/12169604
+Gridlines above chart in JFreeChart-->https://stackoverflow.com/questions/16739295
+Skip Category axis labels in a JFree Bar Chart-->https://stackoverflow.com/questions/20715787
+How to save Bargraph,piechart dynamically in excel-->https://stackoverflow.com/questions/21381684
+JFreechart with string and double-->https://stackoverflow.com/questions/15752485
+Difficulty Changing background colour of JFreeChart-->https://stackoverflow.com/questions/49125149
+Jasper Report Chart manipulate labelExpression-->https://stackoverflow.com/questions/57534347
+jfree Chart draw plot on image-->https://stackoverflow.com/questions/33628786
+Relative Timestamps in a TimeSeries-->https://stackoverflow.com/questions/17820429
+JfreeChart: scroll a graph horizontally and see old values-->https://stackoverflow.com/questions/11572996
+How can i make a graph as shown in image?-->https://stackoverflow.com/questions/17926449
+How to create an SVG with JFreeChart?-->https://stackoverflow.com/questions/53831068
+mouse over chart line in jfreechart-->https://stackoverflow.com/questions/1201837
+Saving JFreeChart chart to a specific directory-->https://stackoverflow.com/questions/53947299
+JFreechart program running, but window not displayed-->https://stackoverflow.com/questions/27921810
+How to disable auto range after Zooming in jfreechart?-->https://stackoverflow.com/questions/37214635
+JFreechart: Count each series over an intervals-->https://stackoverflow.com/questions/6698915
+how to make only one data set to be plotted with lines using JFreeChart?-->https://stackoverflow.com/questions/36399968
+jfreechart need to customize Y axis just for printing-->https://stackoverflow.com/questions/19031461
+Gradient fill under the line XYPlot chart in JFreeChart?-->https://stackoverflow.com/questions/58549331
+How do I set tick units on domain axis after getting it from range axis in a jfreechart in java?-->https://stackoverflow.com/questions/55565650
+set hour range in dateaxis - XYbarchart -jfreechart-->https://stackoverflow.com/questions/33321157
+Chart with Fixed Second Time Interval on X Axis-->https://stackoverflow.com/questions/52587333
+JFreeChart Bar Graph Labels-->https://stackoverflow.com/questions/63538923
+JFree chart by using servlet in jsp-->https://stackoverflow.com/questions/10930943
+jfreechart itext: put multiple charts in one pdf-->https://stackoverflow.com/questions/27872502
+drawing shapes in jfreechart-->https://stackoverflow.com/questions/46082449
+JFreeChart ThermometerPlot multiple CRITICAL subrange-->https://stackoverflow.com/questions/16218725
+JFREECHART line chart : Want X axis to be collection of date ranges-->https://stackoverflow.com/questions/27548774
+JFreeChart Smudging of lines in Candlestick Chart-->https://stackoverflow.com/questions/32841087
+jfreechart - adding label of total to stacked bar-->https://stackoverflow.com/questions/16242233
+JFreeChart Link Axes-->https://stackoverflow.com/questions/23442903
+jfree chart - how to add new item to legend that is not in data source-->https://stackoverflow.com/questions/28502671
+Jfreechart indexoutofbounds exception-->https://stackoverflow.com/questions/45082360
+How to implement a categoryplot with xybubblerenderer-->https://stackoverflow.com/questions/20044548
+JFreeChart and sensor values from stream-->https://stackoverflow.com/questions/23635024
+JFreeChart, how to rescale the y-axis-->https://stackoverflow.com/questions/13159562
+Unable to change legend shape and font in polar plot-->https://stackoverflow.com/questions/46997320
+How to prepare dataset to display in the form of a histogram using JFreeChart?-->https://stackoverflow.com/questions/32780471
+JFreeChart axis position-->https://stackoverflow.com/questions/38400698
+jfreechart xylinechart sorting times isn't updated-->https://stackoverflow.com/questions/21104499
+Update data on JFreeChart-->https://stackoverflow.com/questions/56262459
+JfreeChart XYPlot: Remove 0 on domain axis-->https://stackoverflow.com/questions/15409505
+Resizable JFreeChart inside a JPanel-->https://stackoverflow.com/questions/49123920
+JFreeChart: custom chart with tooltip on mouseover-->https://stackoverflow.com/questions/54070039
+JFreeChart Bar chart custom color?-->https://stackoverflow.com/questions/50953086
+Jfreechart: Drawing line arrow in gantt chart-->https://stackoverflow.com/questions/28786284
+drawing a diagram with JFreeChart-->https://stackoverflow.com/questions/27775799
+change x-axis position in BarChart-->https://stackoverflow.com/questions/26414745
+mouse events in JfreeChart-->https://stackoverflow.com/questions/1206819
+Setting series line style and legend size in JFreeChart-->https://stackoverflow.com/questions/29650880
+How to display jFree chart for a table of values vs Time taken-->https://stackoverflow.com/questions/19171737
+Migrating JFreeChart from Itext 5 to 7-->https://stackoverflow.com/questions/47780461
+stacked interval bar chart in jfreechart-->https://stackoverflow.com/questions/23632798
+Setting date range in DynamicTimeSeriesCollection horizontal axis-->https://stackoverflow.com/questions/21574749
+chartMouseListener and MouseListener-->https://stackoverflow.com/questions/54827631
+How to bring the JfreeChart in jsp?-->https://stackoverflow.com/questions/24625390
+JFreeChart: bar overlaps y-axis-->https://stackoverflow.com/questions/4140789
+how to display image in html using jsp call?-->https://stackoverflow.com/questions/18886664
+Selecting a Bar Chart Category Label-->https://stackoverflow.com/questions/10440692
+How to display a single Histogram bar with a different color-->https://stackoverflow.com/questions/41270910
+JFreeChart + JRuby - fill area between two points on domain axis-->https://stackoverflow.com/questions/2320677
+JFreeChart throws exception on getSeriesVisible-->https://stackoverflow.com/questions/11836014
+Adding legend to jFreechart-->https://stackoverflow.com/questions/15001231
+JFreeChart charts appearance when combined with JasperReports-->https://stackoverflow.com/questions/15968278
+JFreeChart + JRuby - fill area between two points on domain axis-->https://stackoverflow.com/questions/2336895
+Change the color of jfreechart piechart-->https://stackoverflow.com/questions/13092815
+JFreeChart : How to create a middle panel with an oscillator-->https://stackoverflow.com/questions/11352941
+JFree Chart legend with line break-->https://stackoverflow.com/questions/10428292
+How to draw more two grid lines in a chart?-->https://stackoverflow.com/questions/33010598
+Category Axis Label Expression Alignment In jasper Report through Java code-->https://stackoverflow.com/questions/36944238
+JFreeChart Creating layered Time Series-->https://stackoverflow.com/questions/10969370
+JfreeChart: Scatter Plot moving X and Y Axises-->https://stackoverflow.com/questions/4294564
+How to rectify this program?-->https://stackoverflow.com/questions/10896094
+JFreeChart making XYSeriescollection iterable-->https://stackoverflow.com/questions/30761377
+How do I change a JFreeChart's size-->https://stackoverflow.com/questions/49124028
+XYPlot without vertical axis and horizontal line grid?-->https://stackoverflow.com/questions/14443547
+JfreeChart: dynamic Date time values into XY chart-->https://stackoverflow.com/questions/40281667
+Use XYSplineRenderer instead of line chart-->https://stackoverflow.com/questions/55418498
+Set number of angular grid lines to a fixed value for a PolarPlot with jfreechart-->https://stackoverflow.com/questions/34783727
+Can't send a Month as a parameter-->https://stackoverflow.com/questions/55657058
+Get domain value from maximum range value in JfreeChart-->https://stackoverflow.com/questions/13394216
+JFreeChart: ChartMouseClicked not working-->https://stackoverflow.com/questions/12049721
+JFreeChart: How to put arrows at the end of axis lines in scatter plot-->https://stackoverflow.com/questions/22024495
+jfreechart multiple renderers tooltip not working-->https://stackoverflow.com/questions/45140925
+How to get the coordinates of a point on mouse click with JFreeChart?-->https://stackoverflow.com/questions/9688090
+Dynamically update a pie chart in an Observer?-->https://stackoverflow.com/questions/55485470
+How generate dynamic graph from massive Java-->https://stackoverflow.com/questions/35407576
+Minor ticks not showing up on LogAxis in JFreeChart-->https://stackoverflow.com/questions/54097313
+ChartRenderingInfo returns 0's for chart area-->https://stackoverflow.com/questions/17843600
+JFreeCharts - Making a chart with X as category and Y as TimeInterval-->https://stackoverflow.com/questions/43890646
+PlotOrientation of BoxAndWhiskerChart JFreeChart-->https://stackoverflow.com/questions/38403070
+Time series chart, X axis tick labels turning into-->https://stackoverflow.com/questions/31014252
+Add a JFreeChart in to JPanel-->https://stackoverflow.com/questions/9980391
+JFreechart filling sectors series-->https://stackoverflow.com/questions/6673703
+Text labels inside jfree Gantt chart bars-->https://stackoverflow.com/questions/11340137
+How to change the TimeSeries and TimeSeriesCollection to XYSeries and XYCollection respectively in java?-->https://stackoverflow.com/questions/38711095
+How to hide points in XY Step Area Chart?-->https://stackoverflow.com/questions/56602561
+Ranges in bar graph JFreeChart-->https://stackoverflow.com/questions/21718942
+Resize JFreeChart.ChartPanel on maximizing screen-->https://stackoverflow.com/questions/38899416
+Freechart insert into a panel-->https://stackoverflow.com/questions/25047904
+Intersection points of series-->https://stackoverflow.com/questions/43557414
+Clustering bars in a bar chart with the same category-->https://stackoverflow.com/questions/12659576
+Stacked Area Chart, fixed y axis label width-->https://stackoverflow.com/questions/17477805
+Getting values after dragging the points up and down using JFreeChart-->https://stackoverflow.com/questions/38811249
+Graphic point on Area chart JFreechart-->https://stackoverflow.com/questions/20690969
+How to set tooltip in Bar3d in Jfreechart-->https://stackoverflow.com/questions/21884298
+How to export JFreeChart Data to csv file-->https://stackoverflow.com/questions/58530238
+Relative Timestamps in a TimeSeries-->https://stackoverflow.com/questions/12632001
+Decorating a JFreeChart-->https://stackoverflow.com/questions/4218222
+How do I show rainfall index along with temperature on my JFreeChart TimeSeries chart?-->https://stackoverflow.com/questions/44038243
+JFreeChart border line for areas?-->https://stackoverflow.com/questions/20396174
+JFreeChart charts appearance when combined with JasperReports-->https://stackoverflow.com/questions/16358891
+Exception: Requires 'start' < 'end'-->https://stackoverflow.com/questions/15243142
+JFreeChart doesen't work and block my code-->https://stackoverflow.com/questions/54062010
+Exporting Jfreechart image to excel-->https://stackoverflow.com/questions/12075679
+PlotOrientation of BoxAndWhiskerChart JFreeChart-->https://stackoverflow.com/questions/38407595
+How to use JFreeChart with gnuplot-formated text file-->https://stackoverflow.com/questions/10777079
+JFreeChart: Embed legend into boxplot-->https://stackoverflow.com/questions/28475223
+How to graph the data from an array using JFreeChart?-->https://stackoverflow.com/questions/50390250
+Ranking Chart with JFreeChart-->https://stackoverflow.com/questions/24384155
+Split histogram - JfreeChart-->https://stackoverflow.com/questions/35865936
+Java Need stepRender lines for some but not all lines-->https://stackoverflow.com/questions/13025862
+How do I change a JFreeChart's size-->https://stackoverflow.com/questions/49162853
+Add a line chart beneath an existing pie chart-->https://stackoverflow.com/questions/36889641
+JFreeChart interactive chart editing: transforming mouse coordinates into series values-->https://stackoverflow.com/questions/7207613
+Jfreechart tooltip not working for timeseries-->https://stackoverflow.com/questions/44225549
+JFreeChart Date axis Formatting issue-->https://stackoverflow.com/questions/37162729
+Adding a static gridline to a JFreeChart time series chart-->https://stackoverflow.com/questions/4412639
+Obtain JFreeChart data using Data Access Object & Servlet-->https://stackoverflow.com/questions/21381068
+JFreeChart customize BoxAndWhiskerToolTip-->https://stackoverflow.com/questions/45881132
+How can I draw this graph in Swing?-->https://stackoverflow.com/questions/9129484
+How to convert MySQL Timestamp to JFreeChart TimeSeries Graph X Axis values?-->https://stackoverflow.com/questions/37657739
+Jfreechart and jdbc.CategoryDataset-->https://stackoverflow.com/questions/37759567
+JFreechart in Netbeans 8.0.2 & JDK 1.8.0 NOT Working-->https://stackoverflow.com/questions/32672117
+How to create stacked interval charts with JFreeChart?-->https://stackoverflow.com/questions/15136510
+How to display a JFreeChart in a JavaFX tab?-->https://stackoverflow.com/questions/55737893
+Custom colors for different rowkeys in StackedBarchart-->https://stackoverflow.com/questions/23632421
+How to draw a linechart on click in JFreeChart?-->https://stackoverflow.com/questions/51628036
+Set no. of MilliSecond for plot in JFreeChart-->https://stackoverflow.com/questions/23025512
+Preserve user zoom state when updating JFreeChart-->https://stackoverflow.com/questions/11632936
+Plot scala arrays with jfreechart-->https://stackoverflow.com/questions/28517864
+Java - build splines through 3 every points-->https://stackoverflow.com/questions/23138508
+How to use an ArrayList in making an XY line chart in java-->https://stackoverflow.com/questions/32267099
+Export jfreechart to pptx as EMF image - line rendering improper-->https://stackoverflow.com/questions/24770366
+jFreeCharts large number label display-->https://stackoverflow.com/questions/30801655
+JFreeChart is plotting data but not drawing linear regression-->https://stackoverflow.com/questions/61398612
+Read data from CSV file into ArrayList and display in XY Chart-->https://stackoverflow.com/questions/45173688
+JFreeChart with XYBoxAnnotation Open on One Side-->https://stackoverflow.com/questions/44711540
+How to omit fraction in seconds at JFreeChart?-->https://stackoverflow.com/questions/21424359
+XYLineChart rendering the data as discrete lines instead of one shape-->https://stackoverflow.com/questions/19555579
+Increase the length of line in legend in jfreechart-->https://stackoverflow.com/questions/35371277
+Jfreechart with scroller caused-->https://stackoverflow.com/questions/12399391
+How to convert ChartPanel Coordinates to XYPlot coordinates in JFreeChart-->https://stackoverflow.com/questions/25079621
+Y tags in XYSeriesCollection (JFreeChart)-->https://stackoverflow.com/questions/14776435
+Displaying all XYSeries at once in jFreeChart for improving speed-->https://stackoverflow.com/questions/16552793
+JFreechart: Preventing truncation in bubble charts-->https://stackoverflow.com/questions/36295890
+JFreeChart xAxis as milliseconds-->https://stackoverflow.com/questions/10758977
+Disable date-formatting for domain axis in JFreeChart when x-data is Long-->https://stackoverflow.com/questions/38165755
+Dynamic tool tip generator - Jfreechart-->https://stackoverflow.com/questions/31287707
+JFreeChart - horizontal stacked bar chart with date axis-->https://stackoverflow.com/questions/40305146
+The type org.jfree.data.general.Series cannot be resolved-->https://stackoverflow.com/questions/38725689
+JFreeChart - Datasets versus Series?-->https://stackoverflow.com/questions/16564953
+ComboBox selection-->https://stackoverflow.com/questions/23950576
+Passing Locale details via Jasper-Reports to JFreechart-->https://stackoverflow.com/questions/2121751
+Align a jFreeChart (setAlignmentX and Y?)-->https://stackoverflow.com/questions/21815964
+How to improve the quality(resolution) of the jfree chart-->https://stackoverflow.com/questions/54122443
+How to add label values and error bars to a JFreeChart line chart?-->https://stackoverflow.com/questions/38080778
+XYDataset with a single data point : nothing gets plotted-->https://stackoverflow.com/questions/25593804
+Adding a ChartPanel to JPanel-->https://stackoverflow.com/questions/12318681
+Jfreechart piechart generation-->https://stackoverflow.com/questions/22400050
+JFreeChart auto resize on zoom-->https://stackoverflow.com/questions/17923178
+JFreeChart not appearing on JPanel - may be something to do with my code's logic-->https://stackoverflow.com/questions/16828209
+JFreechart main image (excluding YLabel) width differ among plots-->https://stackoverflow.com/questions/31335521
+JfreeChart scatter plot click to popup information-->https://stackoverflow.com/questions/15775096
+Performance issue displaying JFreeChart points, when running in the EDT-->https://stackoverflow.com/questions/60127526
+Pan chart using mouse - Jfreechart-->https://stackoverflow.com/questions/48768153
+How to add annotation in jfree line chart-->https://stackoverflow.com/questions/20373625
+how to Show Jfreechart image generated at server on jsp-->https://stackoverflow.com/questions/11625421
+How to adjust colors in the UI of OptaPlanner?-->https://stackoverflow.com/questions/59429155
+How to change from line chart to bar chart-->https://stackoverflow.com/questions/54362133
+Generating PDF report : jFreeChart and DynamicReports-->https://stackoverflow.com/questions/14998501
+JFreeChart - How do I translate domain crosshair value to a TimeSeriesDataItem-->https://stackoverflow.com/questions/9404018
+How to set Y axis range of of BarGraph created using ChartFactory.createBarChart-->https://stackoverflow.com/questions/36944687
+How to set Content-Length in response header for Jfree chart?-->https://stackoverflow.com/questions/53794134
+Why is there no text in JFreeChart?-->https://stackoverflow.com/questions/8608157
+JFreechart view specific data-->https://stackoverflow.com/questions/17699163
+How to set multiple Renderers on a single XYDataSet in jaspersoft reports customizer for jFreeChart-->https://stackoverflow.com/questions/33203825
+JFree to create a chart with the name not getting reflected in the output-->https://stackoverflow.com/questions/36929231
+Color does not change for different chart datasets-->https://stackoverflow.com/questions/52042882
+Unable to hide y axis line in a stacked bar graph-->https://stackoverflow.com/questions/62868150
+JFreeChart CategoryDataset - Axis refresh/repaint problems-->https://stackoverflow.com/questions/50867973
+How to remove the border in jfreechart?-->https://stackoverflow.com/questions/11717624
+How can I add a horizontal scroll bar in JFreeChart?-->https://stackoverflow.com/questions/11808468
+Jfreechart histogram set translucent colours-->https://stackoverflow.com/questions/32167861
+GradientBackground for JFreeChart DialPlot-->https://stackoverflow.com/questions/42794591
+JFreeChart with truncated data points-->https://stackoverflow.com/questions/14198851
+Plotting multiple regression lines through different Y-Intercepts and X-values-->https://stackoverflow.com/questions/37716411
+iReport 5.0.0 - How to display percentage inside each pieslice-->https://stackoverflow.com/questions/23995159
+JFreeChart XYLineAndShapeRenderer show unwanted vales outside range start and finish-->https://stackoverflow.com/questions/49909020
+JFreeChart How to get date value for CandlestickChart using OHLCSeries-->https://stackoverflow.com/questions/48357893
+Prevent JFreeChart DialPlot wrapping around with large values?-->https://stackoverflow.com/questions/16164197
+How the xy line chart gets automatically updated/redrawn whenever a new data point is added to the existing dataset in jfreechart-->https://stackoverflow.com/questions/12782753
+JFreeChart: update/repaint line graph when a new value is received from another class-->https://stackoverflow.com/questions/33898324
+Barchart is connected to each other but I need it to be separate-->https://stackoverflow.com/questions/41034901
+Draw mathematical functions in Java using JFreeChart-->https://stackoverflow.com/questions/17936389
+JFreeChart: move column labels upper-->https://stackoverflow.com/questions/16706701
+How to center symbols in jfreechart-->https://stackoverflow.com/questions/9205930
+Adding button on jfreechart in java-->https://stackoverflow.com/questions/29198884
+How add more than one line at a freechart Java?-->https://stackoverflow.com/questions/23931485
+Jasper multiaxis chart customized scaling-->https://stackoverflow.com/questions/19486791
+jfreechart in jsp-->https://stackoverflow.com/questions/11314719
+Customize color for individual Domain axis tick labels-->https://stackoverflow.com/questions/37716726
+DynamicReport - How to plot too many data points-->https://stackoverflow.com/questions/43362007
+How to display database values in JFreeChart linechart-->https://stackoverflow.com/questions/20457124
+Adding ChartPanel to CardLayout-->https://stackoverflow.com/questions/36392696
+JFreechart & Servlet: How to compute datapoint from mouse position-->https://stackoverflow.com/questions/5142623
+Bar chart for displaying min/max/avg-->https://stackoverflow.com/questions/16887357
+how to get image map from Jfree chart's Image-->https://stackoverflow.com/questions/21670283
+jfreechart - adding label of total to stacked bar-->https://stackoverflow.com/questions/58854728
+JFreeChart XYPlot XYImageAnnotation mouse click listener-->https://stackoverflow.com/questions/35060850
+Tick mark visiable in polar chart in jfree chart-->https://stackoverflow.com/questions/57820900
+How to determine min and max value for ItemMargin property in StackedBarChart using jFreeChart-->https://stackoverflow.com/questions/17342522
+Number axis setTickUnit to contain a specified number-->https://stackoverflow.com/questions/40199263
+Get Area or Elements in zoomed Scatterplot-->https://stackoverflow.com/questions/27743411
+How to set fixed size of axis tick label font?-->https://stackoverflow.com/questions/45254091
+How to set tooltip on my JFreeChart?-->https://stackoverflow.com/questions/28680090
+How to plot jfree line chart with real numbers in X and Y axis-->https://stackoverflow.com/questions/7252919
+cannot access setDomainAxis() method in my JFreeChart plot-->https://stackoverflow.com/questions/39911574
+Afree chart : How to increase X axis values(gap or domain range) while zooming-->https://stackoverflow.com/questions/24625847
+Why can't I copy a value from one XYSeriesCollection to other?-->https://stackoverflow.com/questions/40525720
+Joining Bars within Waterfall chart-->https://stackoverflow.com/questions/58941310
+JFreeChart: customizing BoxAndWhisker chart-->https://stackoverflow.com/questions/40275190
+Jfreechart selection-->https://stackoverflow.com/questions/465386
+print jfreechart on IE-->https://stackoverflow.com/questions/45013112
+JFree: Stacked area chart continue painting after last point and before first-->https://stackoverflow.com/questions/38764585
+How can I share DomainAxis/RangeAxis across subplots without drawing them on each plot?-->https://stackoverflow.com/questions/32841241
+read XYPlot size after each change in ChartPanel-->https://stackoverflow.com/questions/9592941
+To convert the double into date format using a class in JFreeChart-->https://stackoverflow.com/questions/18492368
+ChartComposite into a scrolledComposite-->https://stackoverflow.com/questions/52947729
+To change the X-axis starting value of graph in Jfreechart-->https://stackoverflow.com/questions/21074065
+JFreeChart format Y-axis to show values in Power-->https://stackoverflow.com/questions/22450677
+How to display time that is stored in database on Timseries Chart-->https://stackoverflow.com/questions/21184746
+Remove x-axis date values in JFreeChart-->https://stackoverflow.com/questions/28860971
+JFreeChart - CategoryAxis step-->https://stackoverflow.com/questions/8611677
+Stacked Bar Chart with percentage composition inside the Bar and total above the Bar in JFreeChart-->https://stackoverflow.com/questions/3132500
+How to internationalize the date value in jfreechart?-->https://stackoverflow.com/questions/17488717
+Adding to a series within a List in Java-->https://stackoverflow.com/questions/29152212
+Editable Java charting libraries-->https://stackoverflow.com/questions/15254255
+JFreeChart: Using ChartMouseEvent to display data on a scatter plot-->https://stackoverflow.com/questions/55562027
+What are the steps to use Customiser Chart Class?-->https://stackoverflow.com/questions/7175784
+JFreeChart loading an array into dataset-->https://stackoverflow.com/questions/10478800
+JfreeChart Axis custom precision or range-->https://stackoverflow.com/questions/23636053
+Update a plot in JFreeChart-->https://stackoverflow.com/questions/20266619
+JFreeChart Dial chart in Coldfusion-->https://stackoverflow.com/questions/6810916
+Updating JFreechart dataset with timer-->https://stackoverflow.com/questions/22009906
+Plotting data over time with JFreeChart-->https://stackoverflow.com/questions/18261771
+JFree Chart with data from MySQL Database into a JPanel-->https://stackoverflow.com/questions/62726484
+JfreeChart limit the number of legend items displayed-->https://stackoverflow.com/questions/8989471
+how to draw multi lines in a line chart using JFreeChart?-->https://stackoverflow.com/questions/29512983
+Why isn't the correct data appears in the gant chart?-->https://stackoverflow.com/questions/24323828
+JFreeChart - IntervalMarker vertical?-->https://stackoverflow.com/questions/5970799
+JFreeChart interpolate values-->https://stackoverflow.com/questions/43626755
+JFreeChart axis label in Hours-->https://stackoverflow.com/questions/30110071
+Jaspersoft Studio: how to set the legend title?-->https://stackoverflow.com/questions/57205434
+Multiple axes on the same data-->https://stackoverflow.com/questions/13362809
+How to combine Java plot code and Java serial code to read Arduino sensor value?-->https://stackoverflow.com/questions/12079879
+Transform mouse listener coordinates into chart coordinates-->https://stackoverflow.com/questions/18257382
+jfreechart: Adding a crosshair overlay to a ganttchart-->https://stackoverflow.com/questions/28409105
+display jfreecharts using servlets-->https://stackoverflow.com/questions/13740226
+Plotting a locus in XY space using JFreeChart-->https://stackoverflow.com/questions/15856480
+JFreeChart How create an areachart with an TimeLine axis-->https://stackoverflow.com/questions/9321219
+How to get selected elements of panels in JList (overlay selected elements)-->https://stackoverflow.com/questions/46404324
+MessageFormat.format - what font size?-->https://stackoverflow.com/questions/37590773
+Basic histogram in JFreeChart-->https://stackoverflow.com/questions/39233380
+How to remove gaps between a time period of JFreeChart-->https://stackoverflow.com/questions/45935829
+How to set logarithmic scale for domain and range axis in XYLineChart-->https://stackoverflow.com/questions/53912014
+JFreeChart Large values-->https://stackoverflow.com/questions/24212989
+Display days in TimeSeriesChart-->https://stackoverflow.com/questions/5583930
+jfree chart custom label-->https://stackoverflow.com/questions/36830243
+JFreeChart: set line colors for XY Chart - 4 series, 2 datasets, dual axes-->https://stackoverflow.com/questions/21429044
+Show newest inserted values in chart with TimeSeriesCollection when zoomed-->https://stackoverflow.com/questions/53760614
+Restrict panning when a certain limit on DateAxis has been reached-->https://stackoverflow.com/questions/45925164
+Configure two range axis in jFreeChart histogram-->https://stackoverflow.com/questions/52620412
+jFreechart points vanish when clicking-->https://stackoverflow.com/questions/36846122
+Change the unit of x axis in JFreeChart Gantt chart-->https://stackoverflow.com/questions/27696975
+JFreeChart:I want to display some Category values..not all-->https://stackoverflow.com/questions/8818833
+JFreeChart X axis labels are going out of chart area-->https://stackoverflow.com/questions/57778775
+change the gantt chart x axis to seconds with 5sec intervals - jFreeChart-->https://stackoverflow.com/questions/14170277
+Jfreechart indexoutofbounds exception-->https://stackoverflow.com/questions/44993182
+Which is the More appropriate JFree Dataset to Pass 3 Strings and 1Double Values as Parameter?-->https://stackoverflow.com/questions/8998171
+CrosshairOverlay throws NullpointerException with CombinedXYPlot (jfreechart)-->https://stackoverflow.com/questions/46174712
+Jfreechart - can we set a shape for a datapoint in StackedAreaChart?-->https://stackoverflow.com/questions/31189798
+JFreeChart create custom value axis for time-->https://stackoverflow.com/questions/23660191
+JFreeChart Stacked Area Chart not continous-->https://stackoverflow.com/questions/7694537
+How can I get a values from the line chart in java?-->https://stackoverflow.com/questions/38757476
+How to create a line chart with date's on both axis?-->https://stackoverflow.com/questions/44144506
+JFreeChart Bar chart with one category and custom bar positions-->https://stackoverflow.com/questions/17452447
+Dynamically repaint ScatterPlot in jfreechart-->https://stackoverflow.com/questions/19749344
+JFreeCharts Subtitles show up below legend?-->https://stackoverflow.com/questions/31167627
+Bubble chart with custom colors in each bubble in a series-->https://stackoverflow.com/questions/48887164
+JFreechart Polar Chart shape annotation-->https://stackoverflow.com/questions/6541516
+Jfreechart: Display weeks on x axis for value of days-->https://stackoverflow.com/questions/43677029
+Dynamic Pie chart in Jfreechart - how to set colours-->https://stackoverflow.com/questions/31083733
+How to combine two line graphs into one graph using jfreechart?-->https://stackoverflow.com/questions/5482589
+Waterfall Chart - Space between bars-->https://stackoverflow.com/questions/57964116
+jfreechart custom scroll produces index out of bound exception-->https://stackoverflow.com/questions/44008195
+JFreeChart - how to reverse axis order-->https://stackoverflow.com/questions/21846184
+JFreeChart's Bar Chart Bar Unit-->https://stackoverflow.com/questions/42612723
+HeatMaps with JFreeChart-->https://stackoverflow.com/questions/47822428
+How to only change the colour of the Moving Average curve-->https://stackoverflow.com/questions/31771689
+JFreeChart chart.getWidth() not working when trying to left-align subtitle to centered title-->https://stackoverflow.com/questions/38591949
+How to create a hollow pie chart using JFreeChart library-->https://stackoverflow.com/questions/47217675
+JFreechart LookUpPaintScale color gradient-->https://stackoverflow.com/questions/12735198
+Java Free Chart Question-->https://stackoverflow.com/questions/6100639
+How to disable scaling in JFreeChart?-->https://stackoverflow.com/questions/2906497
+Is it possible to add Legend to the plot in JFreeChart?-->https://stackoverflow.com/questions/3148105
+Margin plot and chart in JFreeChart-->https://stackoverflow.com/questions/16389569
+How can I display a JFreeChart in web browser with Stripes Framework-->https://stackoverflow.com/questions/5656240
+JFreeChart interactive chart editing handling ChartMouseEvent-->https://stackoverflow.com/questions/7190089
+JFreeChart hiding (some) x axis values-->https://stackoverflow.com/questions/37527994
+How to remove the section label boxes surrounding the section label in pie chart-->https://stackoverflow.com/questions/21363641
+XYLineChart rendering the data as discrete lines instead of one shape-->https://stackoverflow.com/questions/19538357
+JFreeChart Ring Chart : Only Legends section is displaying but Ring Chart is not displaying-->https://stackoverflow.com/questions/32052945
+Create an array of TaskSeries-->https://stackoverflow.com/questions/41074342
+Unable to change legend shape and font in polar plot-->https://stackoverflow.com/questions/46931762
+Area chart in JFreeChart includes zero-->https://stackoverflow.com/questions/24200733
+jfreechart - adding label of total to stacked bar-->https://stackoverflow.com/questions/11627469
+Add title to JFreeChart SVG-->https://stackoverflow.com/questions/61141546
+Reduce size of iText generated PDF including time series bar chart-->https://stackoverflow.com/questions/21531158
+How to save current chart in ChartPanel as PNG programmatically?-->https://stackoverflow.com/questions/48463574
+JFreeChart multiple tooltips along x-axis-->https://stackoverflow.com/questions/45794083
+StackedXYAreaChart - displays wrong series number always-->https://stackoverflow.com/questions/31307333
+Java and JFreechart panel-->https://stackoverflow.com/questions/30332903
+How to customize x-axis label interval in JFreeChart?-->https://stackoverflow.com/questions/61361413
+Displaying different jfree charts-->https://stackoverflow.com/questions/25339075
+Update a plot in JFreeChart-->https://stackoverflow.com/questions/20249924
+JFreeChart Bar Chart dataset from database-->https://stackoverflow.com/questions/21431971
+how to dissable x-axis line in jfreecharts-->https://stackoverflow.com/questions/20087383
+how to only include long description for each category in Pie chart's legend?-->https://stackoverflow.com/questions/22014831
+Setting histogram breaks in JFreeChart-->https://stackoverflow.com/questions/29283528
+Getting value instead of name on pie chart in Java-->https://stackoverflow.com/questions/5377443
+Setting currency format for labels of vertical axis in jFreeChart-->https://stackoverflow.com/questions/15254843
+Secondary domain axis narrower than primary-->https://stackoverflow.com/questions/55584636
+JFreechart right click on XYItemEntity-->https://stackoverflow.com/questions/48279802
+JFreechart SeriesException-->https://stackoverflow.com/questions/17606242
+OutOfMemoryError while rendering JList content in a ListCellRenderer-->https://stackoverflow.com/questions/46527553
+How to count no.of series added in line chart using jfreechart?-->https://stackoverflow.com/questions/42782778
+Jfreechart optimize X axis labels-->https://stackoverflow.com/questions/57544811
+jFreeChart LineChart adjust Ticks-->https://stackoverflow.com/questions/11691152
+Legend Title not displayed correctly within chart-->https://stackoverflow.com/questions/58827377
+Pretty pie charts in JFreechart-->https://stackoverflow.com/questions/14828640
+JFreeChart - horizontal stacked bar chart with date axis-->https://stackoverflow.com/questions/40106979
+JFreeChart Legend Display-->https://stackoverflow.com/questions/12222748
+Set Width of XYSeries JfreeChart-->https://stackoverflow.com/questions/7407471
+Multiple chart on the same frame with JFreeChart-->https://stackoverflow.com/questions/54815951
+Resize Vertical Tick Label Height (XYStepChart)-->https://stackoverflow.com/questions/2723103
+Time Series chart X-axis Time display-->https://stackoverflow.com/questions/4439912
+How to set JFreeChart.Histogram to corespond to data-->https://stackoverflow.com/questions/56452182
+Adding Text on each bar of jfreechart bar graph-->https://stackoverflow.com/questions/42338600
+How to set Locale to labels in Bar Chart?-->https://stackoverflow.com/questions/36385929
+TimeSeries: how can I render fill under the line (or, appear to be an area graph)-->https://stackoverflow.com/questions/14503372
+Plotting time in milliseconds - JFreeChart (Step Chart)-->https://stackoverflow.com/questions/11019445
+Adding custom font JFreeChart-->https://stackoverflow.com/questions/21044622
+Unable to display center text in ring chart-->https://stackoverflow.com/questions/56672573
+JFreeChart XY plot: change domain scale-->https://stackoverflow.com/questions/22459163
+JFreeChart with semitransparent overlapping bars-->https://stackoverflow.com/questions/44211859
+JFreeChart's plot doesn't intersect with the axes-->https://stackoverflow.com/questions/9995220
+OutOfMemoryError while rendering JList content in a ListCellRenderer-->https://stackoverflow.com/questions/46529856
+Changing legend shapes in Jfree pie chart-->https://stackoverflow.com/questions/26360712
+How to show time (HH:mm) in bar chart value expression?-->https://stackoverflow.com/questions/45777199
+How to customize legend of a BoxAndWhisker plot-->https://stackoverflow.com/questions/38162820
+JFreeChart - BarChart with vertical DateAxis-->https://stackoverflow.com/questions/26635994
+Changing the colors of Gantt renderer-->https://stackoverflow.com/questions/27789194
+How can I display a JFreeChart in web browser with Stripes Framework-->https://stackoverflow.com/questions/1975834
+How to turn off shapes in YIntervalRenderer?-->https://stackoverflow.com/questions/15169185
+JFreeChart set labels for error-->https://stackoverflow.com/questions/45179182
+Plot points instead of lines? JFreeChart PolarChart-->https://stackoverflow.com/questions/2435753
+adding graph chart to a buffer-->https://stackoverflow.com/questions/13093044
+Create JFreeChart with both axes keyed numerically-->https://stackoverflow.com/questions/30468553
+Setting series visiblity to False also hides it from the legend-->https://stackoverflow.com/questions/45421781
+How to draw three lines on dynamic JFreechart?-->https://stackoverflow.com/questions/34708819
+CombinedDomainXYPlot not rescaling domain axis-->https://stackoverflow.com/questions/11870558
+Error with a class customiser for charts-->https://stackoverflow.com/questions/7202253
+How to remove outliers(small circle) from Box and Whisker chart in jfreechart-->https://stackoverflow.com/questions/53768672
+How to add a line to BoxAndWhiskerChart?-->https://stackoverflow.com/questions/15636430
+JFreeChart in portlet-->https://stackoverflow.com/questions/7323727
+JFreeChart: overlapping bars in XY chart that have the same value-->https://stackoverflow.com/questions/9171052
+Open new frame or chart when a bar or a bar chart is clicked-->https://stackoverflow.com/questions/28926590
+How to add range axis label in a Stacked barchart-->https://stackoverflow.com/questions/21378697
+Creating an area graph below a XYDifference(Renderer) graph-->https://stackoverflow.com/questions/8880041
+Data table with legends in JfreeChart/Java-->https://stackoverflow.com/questions/2875939
+JFreeChart - Mark direction a line moves in XYPlot-->https://stackoverflow.com/questions/17818437
+How can I transfer dots to line in JFreeChart?-->https://stackoverflow.com/questions/47734050
+cast DefaultCategoryDataset to CategoryDataset-->https://stackoverflow.com/questions/36172705
+How to omit fraction in seconds at JFreeChart?-->https://stackoverflow.com/questions/21255956
+JFreeChart Bar chart Design Change-->https://stackoverflow.com/questions/16042193
+JFreeChart - listen for changes to series-->https://stackoverflow.com/questions/11949556
+JFreeChart and Y-axis Units-->https://stackoverflow.com/questions/31046879
+Annotations on candlestick chart not working-->https://stackoverflow.com/questions/56587266
+Annotations on a JFreeChart Pie Chart-->https://stackoverflow.com/questions/8591541
+JFreeChart with shadow and circle nodes-->https://stackoverflow.com/questions/49413747
+Getting value instead of name on pie chart in Java-->https://stackoverflow.com/questions/5375101
+Append PDF at the available space of another PDF file-->https://stackoverflow.com/questions/21900950
+How to remove space betwwen bars on a category in iReport?-->https://stackoverflow.com/questions/30209358
+How do I control the normalization of bars heights in JFreeChart?-->https://stackoverflow.com/questions/8779961
+Why setBaseSectionPaint doesn't work?-->https://stackoverflow.com/questions/44258985
+Display LineFunction2D in JFreeChart-->https://stackoverflow.com/questions/11899833
+Set Pie Chart into a JLabel instead of new frame-->https://stackoverflow.com/questions/32914429
+JFreeChart interactive chart editing: transforming mouse coordinates into series values-->https://stackoverflow.com/questions/7207709
+simple jfreechart bar chart using xml file-->https://stackoverflow.com/questions/25651812
+Image as category label in iReport chart-->https://stackoverflow.com/questions/52888345
+How to get Y value from X value in JFreeChart-->https://stackoverflow.com/questions/26970217
+Getting Assigned Paint for TimeSeries-->https://stackoverflow.com/questions/46456586
+JFreeChart AutoRange Doesn't Work on Multiple Series On The Same Plot-->https://stackoverflow.com/questions/45385538
+How do I change the background / transparency of a 3dPieChart (JFreeChart API)?-->https://stackoverflow.com/questions/37668380
+How to adjust the xand y axis line in jfreecharts-->https://stackoverflow.com/questions/21681521
+Is it possible to manipulate the position of the Domain axis in a JFreeChart plot?-->https://stackoverflow.com/questions/7230037
+How can I redirect my jfreecharts into the tabs?-->https://stackoverflow.com/questions/24964886
+From jFreeChart Millisecond to java.util.Date-->https://stackoverflow.com/questions/22547276
+rotate a JPanel to display it upside down when launched?-->https://stackoverflow.com/questions/20832833
+Adding JFreeChart to a JPanel-->https://stackoverflow.com/questions/29291027
+How to delete blank lines in chart line in jasper report-->https://stackoverflow.com/questions/54398648
+Is it possible to customize label for each category in bar chart?-->https://stackoverflow.com/questions/10942403
+XYPlot without vertical axis and horizontal line grid?-->https://stackoverflow.com/questions/14443791
+Create Fatter Candlesticks in JFreeChart-->https://stackoverflow.com/questions/32663075
+JFreeChart how to draw dashed line with closely spaced points-->https://stackoverflow.com/questions/19774879
+How to omit fraction in seconds at JFreeChart?-->https://stackoverflow.com/questions/21254411
+Adding values to JFreeChart XYDataset from csv file using opencsv-->https://stackoverflow.com/questions/29702677
+jfreechart each plot in JSplitPane-->https://stackoverflow.com/questions/23728729
+Jfree chart Find Subplot-->https://stackoverflow.com/questions/8525187
+overlapping lables in JFreeChart pie charts-->https://stackoverflow.com/questions/16644658
+How can I run jfree chart as applet?-->https://stackoverflow.com/questions/11897489
+Color does not sync with legend-->https://stackoverflow.com/questions/54180207
+creating XY Chart between different points with jfreechart-->https://stackoverflow.com/questions/48428297
+How to customize a tooltip of CategoryPlot items in JFreeChart?-->https://stackoverflow.com/questions/8932920
+Java JFreeChart - get coordinates of boundary points-->https://stackoverflow.com/questions/22828694
+Display X Values on the XYLineChart-->https://stackoverflow.com/questions/10331500
+java jfreechart library bubble size issue-->https://stackoverflow.com/questions/41575283
+Create a marker / crosshair in a CombinedDomainXYPlot-->https://stackoverflow.com/questions/12936580
+How to dynamically update HistogramDataset with two series in jfreechart?-->https://stackoverflow.com/questions/44698067
+JFreeChart ignoring lower values in Pie Chart-->https://stackoverflow.com/questions/37047746
+XYPointerAnnotation in TimeSeries JFreeChart-->https://stackoverflow.com/questions/18194728
+How to change barchart color based on frequency value-->https://stackoverflow.com/questions/54680803
+Dynamicreports: Remove black border wrapped legend-->https://stackoverflow.com/questions/41117790
+How to generate a bar chart in JFreeChart with default components' size?-->https://stackoverflow.com/questions/4135087
+How to put benchmark line on barchart?-->https://stackoverflow.com/questions/35649403
+JFreeChart dial in NetBeans JButton-->https://stackoverflow.com/questions/30681932
+How to set stacked bar chart series color dynamically?-->https://stackoverflow.com/questions/44695959
+Get Java2D y-coordinate in category plot corresponding to a value in jfreechart-->https://stackoverflow.com/questions/32004926
+JFreeChart Polar chart fill Zero to the point-->https://stackoverflow.com/questions/12607586
+jfree chart org.jfree.chart.plot.CategoryPlot cannot be cast to org.jfree.chart.plot.XYPlot-->https://stackoverflow.com/questions/37836581
+Has anyone successfully used Google's WindowBuilder Eclipse plugin to build a UI that includes JFreeChart components?-->https://stackoverflow.com/questions/8303328
+JFreeChart Dial chart in Coldfusion-->https://stackoverflow.com/questions/6811728
+JFreechart - How to add extra info in tooltip-->https://stackoverflow.com/questions/25854266
+Changing series outline stroke and paint in scatter plot-->https://stackoverflow.com/questions/36145298
+How to implement a SaveAs Dialog in a JfreeChart SaveAsPNG method-->https://stackoverflow.com/questions/31775829
+URL for each box in stacked bar graph-->https://stackoverflow.com/questions/10326712
+enormous execution time for generate JFreeChart graphic-->https://stackoverflow.com/questions/12074860
+How to add additional text in JFreechart?-->https://stackoverflow.com/questions/21454169
+Partition pie chart into equal parts jfreechart-->https://stackoverflow.com/questions/17339499
+Combining XYPlot and TimeSeries elements in JFreeChart-->https://stackoverflow.com/questions/45021688
+Can we draw a line chart over GroupedStackedBarChart-->https://stackoverflow.com/questions/16170186
+Using Multiple Renderers in JFreechart-->https://stackoverflow.com/questions/38242696
+How to add a scale bar or axis to a scatter plot?-->https://stackoverflow.com/questions/36279488
+My JFrame is not showing output of the dial-->https://stackoverflow.com/questions/38906326
+JFreeChart X axis labels are going out of chart area-->https://stackoverflow.com/questions/57637615
+Changing color of labels in JFreeChart-->https://stackoverflow.com/questions/37039730
+Formatting axis with decimals dynamically for JFreeChart-->https://stackoverflow.com/questions/37958220
+Choose the series of data that you want to display-->https://stackoverflow.com/questions/43286042
+How to draw moving and Running sine wave chart using JFree chart in java?-->https://stackoverflow.com/questions/25166390
+how to import and plot CSV in Java with timestamp-->https://stackoverflow.com/questions/37975536
+How to insert a JFreeChart chart in a panel on a separate GUI?-->https://stackoverflow.com/questions/36757609
+Setting Angle tick labels of JFreeChart Polar Chart in JavaFX Application-->https://stackoverflow.com/questions/48351147
+Plotting a given timestamp from Databse in JFreeChart x axis-->https://stackoverflow.com/questions/28324587
+Customizing Dates on the Gantt Chart for Jasper Reports-->https://stackoverflow.com/questions/7771293
+Labels with LayeredBarRenderer-->https://stackoverflow.com/questions/63464855
+Labels with LayeredBarRenderer-->https://stackoverflow.com/questions/63460730
+JFreeChart & iText : black image when creating pdf-->https://stackoverflow.com/questions/11225815
+Jfreechart Boxplot DefaultBoxAndWhiskerCategoryDataset initialization-->https://stackoverflow.com/questions/35814571
+Market depth chart using JFreeChart-->https://stackoverflow.com/questions/26941741
+JFreeChart using Large Numbers as Values-->https://stackoverflow.com/questions/33595830
+JFreeChart - mark a border between stacked bar components-->https://stackoverflow.com/questions/11633457
+Add GeneralPath shape in XYShapeAnnotation of JFreechart-->https://stackoverflow.com/questions/59622033
+increasing space on top of a piechart-->https://stackoverflow.com/questions/21701650
+JFreeChart array as dataset-->https://stackoverflow.com/questions/27483223
+JFreeChart Bar Chart Production-->https://stackoverflow.com/questions/17205022
+fill the area with color in time series jfreechart-->https://stackoverflow.com/questions/13683174
+How to use writeChartAsPNG in JSP?-->https://stackoverflow.com/questions/5496567
+Saving a Jfreechart to my database-->https://stackoverflow.com/questions/9938955
+Multiple series Issue in line chart using JDBCCategoryDataset-->https://stackoverflow.com/questions/36671538
+Update a XY line JFreeChart dinamically with different refresh rates-->https://stackoverflow.com/questions/38106526
+How do I draw a short line over a bar on an XYPlot using XYBarRenderer?-->https://stackoverflow.com/questions/25775172
+About adding series in TableXYDataset-->https://stackoverflow.com/questions/11985678
+Loop through a series points in JFreechart-->https://stackoverflow.com/questions/6698822
+How to omit fraction in seconds at JFreeChart?-->https://stackoverflow.com/questions/21277818
+JFreeChart PolarPlot remove radius labels?-->https://stackoverflow.com/questions/2430561
+Pan chart using mouse - Jfreechart-->https://stackoverflow.com/questions/31230431
+Change line color above a threshold with jfreechart-->https://stackoverflow.com/questions/43793277
+Label on bars in JFreeChart Bar Graph-->https://stackoverflow.com/questions/9075240
+Is it possible to show hollow candle in Candlestick jfreechart?-->https://stackoverflow.com/questions/29153931
+JFreeCharts Legend Text and Color Box Don't align-->https://stackoverflow.com/questions/31166200
+JFreeChart StackedXYAreaRenderer causes "crimp" in chart-->https://stackoverflow.com/questions/40499848
+Display column keys of stacked bar chart vertically in jFreeCharts-->https://stackoverflow.com/questions/16319258
+jfreechart - customizing Pie chart labels for each pie-->https://stackoverflow.com/questions/16905576
+Set color for border of legend of JFree Chart-->https://stackoverflow.com/questions/15169645
+Get different series to have the same color-->https://stackoverflow.com/questions/9763985
+JFreeChart: Displaying data on a scatter plot on mouse click-->https://stackoverflow.com/questions/3910288
+jasper reports axis lines thikness-->https://stackoverflow.com/questions/35477455
+How to remove title space of jfreechart chartpanel?-->https://stackoverflow.com/questions/11470066
+In jfreechart TimeSeriesCollection how to show dates which has only values?-->https://stackoverflow.com/questions/12303469
+How to format a minimalist chart with jFreeChart?-->https://stackoverflow.com/questions/22933053
+JFreeChart: remove gridlines on CombinedDomainXYPlot with PeriodAxis-->https://stackoverflow.com/questions/23791490
+JFreeChart : obtain data source value on mouse click-->https://stackoverflow.com/questions/5936131
+JFreeChart connect one point to all other around-->https://stackoverflow.com/questions/29243713
+Remove separation between bar and axis line in JFreeChart-->https://stackoverflow.com/questions/42455239
+JFreeChart | How to add percentage to top of each bar and format domain axis (X axis) ticklabels?-->https://stackoverflow.com/questions/53964999
+Change the starting value of value axis in Bar chart with Jfreechart-->https://stackoverflow.com/questions/18666549
+jfreechart xyplot set background color for small area-->https://stackoverflow.com/questions/41611267
+Shift the origin from (0,0) to (0,50) in JFreeChart-->https://stackoverflow.com/questions/10092561
+Generating a standard deviation plot from a row in a JTable-->https://stackoverflow.com/questions/16095672
+JFreeChart displaying three dots (...) in place of the values on the X axis-->https://stackoverflow.com/questions/45331595
+How to change the color of multiple ellipses using a loop (JFreeChart)-->https://stackoverflow.com/questions/35236100
+JFreeChart plot a natural logarithm and e-->https://stackoverflow.com/questions/33701274
+Can you set multiple paints on the same XYPlot?-->https://stackoverflow.com/questions/38879705
+Update transparancy of jFreeChart in real time with JSlider-->https://stackoverflow.com/questions/17370398
+Displaying a histogram of image data-->https://stackoverflow.com/questions/28519474
+How to plot a Line Graph in Java using dataset from a text file?-->https://stackoverflow.com/questions/36764715
+Issue with setFont on chart (JFreeChart)-->https://stackoverflow.com/questions/8780530
+How to remove box around label in piechart?-->https://stackoverflow.com/questions/41202556
+Bar JFree Charts y-axis-->https://stackoverflow.com/questions/12109125
+JFreeChart doesn't appear when I click on button-->https://stackoverflow.com/questions/37020264
+How to display the total in a StackedXYBarChart-->https://stackoverflow.com/questions/14536020
+JfreeChart fix the Pie Chart Radius-->https://stackoverflow.com/questions/27009623
+JFreeChart x axis Format-->https://stackoverflow.com/questions/26115603
+Change the key of XYSeries at run time-->https://stackoverflow.com/questions/16050494
+How to plot color map in java?-->https://stackoverflow.com/questions/37235165
+How do I set the body and border colors to be the same in a JFreeChart Candlestick chart-->https://stackoverflow.com/questions/21104919
+Changing background colour of jFreeChart-->https://stackoverflow.com/questions/49124974
+Map dynamic dataset to different axis in JFreeChart-->https://stackoverflow.com/questions/39202162
+JFreechart tick units-->https://stackoverflow.com/questions/10028000
+Plot a quadratic curve as a function of y on a scatterplot-->https://stackoverflow.com/questions/38815969
+How can I change the colour of specific bars in jFreeChart bar-->https://stackoverflow.com/questions/33658657
+How to create shapes on a JFreeChart line chart?-->https://stackoverflow.com/questions/43126288
+Gantt chart with nanoseconds-->https://stackoverflow.com/questions/25119407
+Width of item in second series too wide-->https://stackoverflow.com/questions/27611246
+Jfree: Stacked Area Chart overlap at zero values-->https://stackoverflow.com/questions/13035079
+JFreechart draw arc on chart-->https://stackoverflow.com/questions/6620017
+retrieve data set having only a ChartPanel reference (Java + JFreeChart)-->https://stackoverflow.com/questions/7174185
+Plotting BarGraph according to month days dynamically using java-->https://stackoverflow.com/questions/15311014
+Adding text not related to sections into Legend in JFreeChart PieChart-->https://stackoverflow.com/questions/13885280
+JFreeChart Label Width-->https://stackoverflow.com/questions/37216788
+How to remove space betwwen bars on a category in iReport?-->https://stackoverflow.com/questions/30210099
+JFreeChart category image-->https://stackoverflow.com/questions/16326090
+Difficulty Changing background colour of JFreeChart-->https://stackoverflow.com/questions/36404170
+Removing border areas on JFreeChart MultiplePiePlot-->https://stackoverflow.com/questions/21167309
+JFreeChart - Problem of colors with 2 legends-->https://stackoverflow.com/questions/6439236
+Toggle upper bound of JFreeChart axis range-->https://stackoverflow.com/questions/8237618
+Pie Chart without labels in JFreeChart-->https://stackoverflow.com/questions/38122395
+JFreeChart: Add and sync a srollbar when zooming a chart (Eclipse plugin / SWT)-->https://stackoverflow.com/questions/8824780
+To change the X-axis starting value of graph in Jfreechart-->https://stackoverflow.com/questions/21073314
+Change color of scatter plot based on y axis for CategoryPlot-->https://stackoverflow.com/questions/31906614
+Customize bar colors in XYJfree chart-->https://stackoverflow.com/questions/7421815
+CategoryPlot from a JTable - JFreeChart-->https://stackoverflow.com/questions/36552669
+jfree chart bar chart add $ to range value-->https://stackoverflow.com/questions/16531842
+How to create hollow shapes in JFreeChart Scatter Plot-->https://stackoverflow.com/questions/58864452
+JFreechart Gantt chart millisecond X axis?-->https://stackoverflow.com/questions/12534475
+How to export JFreeChart Data to csv file-->https://stackoverflow.com/questions/12067110
+JFreeChart change data in an existing bar chart-->https://stackoverflow.com/questions/21267585
+iReport / jFreeChart - Combining getItemPaint() override and series colors-->https://stackoverflow.com/questions/13918546
+JFreeChart: move column labels upper-->https://stackoverflow.com/questions/14358117
+How to draw line over a JFreeChart chart?-->https://stackoverflow.com/questions/9214812
+Insert a button into a JFreeChart graph-->https://stackoverflow.com/questions/30464151
+JFreeChart Java - How to create it is a lot of series in a cycle-->https://stackoverflow.com/questions/21953170
+Put a JFrame in a jPanel-->https://stackoverflow.com/questions/22023553
+JFree Chart Scatter plot Date against Time-->https://stackoverflow.com/questions/26560014
+JfreeChart: Stacked Bar Chart and CategoryAxis showing dates-->https://stackoverflow.com/questions/12184526
+JFreeChart PolarPlot: mathematical orientation-->https://stackoverflow.com/questions/10227275
+JFreechart candlestick chart weird behaviour on drag-->https://stackoverflow.com/questions/18421887
+Jfreechart - any option for multiple XY charts like with the multi pie plot?-->https://stackoverflow.com/questions/11958726
+Why does a Latin-characters-only Java font claim to support Asian characters, even though it does not?-->https://stackoverflow.com/questions/26090878
+JFreechart, Line Chart with filled Areas-->https://stackoverflow.com/questions/31172327
+JFreeChart Scatter Plot moving data between series-->https://stackoverflow.com/questions/13794076
+Jfree chart change Y axis data-->https://stackoverflow.com/questions/5281276
+How to highlight or focus particular pie section in a pie chart using JFreeChart-->https://stackoverflow.com/questions/42065899
+XYItemRenderer::setSeriesPaint() does not set the color of chart line-->https://stackoverflow.com/questions/15484944
+JFreeChart addBin with race condition?-->https://stackoverflow.com/questions/31202924
+JFreeChart simple plot (parabola)-->https://stackoverflow.com/questions/20085921
+JFreeChart : Remove comma in X label axis-->https://stackoverflow.com/questions/20005537
+JFreechart Loop through polar chart sectors-->https://stackoverflow.com/questions/6585876
+JFreeChart - customizing RingChart-->https://stackoverflow.com/questions/21229111
+JFreeChart x axis scale-->https://stackoverflow.com/questions/14167983
+How to get max Y value from StackedBarChart (jFreeChart)?-->https://stackoverflow.com/questions/10001433
+Exception with JFreechart in JInternalFrame-->https://stackoverflow.com/questions/9339590
+JFreeChart - How to show real-time on the X-Axis of a TimeSeries chart-->https://stackoverflow.com/questions/21307289
+XYTextAnnotation in DynamicTimeSeriesCollection-->https://stackoverflow.com/questions/18328489
+What is the right way to create thumbnail charts?-->https://stackoverflow.com/questions/40445144
+Listening for zoom reset event in JFreeChart-->https://stackoverflow.com/questions/8715475
+JFreeChart scaling of Boxplots with several Categories-->https://stackoverflow.com/questions/6849654
+JPanel added but not displayed "in time"-->https://stackoverflow.com/questions/14894894
+Create bar chart with database values using JFreeChart-->https://stackoverflow.com/questions/29896020
+JFreeChart: Dynamic point selection in ChartPanel using ChartMouseListener and mouse move-->https://stackoverflow.com/questions/24200665
+JFreeChart BarChart - Category Markers-->https://stackoverflow.com/questions/11391403
+JFree chart selective point thickness-->https://stackoverflow.com/questions/8635956
+Almost identical programs. One works, one doesn't-->https://stackoverflow.com/questions/19122941
+Code for changing the color of subtasks in Gantt Chart-->https://stackoverflow.com/questions/8949913
+draw smooth spline java (that old chestnut)-->https://stackoverflow.com/questions/19168131
+Jfreechart: Is it possible to change the bar color?-->https://stackoverflow.com/questions/4952969
+JFreeChart and Y-axis Units-->https://stackoverflow.com/questions/7925790
+Change Background Dashed Lines JFreeChart-->https://stackoverflow.com/questions/11002161
+jfreechart crashes when using Yahoo Finance Quotes-->https://stackoverflow.com/questions/18414325
+AFreeChart OHLCDataset: how to remove spaces where no data at date axis?-->https://stackoverflow.com/questions/15382187
+Hide some category labels in JFreeChart to avoid overlapping-->https://stackoverflow.com/questions/10928977
+Dynamic Time Series Stacked Area Chart in Java-->https://stackoverflow.com/questions/16813456
+Make a custom ring chart in JFreeChart-->https://stackoverflow.com/questions/37275542
+JFreeChart Bar chart custom color?-->https://stackoverflow.com/questions/24640555
+Adding ChartPanel to JTabbedPane using JPanel-->https://stackoverflow.com/questions/15715096
+Multiple graphs in multiple figures using jFreeChart-->https://stackoverflow.com/questions/20154153
+Update normal distribution graph using JTextField in JFreeChart-->https://stackoverflow.com/questions/40167139
+Converting a JFreeChart TimeSeries series with Day data to Week or Month data?-->https://stackoverflow.com/questions/12481509
+JFreeChart Vertical Label for IntervalMarker-->https://stackoverflow.com/questions/13382931
+Abnormal Behaviour of the Zoom In and Zoom Out Functionality of the JFreeChart?-->https://stackoverflow.com/questions/41544007
+jFreeChart: How to hide items from legend?-->https://stackoverflow.com/questions/3342965
+JFreeChart : How to draw the moving average over a OHLC chart-->https://stackoverflow.com/questions/11333573
+How do I rotate tick mark labels on the domain of a number axis in JFreeChart?-->https://stackoverflow.com/questions/7071205
+JFreeChart: data disappears after zooming and panning-->https://stackoverflow.com/questions/12065474
+How to use custom fonts in JFreeChart diagrams?-->https://stackoverflow.com/questions/16402783
+Add Margin and Chart header alignment in Jfree charts-->https://stackoverflow.com/questions/23882761
+Fix Bar Chart Width and Spacing between bars in JFreeChart-->https://stackoverflow.com/questions/8224006
+How to show information of each task in Gantt chart-->https://stackoverflow.com/questions/15241250
+JFreeChart MeterPlot-->https://stackoverflow.com/questions/19833774
+Get rid of jfreechart chartpanel unnecessary space-->https://stackoverflow.com/questions/25416067
+JFree chart set axis to percentage-->https://stackoverflow.com/questions/13046804
+JfreeChart customize ticket labels-->https://stackoverflow.com/questions/13918735
+I have a bar chart which I want to update and I tried the revalidate and repaint methods but with no success-->https://stackoverflow.com/questions/15460735
+How To Add a jFreeChart to a jPanel in a jFrame?-->https://stackoverflow.com/questions/21505503
+JFreeChart Add Percentage to PieChart in JSP-->https://stackoverflow.com/questions/11322085
+How to draw line chart using jfreechart from top to bottom?-->https://stackoverflow.com/questions/26024846
+Rendering Swing component smoothly every 500 millisecond-->https://stackoverflow.com/questions/38512314
+CombinedDomainXYPlot not rescaling domain axis-->https://stackoverflow.com/questions/11895709
+How to use multiple TaskSeries in a JFreeChart TaskSeriesCollection-->https://stackoverflow.com/questions/11139995
+Populate JFreechart TimeSeriesCollection from Mysql DB?-->https://stackoverflow.com/questions/24762078
+Dynamically generate JFreeChart in servlet-->https://stackoverflow.com/questions/1255811
+Change JFreeChart Histogram colors dynamically?-->https://stackoverflow.com/questions/40545725
+How to change marker size in XYPlot of jfreechart-->https://stackoverflow.com/questions/16049474
+JFreeChart How create an areachart with an TimeLine axis-->https://stackoverflow.com/questions/9329038
+JFreeChart MouseListener doesn't resolve chart elements-->https://stackoverflow.com/questions/8002959
+Custom graph - Java Swing-->https://stackoverflow.com/questions/29709153
+Create barchart using jfreechart with bars of same category together-->https://stackoverflow.com/questions/2179818
+JFreeChart gap between legend labels-->https://stackoverflow.com/questions/22248287
+How to construct and use TimeSeriesCollections-->https://stackoverflow.com/questions/5119422
+How to create hollow shapes in JFreeChart Scatter Plot-->https://stackoverflow.com/questions/58887924
+Jfreechart get Mouse Co-ordinates-->https://stackoverflow.com/questions/6093992
+How can I add horizontal line to bar chart in Jasper Report?-->https://stackoverflow.com/questions/35242866
+JFreeChart: set line colors for XY Chart - 4 series, 2 datasets, dual axes-->https://stackoverflow.com/questions/21454019
+JFreeChart: how to change XYPlot foreground color?-->https://stackoverflow.com/questions/4054911
+Y Axis is not displaying correct figure for Millions and Billions in JFreeChart-->https://stackoverflow.com/questions/43291672
+Jfreechart: Is it possible to change the bar color?-->https://stackoverflow.com/questions/4953004
+scatter plot in jfreechart from database-->https://stackoverflow.com/questions/24592754
+Java - how to receive point coordinates after mouse button release (JFreeChart)-->https://stackoverflow.com/questions/20107935
+JFreeChart with shadow and circle nodes-->https://stackoverflow.com/questions/20091143
+JFreeChart 1.09 renders JPG charts with whole background in RED (or pink)-->https://stackoverflow.com/questions/11223088
+How can I display a JFreeChart in web browser with Stripes Framework-->https://stackoverflow.com/questions/1975275
+Displaying a jfreechart in a jsp page-->https://stackoverflow.com/questions/10713897
+How to do Mouse Tracing in Jfreechart?-->https://stackoverflow.com/questions/7441437
+Create barchart using jfreechart with bars of same category together-->https://stackoverflow.com/questions/6581863
+jfreechart - remove spaces in chart-->https://stackoverflow.com/questions/8968033
+Has anyone done crosshairs that follow the mouse in JFreeChart?-->https://stackoverflow.com/questions/1934814
+JFreeChart : How to display hours format on the y axis-->https://stackoverflow.com/questions/11564855
+How to draw moving and Running sine wave chart using JFree chart in java?-->https://stackoverflow.com/questions/22372372
+JFreeChart PolarPlot: mathematical orientation-->https://stackoverflow.com/questions/3467341
+Logarithmic Axis Labels/Ticks Customization-->https://stackoverflow.com/questions/10353270
+Update PieChart in JFreeChart-->https://stackoverflow.com/questions/28754147
+Getting the first and last time in milliseconds with Java 8 Time API-->https://stackoverflow.com/questions/34433892
+Add values to a specified series in a DynamicTimeSeriesCollection-->https://stackoverflow.com/questions/15521956
+Code difference between jfreechart XYLineAndShaperanderer, XYDotRenderer and XYSplineRenderer?-->https://stackoverflow.com/questions/14790187
+How to set same scale for domain and range axes JFreeChart-->https://stackoverflow.com/questions/8056418
+jFree Chart different time formats for x axis tick labels-->https://stackoverflow.com/questions/23633708
+Adding date/time to JFreeChart graph-->https://stackoverflow.com/questions/12273108
+Auto-Scale Y-Axis in JfreeChart-->https://stackoverflow.com/questions/7411565
+JFreeChart: how to set gradient paint for series in spider chart-->https://stackoverflow.com/questions/21998949
+Autorange a Graph that Dynamically Adds Values-->https://stackoverflow.com/questions/11454507
+Logarithmic Axis Labels/Ticks Customization-->https://stackoverflow.com/questions/10348406
+How to create "please wait" Swing dialog while component paints-->https://stackoverflow.com/questions/11748081
+Problems with creating multiple series in XYPlot with JFreeChart-->https://stackoverflow.com/questions/17116083
+JFreeChart: RangeAxis in percentage stacked bar chart is in [0,1] instead of [0,100]-->https://stackoverflow.com/questions/11210268
+JFreeChart custom x-axis labels-->https://stackoverflow.com/questions/29410011
+Display mouse coordinates near mouse as hints on mouse move-->https://stackoverflow.com/questions/21180275
+How to display percentage values of label JFreeChart?-->https://stackoverflow.com/questions/30967052
+Update graph with JFreeChart and slider-->https://stackoverflow.com/questions/15207445
+Changing the shapes of points in scatter plot-->https://stackoverflow.com/questions/6670432
+Jfreechart - how to add a legend item with a dash?-->https://stackoverflow.com/questions/7187440
+How to remove x-axis line in jfreechart-->https://stackoverflow.com/questions/20082520
+Adding a ChartPanel to JPanel-->https://stackoverflow.com/questions/12318835
+JFreeChart create tooltip in ChartPanel-->https://stackoverflow.com/questions/6770477
+JFreeChart Legend Display-->https://stackoverflow.com/questions/12222818
+JFreechart X and Y axis scaling-->https://stackoverflow.com/questions/11306916
+JFreeChart - change SeriesStroke of chart lines from solid to dashed in one line-->https://stackoverflow.com/questions/13247649
+Colours to PieChart in JFreeChart-->https://stackoverflow.com/questions/1088789
+How to decrease the font size in dial charts-->https://stackoverflow.com/questions/428212
+Is there a workaround to make DateAxis draw tick from the first day of the week?-->https://stackoverflow.com/questions/11054421
+Plot points instead of lines? JFreeChart PolarChart-->https://stackoverflow.com/questions/2464722
+Icon on a JFreeChart XY Plot-->https://stackoverflow.com/questions/528923
+JFreeChart - Timeseries and CandleStick on the same chart-->https://stackoverflow.com/questions/12174577
+Add BufferedImage to PDFBox document-->https://stackoverflow.com/questions/7067605
+How to add a JFreechart to a Panel?-->https://stackoverflow.com/questions/12505305
+How to get horizontal scroll bars in JScrollPane-->https://stackoverflow.com/questions/13261549
+JFreeChart How to get data points displayed on a Time series chart-->https://stackoverflow.com/questions/10307452
+Is it possible to add Legend to the plot in JFreeChart?-->https://stackoverflow.com/questions/3154350
+JFreechart SeriesException-->https://stackoverflow.com/questions/6210074
+Adding a static gridline to a JFreeChart time series chart-->https://stackoverflow.com/questions/5461149
+How to save current chart in ChartPanel as PNG programmatically?-->https://stackoverflow.com/questions/34836396
+JFreeChart - XYBarChart Show Separate Bars for Each Series-->https://stackoverflow.com/questions/11368428
+histogram in jfreechart-->https://stackoverflow.com/questions/2214873
+How to use SwingWorker?-->https://stackoverflow.com/questions/20945255
+JFreeChart: set minimum X-tick interval in the chart-->https://stackoverflow.com/questions/22248393
+JFreeCharts axis : tick labels alignment-->https://stackoverflow.com/questions/13088514
+Can someone please provide step-by-step instructions for using jfreechart in an IntelliJ project-->https://stackoverflow.com/questions/26025800
+How can I fix this code so I can add this JFreeChart to a panel-->https://stackoverflow.com/questions/8199839
+Java JFreeChart Category Step Chart horizontal (image to explane)-->https://stackoverflow.com/questions/12839170
+Generate bar-chart using jFreechart with guava lib-->https://stackoverflow.com/questions/19583463
+JFreeChart BarChart -> NO gradient-->https://stackoverflow.com/questions/12503612
+JfreeChart: Scroll XYBarChart Horizontally - (chart translation and navigation)-->https://stackoverflow.com/questions/3269399
+Text labels inside jfree Gantt chart bars-->https://stackoverflow.com/questions/11309098
+Width of the bar in Jfreechart-->https://stackoverflow.com/questions/3042084
+How do I rotate tick mark labels on the domain of a number axis in JFreeChart?-->https://stackoverflow.com/questions/7073428
+Using JFreeChart to display recent changes in a time series-->https://stackoverflow.com/questions/6517440
+jfreechart setbackgroundpaint not doing anything-->https://stackoverflow.com/questions/16421392
+Adding text not related to sections into Legend in JFreeChart PieChart-->https://stackoverflow.com/questions/7686791
+JFreeChart with highlighted points-->https://stackoverflow.com/questions/11921639
+Adding points to XYSeries dynamically with JfreeChart-->https://stackoverflow.com/questions/7208723
+Setting Different Color to particular Row in Series-JFreeChart-->https://stackoverflow.com/questions/7285922
+How to get diamond shape for points in JFreechart-->https://stackoverflow.com/questions/14822991
+Random errors when changing series using JFreeChart-->https://stackoverflow.com/questions/13205322
+Width of the bar in Jfreechart-->https://stackoverflow.com/questions/1974310
+JFreeChart Bar Graph Labels-->https://stackoverflow.com/questions/7171490
+how to change pie chart colors of JFreeChart?-->https://stackoverflow.com/questions/13010394
+How can multiple datasets be used with JFreeChart?-->https://stackoverflow.com/questions/1076067
+JFreeChart Date axis Formatting issue-->https://stackoverflow.com/questions/21503977
+How to display legend for Pie Chart in columns?-->https://stackoverflow.com/questions/13309587
+Changing mercury color in thermometer in JFreeChart-->https://stackoverflow.com/questions/7602126
+JFreechart series tool tip above shape annotation-->https://stackoverflow.com/questions/6802375
+line chart using jfreechart-->https://stackoverflow.com/questions/10720306
+How to add a Jfreechart(pie chart) to a panel in netbeans-->https://stackoverflow.com/questions/8203780
+JFreechart with minor grid lines-->https://stackoverflow.com/questions/13560320
+setItemLabelsVisible deprecated, but setBaseItemLabelsVisible(true); does nothing-->https://stackoverflow.com/questions/30641908
+Display label on top of Bar chart in JFree-->https://stackoverflow.com/questions/10717243
+Reduce the width of the bar graph in java-->https://stackoverflow.com/questions/31786305
+JasperReports Charts : Accessing Series expression 's Value in Customize() method-->https://stackoverflow.com/questions/17534715

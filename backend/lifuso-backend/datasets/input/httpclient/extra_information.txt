@@ -1,0 +1,628 @@
+Apache HttpClient (4.1 and newer): how to do basic authentication?-->https://stackoverflow.com/questions/21984046
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/18848086
+Java http clients and POODLE-->https://stackoverflow.com/questions/26439487
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/50274496
+How do Jersey-client and Apache HTTP Client compare?-->https://stackoverflow.com/questions/19525463
+HttpClient 4.3.5 ConnectionRequestTimeOut vs ConnectTimeout for HttpConnectionParams.setConnectionTimeout in 4.0.1-->https://stackoverflow.com/questions/37721251
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/4837230
+HttpClientBuilder basic auth-->https://stackoverflow.com/questions/21592593
+What might cause a CircularRedirectException when accessing a password-protected URL with Apache DefaultHttpClient?-->https://stackoverflow.com/questions/6698588
+How to set custom User-Agent with apache http client library 4.1?-->https://stackoverflow.com/questions/20615576
+Deprecated Java HttpClient - How hard can it be?-->https://stackoverflow.com/questions/23219857
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/31294623
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/19167494
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/28393619
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/21560006
+Mocking Apache HTTPClient using Mockito-->https://stackoverflow.com/questions/33942402
+How to get HttpClient returning status code and response body?-->https://stackoverflow.com/questions/14024700
+Hi, how can I configure Apache HttpClient to bypass proxy for local adresses?-->https://stackoverflow.com/questions/21572705
+javax.net.ssl.SSLPeerUnverifiedException: Host name does not match the certificate subject provided by the peer-->https://stackoverflow.com/questions/34657512
+Write in body request with HttpClient-->https://stackoverflow.com/questions/18188462
+javax.net.ssl.SSLPeerUnverifiedException: Host name does not match the certificate subject provided by the peer-->https://stackoverflow.com/questions/36507502
+What is the difference between CloseableHttpClient and HttpClient in Apache HttpClient API?-->https://stackoverflow.com/questions/37508147
+What is the difference between CloseableHttpClient and HttpClient in Apache HttpClient API?-->https://stackoverflow.com/questions/26990679
+How to use Socks 5 proxy with Apache HTTP Client 4?-->https://stackoverflow.com/questions/25203021
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/5769991
+For a HttpGet method what are getParams()?-->https://stackoverflow.com/questions/2989492
+Apache HttpClient 4.0.3 - how do I set cookie with sessionID for POST request?-->https://stackoverflow.com/questions/7722590
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/27229976
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/1519487
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/13742322
+Apache HttpComponents HttpClient timeout-->https://stackoverflow.com/questions/19836903
+Parsing JSON from HttpClient request using JSON.org parser-->https://stackoverflow.com/questions/23743763
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/28847175
+Force retry on specific http status code-->https://stackoverflow.com/questions/22936987
+Java HttpRequest JSON & Response Handling-->https://stackoverflow.com/questions/22816851
+How do I use an SSL client certificate with Apache HttpClient?-->https://stackoverflow.com/questions/45541092
+HttpClient redirecting to URL with spaces throwing exception-->https://stackoverflow.com/questions/3420816
+Apache HttpClient making multipart form post-->https://stackoverflow.com/questions/28079961
+Apache HttpClient (4.1 and newer): how to do basic authentication?-->https://stackoverflow.com/questions/9402760
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/2703233
+How to use DefaultHttpClient in Android?-->https://stackoverflow.com/questions/5410907
+Write in body request with HttpClient-->https://stackoverflow.com/questions/18188408
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/9592318
+apache httpclient- most efficient way to read response-->https://stackoverflow.com/questions/17466336
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/17526301
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/7665711
+Apache HTTPClient 4.3.3 execute method for a GET request blocks and never returns-->https://stackoverflow.com/questions/22073709
+Deprecated Java HttpClient - How hard can it be?-->https://stackoverflow.com/questions/15336796
+How to use Socks 5 proxy with Apache HTTP Client 4?-->https://stackoverflow.com/questions/22960881
+A bit confused about HttpClient[Java] handling gzip responses-->https://stackoverflow.com/questions/34395570
+Apache HttpClient making multipart form post-->https://stackoverflow.com/questions/2981395
+How to add,set and get Header in request of HttpClient?-->https://stackoverflow.com/questions/17826541
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/8065310
+How do I get the cookies from Apache HttpClient 4.x?-->https://stackoverflow.com/questions/22219962
+How do I authenticate with Spnego/Kerberos and Apache's HttpClient?-->https://stackoverflow.com/questions/24633381
+commons httpclient - Adding query string parameters to GET/POST request-->https://stackoverflow.com/questions/13867251
+Apache PoolingHttpClientConnectionManager throwing illegal state exception-->https://stackoverflow.com/questions/28646605
+Apache HttpClient timeout-->https://stackoverflow.com/questions/29592232
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/27556715
+How to add parameters to all HttpClient request methods?-->https://stackoverflow.com/questions/14049143
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/5979031
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/6972173
+HttpClient 4 - how to capture last redirect URL-->https://stackoverflow.com/questions/20508342
+How can I get the cookies from HttpClient?-->https://stackoverflow.com/questions/28973623
+HttpClient 4.3.x, fixing deprecated code to use current HttpClient implementations-->https://stackoverflow.com/questions/23202869
+HttpClient.getParams() deprecated. What should I use instead?-->https://stackoverflow.com/questions/22041217
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/6378872
+How do I save a file downloaded with HttpClient into a specific folder-->https://stackoverflow.com/questions/32068416
+How can I get cookie from httpclient?-->https://stackoverflow.com/questions/24084181
+Android: send post that has no response-->https://stackoverflow.com/questions/11132432
+How do you send a 3d array in a GET request with Apache HTTP client?-->https://stackoverflow.com/questions/36111966
+Apache HttpClient 4.5 cross host redirect-->https://stackoverflow.com/questions/35830226
+Cannot set protocol version on Camel http component URI-->https://stackoverflow.com/questions/19360515
+Apache http client sample failing for Digest authentication-->https://stackoverflow.com/questions/41362679
+Apache HttpClient and custom ports-->https://stackoverflow.com/questions/55396719
+How to consume stream response body using Apache HC-->https://stackoverflow.com/questions/53336267
+HttpClient authenticating to Jenkins-->https://stackoverflow.com/questions/54984823
+Multipart Post request in Apache Httpclient 4.5.6 not working-->https://stackoverflow.com/questions/56394902
+Apache HTTPClient does not make more than 2 connections-->https://stackoverflow.com/questions/27886450
+android upload file opened via by storage api presented in kitkat-->https://stackoverflow.com/questions/34038136
+Java library to generate Oauth1.0a signature-->https://stackoverflow.com/questions/38605610
+Cannot get params from httpRequest-->https://stackoverflow.com/questions/12973127
+Java and HttpsUrlConnection ignoring ssl certificates-->https://stackoverflow.com/questions/47494880
+Faster detection of interrupted connections during PUT operation with Apache 'HttpClient'-->https://stackoverflow.com/questions/25492364
+HttpClient don't work-->https://stackoverflow.com/questions/34478575
+Cannot process url with vertical/pipe bar in Java/Apache HttpClient-->https://stackoverflow.com/questions/18316928
+Apache HttpClientBuilder - IllegalArgumentException-->https://stackoverflow.com/questions/62745305
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated only on production server-->https://stackoverflow.com/questions/52000794
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/46281854
+Unexpected HTTP 404 when running Request.Get() after a Post()-->https://stackoverflow.com/questions/33443245
+How can I set default headers for all requests?-->https://stackoverflow.com/questions/48426077
+PUT Request form body in RESTLet and HTTPClient-->https://stackoverflow.com/questions/22095575
+unit test apache http client proxy 407-->https://stackoverflow.com/questions/28153178
+Add query parameters to a GetMethod (using Java commons-httpclient)?-->https://stackoverflow.com/questions/16231293
+uploading data from one machine to another machine using HttpClient-->https://stackoverflow.com/questions/47531242
+How do I get the URI from a CloseableHttpResponse-->https://stackoverflow.com/questions/56912882
+HttpClient - can't access cookies in GET method-->https://stackoverflow.com/questions/25690592
+Efficient way of using apache HttpClient-->https://stackoverflow.com/questions/41497387
+How to encode UTF-8 CloseableHttpClient request-->https://stackoverflow.com/questions/56372224
+Java8 Apache Http Client 4.5.12 - SocketException-->https://stackoverflow.com/questions/62289173
+How to create an SSLContext that will trust no server certificates?-->https://stackoverflow.com/questions/43685791
+Apache Client 4.x close a HttpRequestBase-->https://stackoverflow.com/questions/31749470
+useSystemProperties() is not working with Apache HttpClientBuilder.create() version 4.5.6-->https://stackoverflow.com/questions/59405843
+How to use HttpClient with ANY ssl cert, no matter how "bad" it is-->https://stackoverflow.com/questions/53322387
+unit test apache http client proxy 407-->https://stackoverflow.com/questions/29964964
+Application running in websphere liberty 17.0.0.2 or latest 17.0.0.3 is not able to utilize proxy system properties-->https://stackoverflow.com/questions/47322231
+Does Apache httpclient support multipart\related?-->https://stackoverflow.com/questions/49669114
+No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)) httpclient-->https://stackoverflow.com/questions/56194130
+wget returns 200/OK while org.apache.http.impl.client.CloseableHttpClient returns 404/NOT_FOUND-->https://stackoverflow.com/questions/56605768
+No valid credentials provided (Mechanism level: No valid credentials provided (Mechanism level: Failed to find any Kerberos tgt)) httpclient-->https://stackoverflow.com/questions/43628795
+apache httpclient use https proxy: peer not authenticated-->https://stackoverflow.com/questions/22282025
+How to send mail using Httpclient 4.x-->https://stackoverflow.com/questions/12453957
+BrowserMob Proxy + Apache HttpClient: Receiving javax.net.ssl.SSLHandshakeException-->https://stackoverflow.com/questions/47560401
+HttpClient 4.2.5 workings with cookies-->https://stackoverflow.com/questions/16852731
+Sending json string with Http GET request with HttpClient in android-->https://stackoverflow.com/questions/28110457
+How to get redirect url from Java HttpClient-->https://stackoverflow.com/questions/61716574
+how to ignore self signed certificate and supress peer not authenticated error-->https://stackoverflow.com/questions/14610520
+How to upload a file via apache-httpclient?-->https://stackoverflow.com/questions/57693459
+Java 8 Apache HttpClient - slow connection-->https://stackoverflow.com/questions/47021347
+Making a crawler with HTTPClient-->https://stackoverflow.com/questions/58650693
+preemptive authentication using gss/kerberos authentication in java-->https://stackoverflow.com/questions/51799179
+Anyway to send Custom Method by using Java HttpClient-->https://stackoverflow.com/questions/60626665
+Java Apache HttpClient - Proxy not responding-->https://stackoverflow.com/questions/36051994
+Tomcat manager script deploy large war not working-->https://stackoverflow.com/questions/28180447
+Apache HttpClient: Cannot retrieve cookies sent from the server in Android device-->https://stackoverflow.com/questions/13524517
+Pass value to Apache Httpclient Response Handler-->https://stackoverflow.com/questions/52984562
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/33169961
+how to post (parameters) and get the response from Httpclient and Httppost in android-->https://stackoverflow.com/questions/27059974
+connection persistence using httpclient-->https://stackoverflow.com/questions/15105925
+Android 6.0 HTTPClient issue with LG G3 phone-->https://stackoverflow.com/questions/37211551
+httpcomponents's ssl connection results in socket is closed-->https://stackoverflow.com/questions/59898653
+HTTPClient hung or slow in multi-threaded environment-->https://stackoverflow.com/questions/63166421
+Configuring Apache HttpClientBuilder to have timeout and cookies-->https://stackoverflow.com/questions/40919005
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/57562603
+Send UrlEncodedForm data using euc-jp in Apache HttpClient-->https://stackoverflow.com/questions/63710191
+Successful curl request fails with Java HttpURLConnection and Apache HttpClient-->https://stackoverflow.com/questions/51345870
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/37132800
+Prevent ClosableHttpClient from sending cookies-->https://stackoverflow.com/questions/48111508
+How to pass complex parameter to POST request using Apache HTTP client?-->https://stackoverflow.com/questions/58642614
+Apache httpclient not honouring proxy setting using setProxy-->https://stackoverflow.com/questions/60889599
+Set TLS Version with Apache Httpclient and WebSphere Liberty Profile-->https://stackoverflow.com/questions/36782650
+Java httppost file post print upload speed-->https://stackoverflow.com/questions/25576222
+Java SNI unrecognized name-->https://stackoverflow.com/questions/48121723
+How to POST NON-JSON request using Apache HttpClient?-->https://stackoverflow.com/questions/55887308
+How can I get the underlying Socket from an httpclient connection?-->https://stackoverflow.com/questions/39884119
+Configuring SSL in Apache HttpAsyncClient-->https://stackoverflow.com/questions/49384107
+Apache httpclient unknown host issue-->https://stackoverflow.com/questions/57202678
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/35203927
+Post request from Java-Application on HCP isn´t performed-->https://stackoverflow.com/questions/46490083
+HttpClient 4 redirect handling different inside Tomcat-->https://stackoverflow.com/questions/20538547
+How to create a pool of Apache HttpClients with varying SSL client auth certificates-->https://stackoverflow.com/questions/61061556
+HTTP Post to API return 403 FORBIDDEN-->https://stackoverflow.com/questions/52004270
+Http MultiPart request-->https://stackoverflow.com/questions/13603693
+Apache HTTP Client POST throws 500-->https://stackoverflow.com/questions/44190899
+Writing to MediaWiki: Connection reset by peer-->https://stackoverflow.com/questions/12752759
+java.net.SocketException: Too many open files-->https://stackoverflow.com/questions/39972546
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/51658299
+How to pass complex parameter to POST request using Apache HTTP client?-->https://stackoverflow.com/questions/58643800
+Use of non-ascii credentials not working in httpclient 4.3.x-->https://stackoverflow.com/questions/27960595
+How to use HttpClient with ANY ssl cert, no matter how "bad" it is-->https://stackoverflow.com/questions/53376065
+Java Apache http library file upload issue-->https://stackoverflow.com/questions/43082002
+Getting SSLHandshakeException while testing SOAP web service-->https://stackoverflow.com/questions/22766139
+multipart request on Android goes to timeout-->https://stackoverflow.com/questions/25165374
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/16086220
+Gson parse response to get generic class-->https://stackoverflow.com/questions/51963988
+Cookies in Apache HTTP Client - Java-->https://stackoverflow.com/questions/40623101
+Edit a value and post to http with HttpPost-->https://stackoverflow.com/questions/18547019
+Logging in to facebook using apache HTTP client-->https://stackoverflow.com/questions/25012614
+compressing with GZIPOutputStream to upload without creating a gzip file locally-->https://stackoverflow.com/questions/25981765
+HttpClient Connection pool shut down-->https://stackoverflow.com/questions/53001258
+how to know apache httpclient is using what version of SSL-->https://stackoverflow.com/questions/60565260
+Caching Digest Authentication Responses-->https://stackoverflow.com/questions/33681538
+sending empty content with HttpClient-->https://stackoverflow.com/questions/34880146
+Cookies getting ignored in Apache httpclient 4.4-->https://stackoverflow.com/questions/29972864
+Switching from custom Spring's CommonsHttpInvokerRequestExecutor to HttpComponentsHttpInvokerRequestExecutor-->https://stackoverflow.com/questions/27604961
+How to ignore SSL certificate error using Apache HTTPClient but log it-->https://stackoverflow.com/questions/45075925
+HttpPost request unsuccessful-->https://stackoverflow.com/questions/24107606
+Is there a way to call a method when "PoolingHttpClientConnectionManager" create a connection everytime?-->https://stackoverflow.com/questions/50453689
+Apache HttpClient doesn't get content of pages using pagination links. I get 200 status but html has no content-->https://stackoverflow.com/questions/60302554
+Multi-threaded connection manager with Jersey Apache Client 4-->https://stackoverflow.com/questions/43519313
+How to force Apache HttpClient / HttpConnection to absolutely close tcp connection?-->https://stackoverflow.com/questions/27881738
+Apache httpcomponent returns java.net.UnknownHostException: Name or service not known-->https://stackoverflow.com/questions/34144261
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/56326645
+Apache HttpClient Persistent Connection usage-->https://stackoverflow.com/questions/31219790
+Apache httpclient unknown host issue-->https://stackoverflow.com/questions/57204439
+Set TLS Version with Apache Httpclient and WebSphere Liberty Profile-->https://stackoverflow.com/questions/36801181
+How can I get cookie from httpclient?-->https://stackoverflow.com/questions/24097941
+Prevent ClosableHttpClient from sending cookies-->https://stackoverflow.com/questions/48108484
+Apache HttpClientBuilder.create().setUserAgent(...) not working-->https://stackoverflow.com/questions/59230813
+Correct way to implement HTTP Connection Pooling-->https://stackoverflow.com/questions/50890586
+HttpClient - Upload JAR file using Tomcat Webdav leads to "invalid or corrupt jarfile"-->https://stackoverflow.com/questions/50505966
+Load image into BufferedImage with Apache httpclient-->https://stackoverflow.com/questions/55941509
+Faster detection of interrupted connections during PUT operation with Apache 'HttpClient'-->https://stackoverflow.com/questions/25169036
+Android HTTPClient sometimes slow connecting?-->https://stackoverflow.com/questions/25834777
+Pass value to Apache Httpclient Response Handler-->https://stackoverflow.com/questions/61190994
+Generating HttpRequest from specific IP in Java-->https://stackoverflow.com/questions/60025797
+HttpClient 4.3.x, fixing deprecated code to use current HttpClient implementations-->https://stackoverflow.com/questions/58693634
+Java HTTP Requests via Apache HTTP Client Library-->https://stackoverflow.com/questions/27455912
+How to know HttpResponse content is string or stream-->https://stackoverflow.com/questions/23391135
+unable to create and set cookie to handle JSESSSIONID-->https://stackoverflow.com/questions/36772516
+Java Apache httpdelete - 400 error-->https://stackoverflow.com/questions/40045481
+getEntity().getContent() method of HttpResponse only have </ERROR>-->https://stackoverflow.com/questions/12872792
+Login page authentication with Httpclient and navigate to next page-->https://stackoverflow.com/questions/25897006
+NonRepeatableRequestException after adding Basic Auth-->https://stackoverflow.com/questions/52036008
+Apache httpclient: why doesn't retry when timeout-->https://stackoverflow.com/questions/27397433
+Apache HttpClient (4.1 and newer): how to do basic authentication?-->https://stackoverflow.com/questions/41481476
+Java GET redirected URL after HTTP Post exceute failed-->https://stackoverflow.com/questions/20013330
+HttpClient : hostname didn't match - accessible from browser but not from code-->https://stackoverflow.com/questions/41220713
+HTTPClient - Capture a list of all Redirects-->https://stackoverflow.com/questions/51552359
+Get all the headers for HttpPost with entity-->https://stackoverflow.com/questions/36872764
+Execute HTTP GET with Apache HttpClient v.4-->https://stackoverflow.com/questions/16809959
+Decompress gzip json response to string in Android-->https://stackoverflow.com/questions/42587614
+How to update target host of a request in Apache HttpClient?-->https://stackoverflow.com/questions/42209024
+How to use HttpClient libraries to download a file from Google Drive?-->https://stackoverflow.com/questions/18237801
+How to set HTTP outbound gateway sending request using big buffer-->https://stackoverflow.com/questions/46042601
+passing attributes in apache http client-->https://stackoverflow.com/questions/41222496
+Apache HttpAsyncClient-->https://stackoverflow.com/questions/18760177
+Apache HTTP client 4.3 credentials per request-->https://stackoverflow.com/questions/33391944
+Apache HttpClient not receiving entire response-->https://stackoverflow.com/questions/50210000
+Correct way to implement HTTP Connection Pooling-->https://stackoverflow.com/questions/50890427
+HttpClient 4.5.x multithread request error: has not been leased from this pool-->https://stackoverflow.com/questions/62626957
+Unable to login using Apache HttpClient library-->https://stackoverflow.com/questions/23440561
+Does Apache httpclient support multipart\related?-->https://stackoverflow.com/questions/49968437
+HttpClient authenticating to Jenkins-->https://stackoverflow.com/questions/18370377
+Uploading to the Google Publisher API-->https://stackoverflow.com/questions/27870813
+Retrieving Stock Quotes using Yahoo Finance API-->https://stackoverflow.com/questions/20940953
+How to send JSON data as body in POST request through HttpClient-->https://stackoverflow.com/questions/39993750
+How to stop resource leak at HttpClient?-->https://stackoverflow.com/questions/48380786
+How do I upgrade from DefaultHttpClient() to HttpClientBuilder.create().build()?-->https://stackoverflow.com/questions/22644425
+How to use Elasticsearch Rest api in java?-->https://stackoverflow.com/questions/42340397
+Is it possible to add an additional subdomain to a existing SSL certificate for HttpClient 4.4?-->https://stackoverflow.com/questions/29277114
+What is the best way to test a factory/builder producing third party objects that lack a good equality?-->https://stackoverflow.com/questions/53506198
+Java HtmlUnit - can't login to wordpress-->https://stackoverflow.com/questions/27902968
+Access site requiring login an self-signed cert with Apache HttpClient-->https://stackoverflow.com/questions/24265921
+how to make Unirest(java) ignore certificate error-->https://stackoverflow.com/questions/35242912
+Does Apache httpclient support multipart\related?-->https://stackoverflow.com/questions/21351231
+cUrl to apache HttpClient-->https://stackoverflow.com/questions/42404492
+Transforming a curl request (POST) into scala code-->https://stackoverflow.com/questions/62417524
+SonarQube shows error even when implemented the suggestions-->https://stackoverflow.com/questions/50572555
+webservice call with certificates fails with socket read error-->https://stackoverflow.com/questions/36764409
+How can I get Upload Progress with httpClient 4?-->https://stackoverflow.com/questions/13874506
+Creating a multipart/form-data entity with Apache HTTP client-->https://stackoverflow.com/questions/19508745
+I am trying to make a simple authentication request using HTTPClient but am receiving an error-->https://stackoverflow.com/questions/20874966
+http client 4.3 not sending credentials-->https://stackoverflow.com/questions/21647980
+javax.net.ssl.SSLHandshakeException while connecting to third Party URL using HTTPPost-->https://stackoverflow.com/questions/31439096
+Migration from HTTPClient 3.1 to 4.3.3, Method.getResponseBody(int)-->https://stackoverflow.com/questions/29394697
+sending post data to https without ssl cert verification with apache httpClient client-->https://stackoverflow.com/questions/40250295
+How to use fluent of Apache Components-->https://stackoverflow.com/questions/28561142
+How to handle 419 http response in Java-->https://stackoverflow.com/questions/58311326
+Apache HttpComponents BasicHttpClientConnectionManager-->https://stackoverflow.com/questions/39179567
+apache httpclient: Received fatal alert: bad_certificate-->https://stackoverflow.com/questions/50690581
+Get server certificate from failed connection attempt with HttpClient 4.2-->https://stackoverflow.com/questions/28062822
+Pass a class, instantiate it and and use the right method-->https://stackoverflow.com/questions/47371813
+HttpClient 4.3 set source port-->https://stackoverflow.com/questions/20654183
+Force protocol in Client using httpClient 4.3.6 on Java 6-->https://stackoverflow.com/questions/49171123
+Why there are no delays between retries in Apache HTTP Client?-->https://stackoverflow.com/questions/46615420
+How to setEnabledCipherSuites when using Apache HTTP Client?-->https://stackoverflow.com/questions/36736505
+Automatically login and retry the original request when there is 401 error code in java-->https://stackoverflow.com/questions/57107075
+What is a good way to share a session between two HTTPClients in a Java program?-->https://stackoverflow.com/questions/12097380
+Apache HttpClient CoreConnectionPNames.CONNECTION_TIMEOUT does nothing?-->https://stackoverflow.com/questions/27397605
+How to send "parameters" to all HTTP request methods?-->https://stackoverflow.com/questions/14057848
+How can I get the cookies from HttpClient?-->https://stackoverflow.com/questions/35852908
+How to add,set and get Header in request of HttpClient?-->https://stackoverflow.com/questions/47220642
+Spring MVC Redirect with Response from HTTP POST-->https://stackoverflow.com/questions/42812025
+Basic Authentication with RestTemplate (3.1)-->https://stackoverflow.com/questions/18420124
+How to cache the httpclient object in Java?-->https://stackoverflow.com/questions/54437019
+Java httpClient 4.3.6 basic Authentication with complete URI and scheme-->https://stackoverflow.com/questions/28674456
+Apache httpclient 4.3.3 - speed tuning-->https://stackoverflow.com/questions/23031421
+Unable to Upload Video File using Multipart Entity-->https://stackoverflow.com/questions/34220777
+Unexpected char in the http get json file while using org.apache.http-->https://stackoverflow.com/questions/37541710
+Java, Apache HttpClient, TLSv1.2 & OpenJDK 7-->https://stackoverflow.com/questions/43776615
+Basic Authentication with RestTemplate (3.1)-->https://stackoverflow.com/questions/14399317
+Pass a class, instantiate it and and use the right method-->https://stackoverflow.com/questions/47371885
+Prepend default value to HTTP request path using Apache http client library-->https://stackoverflow.com/questions/43472419
+Ignore DNS Round-Robin for a Reliable Timeout with Spring-ws and 4.5.x Http Client-->https://stackoverflow.com/questions/53155160
+Modify request URI before it is sent with apache http client-->https://stackoverflow.com/questions/47436747
+Why is my HttpClient class freezing with certain URLs-->https://stackoverflow.com/questions/19741622
+Automatic custom authentication-->https://stackoverflow.com/questions/44594278
+How do I use the apache httpClient API to send file + api key and other parameters as a single request?-->https://stackoverflow.com/questions/36618629
+Apache HttpClient empty response header-->https://stackoverflow.com/questions/22831702
+Apache Http EntityUtils.consume() vs EntityUtils.toString()?-->https://stackoverflow.com/questions/62817637
+Deprecated HttpClient, now using apache-httpclient-4.3.x-->https://stackoverflow.com/questions/38713545
+Apache httpclient whith fastbill.api in java-->https://stackoverflow.com/questions/44613330
+How to shorten time of refused connection?-->https://stackoverflow.com/questions/12467972
+How to get Remote server untrusted SSL certificate using Apache HTTP Client API-->https://stackoverflow.com/questions/45905626
+Apache HTTPClient DigestAuth doesn't forward "opaque" value from Challenge-->https://stackoverflow.com/questions/53028597
+Getting org.apache.http.client.ClientProtocolException while calling AlchemyAPI-->https://stackoverflow.com/questions/27641222
+Trying setting session cookie using HttpClient-->https://stackoverflow.com/questions/15058665
+Java Http Client Content Type ERROR-->https://stackoverflow.com/questions/45842001
+How to make batch http call in java-->https://stackoverflow.com/questions/44770685
+Upload text file to Swagger with PUT request Java-->https://stackoverflow.com/questions/49812756
+How to retrieve response headers from CONNECT request using apache java HttpClient 4.5?-->https://stackoverflow.com/questions/61676760
+UrlEncodedFormEntity doesn't encode underscore-->https://stackoverflow.com/questions/21241466
+apache http client 4.3 - how to set protocol version-->https://stackoverflow.com/questions/25278042
+binding network interface to Apache httpclient-->https://stackoverflow.com/questions/39136449
+How to upload InputStream via HttpPut from Apache HttpClient 4.x-->https://stackoverflow.com/questions/55532049
+Why does Apache CloseableHttpResponse not consume the entity on close?-->https://stackoverflow.com/questions/44472704
+how to make Unirest(java) ignore certificate error-->https://stackoverflow.com/questions/37064306
+HttpPost Posting Complex JSONObject in the Body of the Request-->https://stackoverflow.com/questions/44204971
+Java - can I use browser cookies to directly access data on a website?-->https://stackoverflow.com/questions/33872871
+How to handle timeouts in httpclient 4.3+ ?-->https://stackoverflow.com/questions/22884185
+Apache HTTPClient - consume an indefinite HTTP GET Stream-->https://stackoverflow.com/questions/61879087
+URI encoding with Apache HttpHead before retreiving redirection urls-->https://stackoverflow.com/questions/26422198
+How to be sure of the accuracy of HttpClient response?-->https://stackoverflow.com/questions/16649389
+Getting results of WFS request to GeoServer as UTF-8-->https://stackoverflow.com/questions/28156284
+Apache HttpClient Multiple polling connections to server strategy-->https://stackoverflow.com/questions/22933480
+How to send text by HttpPost method?-->https://stackoverflow.com/questions/10814791
+How can I get the underlying Socket from an httpclient connection?-->https://stackoverflow.com/questions/39265699
+Android HTTP POST connection to file with response-->https://stackoverflow.com/questions/14091521
+Apache httpclient whith fastbill.api in java-->https://stackoverflow.com/questions/44501536
+How to send parallel GET requests and wait for result responses?-->https://stackoverflow.com/questions/49262337
+Fiddler doesn't capture Apache HttpClient post-->https://stackoverflow.com/questions/53044871
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/49222437
+Matching Apache HttpClient Response Interceptor to Request-->https://stackoverflow.com/questions/57371182
+Where to put keystore for Tomcat web app using Apache HTTP client-->https://stackoverflow.com/questions/26776407
+Does Apache Commons HttpClient support GZIP?-->https://stackoverflow.com/questions/44002411
+Java HttpClient: Not able to read json data in the post request-->https://stackoverflow.com/questions/14907021
+Mocking Apache HttpClient 4.4 PoolingHttpClientConnectionManager-->https://stackoverflow.com/questions/29029017
+Multi Auth methods Apache http client 4.3+-->https://stackoverflow.com/questions/22991179
+SharePoint REST calls with Apache HttpClient and Load Balancing fails after first GET-->https://stackoverflow.com/questions/42411670
+Apache HttpClient timeout-->https://stackoverflow.com/questions/25380201
+How can i set credential charset with httpclient 4.3-->https://stackoverflow.com/questions/32286731
+Apache AsyncHttpClient 4.1.4 creating new socket connection instead of reusing connection from Connection pool-->https://stackoverflow.com/questions/60968192
+SSLHandshakeException with Rally rest api-->https://stackoverflow.com/questions/36871986
+Is there a way to convert non-ascii chars to unicode and leave ascii as they are?-->https://stackoverflow.com/questions/34652345
+set nonProxyHosts in Apache HttpClient 4.1.3-->https://stackoverflow.com/questions/32653727
+Setting socket buffer size in Apache HttpClient-->https://stackoverflow.com/questions/32259755
+HttpClient 4.5.1 - other retry count on multiple Requests-->https://stackoverflow.com/questions/35606444
+Why doesn't apache java http library handle sites with Content-Encoding: none?-->https://stackoverflow.com/questions/20773016
+Unable to upload file using httpclient with Proxy support-->https://stackoverflow.com/questions/11077716
+Set Content-Charset in Apache HttpClient 4.x-->https://stackoverflow.com/questions/52849620
+How to add parameters to all HttpClient request methods?-->https://stackoverflow.com/questions/36507518
+Java:HttpPost to API - ConnectTimeoutException - Apache HttpClient 4-->https://stackoverflow.com/questions/42421791
+Why can't I accept all hosts for my Rest Assured POST method?-->https://stackoverflow.com/questions/58754557
+Apache HTTP Client and conditional setting of proxy-->https://stackoverflow.com/questions/41818112
+httpClient.getConnectionManager() is deprecated - what should be used instead if i want to react to poolstats?-->https://stackoverflow.com/questions/22638855
+Is there a way to prevent Apache CloseableHttpClient from throwing HttpResponseException?-->https://stackoverflow.com/questions/60354498
+Dynamically configuring Apache Http client-->https://stackoverflow.com/questions/19676807
+Force retry on specific http status code-->https://stackoverflow.com/questions/22827553
+Issue(s) with the constructing http POST request-->https://stackoverflow.com/questions/12100547
+How to create a pool of Apache HttpClients with varying SSL client auth certificates-->https://stackoverflow.com/questions/57522071
+A zip file download works with apache httpclient v4.3.6 but fails for other version-->https://stackoverflow.com/questions/40662028
+Peer not authenticated in java-->https://stackoverflow.com/questions/28210524
+Handling HTTP request redirect in java-->https://stackoverflow.com/questions/18329673
+Apache HttpClient 4.5.5 - wrong headers in response after a GET request-->https://stackoverflow.com/questions/48928178
+How to set cipher suites with javax.net.ssl.SSLContext-->https://stackoverflow.com/questions/53958669
+Need help resolving javax.net.ssl.SSLPeerUnverifiedException-->https://stackoverflow.com/questions/17329815
+Block Apache HttpClient 4 from accessing a specific route-->https://stackoverflow.com/questions/28931288
+Is there an easy way to manually force a caching HttpClient 4.3.x to bypass the cache?-->https://stackoverflow.com/questions/22283961
+Apache HttpClient, form-based login, Doesn´t retrieve HTML content-->https://stackoverflow.com/questions/54791025
+Apache Commons AsyncClient - Ignore Certificates - SSLPeerUnverifiedException-->https://stackoverflow.com/questions/50369441
+Apache HttpClient receiving "406 Not Acceptable" error-->https://stackoverflow.com/questions/44347897
+Passing username and password from non-web clients to RestController Service and Retrieving it in Service-->https://stackoverflow.com/questions/54098912
+How do I provide create a CloseableHttpPipeliningClient that doesn't validate SSL certificates?-->https://stackoverflow.com/questions/47078231
+Connection Timeout for Rest Template with HTTP Client 4.5 under Proxy-->https://stackoverflow.com/questions/60638349
+Httpclient-4.5.2.jar setEntity showing "cannot find symbol" (JAVA - netbeans 8)-->https://stackoverflow.com/questions/38331468
+Does Apache HttpClient batch requests?-->https://stackoverflow.com/questions/34165289
+HTTPClient 4 - generate url with params-->https://stackoverflow.com/questions/39671827
+"Content-type" for uploading jars files using Web HDFS REST client-->https://stackoverflow.com/questions/35478102
+Handling GET requests - Apache HttpClient vs java.net.HttpURLConnection-->https://stackoverflow.com/questions/37164757
+android upload file opened via by storage api presented in kitkat-->https://stackoverflow.com/questions/32775113
+Extra lines pre-appended to the file on httppost-->https://stackoverflow.com/questions/39491593
+Required to release connection when using PoolingHttpClientConnectionManager-->https://stackoverflow.com/questions/41831913
+getConnectionManager() when using ApacheHttpClient43Engine RestEasy client v3.6.3.Final-->https://stackoverflow.com/questions/58934566
+Apache HttpClient Multiple polling connections to server strategy-->https://stackoverflow.com/questions/13972245
+Apache HTTPClient 4.x CloseableHttpClient gets wrong size when downloading binary data-->https://stackoverflow.com/questions/35458078
+Apache HttpClient SelfSigned certificates-->https://stackoverflow.com/questions/37092536
+How to use HttpAsyncClient with multithreaded operation?-->https://stackoverflow.com/questions/11959425
+Is there a way to see what the current value and change it for the socket buffer size used by Apache Http Client?-->https://stackoverflow.com/questions/21947233
+Accessing JSON in using JSESSION ID or Authentication-->https://stackoverflow.com/questions/14367093
+Not able to send request to Servlet doPost method from HttpClient-->https://stackoverflow.com/questions/17459367
+Will HttpGet headers override httpClient headers (Apache HttpClient)?-->https://stackoverflow.com/questions/31741595
+While trying to send POST request in HTTPCLIENT -JAVA, getting 400 Bad Request-->https://stackoverflow.com/questions/55583950
+Android: IllegalStateException in HttpGet-->https://stackoverflow.com/questions/11526693
+Mockito: returning the passed parameter-->https://stackoverflow.com/questions/28149095
+How can i solve method makeHttpRequest error?-->https://stackoverflow.com/questions/33744373
+Stucked Threads with Apache HTTP Client 4.5.x-->https://stackoverflow.com/questions/50485079
+Tests hang with http client connection pool issue-->https://stackoverflow.com/questions/45612742
+Download a file with HTTPClient in Java-->https://stackoverflow.com/questions/35608888
+DefaultClientConnection automatically gets shutdown-->https://stackoverflow.com/questions/14521888
+API's HTTP response yields the entire HTML page instead of the response's body-->https://stackoverflow.com/questions/40317312
+How to add support for deprecated SSL cipher suites with Apache HttpClient 4-->https://stackoverflow.com/questions/37886746
+Apache HttpClient get server certificate-->https://stackoverflow.com/questions/35750383
+How do I use the apache httpClient API to send file + api key and other parameters as a single request?-->https://stackoverflow.com/questions/36623409
+Apache HttpClient 4.1.1 NTLM authentication not SPNEGO-->https://stackoverflow.com/questions/15199060
+Using HTTPClientParams for HttpClient 4.5-->https://stackoverflow.com/questions/48227712
+Apache HttpClient making multipart form post-->https://stackoverflow.com/questions/46075990
+Apache HttpComponents. Get response for CONNECT request-->https://stackoverflow.com/questions/37529717
+SonarQube How to login with the Web API-->https://stackoverflow.com/questions/46555628
+Does Apache Commons HttpAsyncClient support GZIP?-->https://stackoverflow.com/questions/62059274
+Send post request to salesforce in java-->https://stackoverflow.com/questions/34570835
+How to prevent hangs on SocketInputStream.socketRead0 in Java?-->https://stackoverflow.com/questions/47671938
+Apache HttpClient is not showing Content-Length and Content-Encoding headers of the response-->https://stackoverflow.com/questions/61006813
+HttpClient 4.0.1 - how to release connection?-->https://stackoverflow.com/questions/26745671
+What Java properties to pass to a Java app to authenticate with a http proxy-->https://stackoverflow.com/questions/30661254
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/10828086
+Ignore self-signed certificates in Apache HTTPClient 4.5-->https://stackoverflow.com/questions/43613265
+Apache InternalHttpClient: Determining local port number-->https://stackoverflow.com/questions/25089513
+Response not returned until data is complete-->https://stackoverflow.com/questions/54170304
+Apache HttpClient with POST file-uploading won't do a basic auth on mystical reasons-->https://stackoverflow.com/questions/48403727
+How to add,set and get Header in request of HttpClient?-->https://stackoverflow.com/questions/13761418
+NoHttpResponseException thrown as runtime exception even though is a checked exception-->https://stackoverflow.com/questions/46901387
+Invalid cookie header: Negative max-age attribute-->https://stackoverflow.com/questions/24536107
+javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated issue-->https://stackoverflow.com/questions/37795624
+ElasticSearch and Apache HttpAsyncClient-->https://stackoverflow.com/questions/34614656
+How to post array parameters with HttpComponents-->https://stackoverflow.com/questions/7309709
+Java - sending HTTP parameters with apache.http.client.methods.HttpPost-->https://stackoverflow.com/questions/16052220
+Android HttpClient, DefaultHttpClient, HttpPost-->https://stackoverflow.com/questions/12908915
+How to send a POST with JSON parameters using Apache HTTPClient 4.5. Getting 415 unsupported media type-->https://stackoverflow.com/questions/40139150
+Android HttpClient, DefaultHttpClient, HttpPost-->https://stackoverflow.com/questions/12907926
+Android 6.0 HTTPClient issue with LG G3 phone-->https://stackoverflow.com/questions/36485745
+HttpClientFormSubmit to get the OAUTH access token-->https://stackoverflow.com/questions/17168138
+Getting data with Httpclient and displaying it with JSON-->https://stackoverflow.com/questions/32290742
+Apache HttpClient 4.3.x has no default host?-->https://stackoverflow.com/questions/22806081
+RestEasy Client Authentication and HTTP Put with Marshalling-->https://stackoverflow.com/questions/13035390
+How to configure SSL with Axis2 using httpClient4-->https://stackoverflow.com/questions/53171162
+How to create get request using apache httpclient with "bad" symbols in url (that requere encoding)?-->https://stackoverflow.com/questions/43111417
+Android Rest Client-->https://stackoverflow.com/questions/13403738
+Check available connections in PoolingClientConnectionManager-->https://stackoverflow.com/questions/44465996
+SSLProtocolException: handshake alert: unrecognized_name: client-side code workaround?-->https://stackoverflow.com/questions/23892958
+Simulate interrupted Connection with Apache HTTP Client (for testing purposes)-->https://stackoverflow.com/questions/23312784
+HttpClient 4.0.1 - how to release connection?-->https://stackoverflow.com/questions/43178782
+Curl cacert equivalent in Java HttpClient-->https://stackoverflow.com/questions/46613890
+Apache HttpClient - keepalive is ignored when using SSL or TLSv1.2-->https://stackoverflow.com/questions/55806757
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/43025782
+setMaxTotal and setDefaultMaxPerRoute in HttpClient?-->https://stackoverflow.com/questions/30931903
+Setting socket buffer size in Apache HttpClient-->https://stackoverflow.com/questions/23738026
+How to convert Apache cookies back to String?-->https://stackoverflow.com/questions/41298989
+Am I using CloseableHttpClient correctly?-->https://stackoverflow.com/questions/52032606
+Deprecated Java HttpClient - How hard can it be?-->https://stackoverflow.com/questions/15336663
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/24624966
+Android - Uncaught exception thrown by finalizer-->https://stackoverflow.com/questions/14453837
+Does using a try-with-resource block for CloseableHttpClient also close the returning CloseableHttpResponse?-->https://stackoverflow.com/questions/49725496
+Apache HttpGet url encoding problem (plus sign, +)-->https://stackoverflow.com/questions/7329803
+How to handle redirect by httpClient fluent?-->https://stackoverflow.com/questions/29607154
+Deprecated Java HttpClient - How hard can it be?-->https://stackoverflow.com/questions/49606275
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/36794355
+Java http file upload and server response-->https://stackoverflow.com/questions/35206281
+Count calls to apache HttpClient-->https://stackoverflow.com/questions/45858243
+Creating a Custom Apache HTTP Client Redirect policy-->https://stackoverflow.com/questions/52421456
+What Java properties to pass to a Java app to authenticate with a http proxy-->https://stackoverflow.com/questions/39888697
+Slow Apache httpclient 4.1 compared to JMeter-->https://stackoverflow.com/questions/11450100
+Bypass DNS lookup and submit URL to proxy-->https://stackoverflow.com/questions/20951612
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/36025169
+Java 8 HttpClient 4.5 HttpGet and HttpPost in one function-->https://stackoverflow.com/questions/42254982
+Translate POSTMAN code into Java-->https://stackoverflow.com/questions/32442306
+How is the resource clean up being done in the following Apache HttpClient usage with PoolingHttpClientConnectionManager?-->https://stackoverflow.com/questions/29635957
+HTTPClient Example - Exception in thread "main" java.lang.NoSuchFieldError: INSTANCE-->https://stackoverflow.com/questions/22331092
+How to use DefaultHttpClient in Android?-->https://stackoverflow.com/questions/5410959
+PoolingHttpClientConnectionManager not re-using existing Idle connection-->https://stackoverflow.com/questions/45237985
+How can I optimize GET request?-->https://stackoverflow.com/questions/50426129
+HTTPClient - Capture a list of all Redirects-->https://stackoverflow.com/questions/7860618
+How to create a Folder with Google Drive REST AP and HTTPClient?-->https://stackoverflow.com/questions/15981916
+java.lang.NoSuchMethodError org.apache.http.client.utils.URLEncodedUtils.encPath-->https://stackoverflow.com/questions/24276785
+Apache HttpClientBuilder - IllegalArgumentException-->https://stackoverflow.com/questions/27012132
+How to pass complex parameter to POST request using Apache HTTP client?-->https://stackoverflow.com/questions/58642558
+Apache HttpClient: setConnectTimeout() vs. setConnectionTimeToLive() vs. setSocketTimeout()-->https://stackoverflow.com/questions/48328924
+With https URL, HttpsURLConnection works but HttpClient does not-->https://stackoverflow.com/questions/36725778
+HttpClient javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated when time shifted?-->https://stackoverflow.com/questions/29229220
+Apache HttpClient reuse connections only within the same HttpContext-->https://stackoverflow.com/questions/22501718
+How to add parameters to all HttpClient request methods?-->https://stackoverflow.com/questions/37832503
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/8142813
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/13812958
+set nonProxyHosts in Apache HttpClient 4.1.3-->https://stackoverflow.com/questions/15655755
+2 way SSL authentication not working using Apache httpclient: JAVA-->https://stackoverflow.com/questions/30373331
+REST call using ApacheHttpClient with data and headers-->https://stackoverflow.com/questions/19190604
+Apache httpclient 4.3.3 how do I accept only one specific self signed certificate-->https://stackoverflow.com/questions/23869426
+TargetAuthenticationStrategy, change order of preference-->https://stackoverflow.com/questions/20690862
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/41327618
+Java httpClient 4.3.6 basic Authentication with complete URI and scheme-->https://stackoverflow.com/questions/29380608
+apache httpclient pfx file-->https://stackoverflow.com/questions/44493505
+I received javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake-->https://stackoverflow.com/questions/31919997
+Apache HttpComponents HttpClient timeout-->https://stackoverflow.com/questions/32411257
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/9246319
+How can I set default headers for all requests?-->https://stackoverflow.com/questions/48425650
+How to specify proxy authentication credentials in Apache httpclient in addition to the target site credentials?-->https://stackoverflow.com/questions/30397676
+How to use httpclient 4.3.6 to invoke DCTM 7.1 REST API?-->https://stackoverflow.com/questions/34311776
+How to access a public variable in the outer class from an asynctask in Java?-->https://stackoverflow.com/questions/28992292
+How to update the settings of an HttpClient in httpclient 4.3+?-->https://stackoverflow.com/questions/27567117
+Issues with HttpClient 4.3.1 creating instance of HttpClient-->https://stackoverflow.com/questions/19834963
+Java - Http Authentification 401 error with HttpClient library-->https://stackoverflow.com/questions/21698836
+http client 4.3 not sending credentials-->https://stackoverflow.com/questions/22114923
+Connection and connection request timeout-->https://stackoverflow.com/questions/61144772
+Proxy-Authorization header is removed when using https-->https://stackoverflow.com/questions/15649266
+Apache HTTPClient sends no client cert during mutual authentication-->https://stackoverflow.com/questions/37775765
+HttpMethodBase alternative in java HttpClient4-->https://stackoverflow.com/questions/9089905
+How can I disable default request headers from apache httpclient 4?-->https://stackoverflow.com/questions/46082266
+Conscrypt with jdk8 to enable ALPN for http2-->https://stackoverflow.com/questions/53399363
+Authenticating a single request with httpclient 4.x-->https://stackoverflow.com/questions/2522903
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/50236635
+HTTP Error 400. The request has an invalid header name-->https://stackoverflow.com/questions/42242330
+Passing username/password in Apache Http Client Java similar to CURL-->https://stackoverflow.com/questions/21465450
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/11614499
+apache httpclient 4.5.1 making only SSL connections to non-ssl sites, and failing-->https://stackoverflow.com/questions/34654349
+How to set timeout for each request using Apache httpclient 4.* with PoolingHttpClientConnectionManager?-->https://stackoverflow.com/questions/28125243
+Android Http Client Caching-->https://stackoverflow.com/questions/10795955
+Timeout between request retries Apache HttpClient-->https://stackoverflow.com/questions/54094126
+Is there a way to obtain a website's certificate using Apache's HttpClient?-->https://stackoverflow.com/questions/11646084
+Making Apache HttpClient 4.3 work with sslSocketFactory/HostnameVerifier-->https://stackoverflow.com/questions/23538893
+Maven installing java library fully of unimplemented abstract classes?-->https://stackoverflow.com/questions/19205313
+How to get persistent HttpConnection with Apache HttpClient?-->https://stackoverflow.com/questions/46054330
+Apache HttpClient loadbalancing pooled connections-->https://stackoverflow.com/questions/33465028
+Replay a post request using Java-->https://stackoverflow.com/questions/24552975
+Mocking Apache HTTPClient using Mockito-->https://stackoverflow.com/questions/57251296
+POST Request with CloseableHttpClient-->https://stackoverflow.com/questions/49069981
+ThreadSafeClientConnManager not multithreading-->https://stackoverflow.com/questions/7603315
+Apache HttpClient get server certificate-->https://stackoverflow.com/questions/13274316
+Apache HTTP client doesn't respect HTTP status code 307-->https://stackoverflow.com/questions/40982127
+Issues with HttpClient 4.3.1 creating instance of HttpClient-->https://stackoverflow.com/questions/19834968
+Unit test timeouts in Apache HttpClient-->https://stackoverflow.com/questions/42146328
+HttpRoutePlanner - How does it work with an HTTPS Proxy-->https://stackoverflow.com/questions/15065593
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/3894076
+How does one set Default HttpHost Target in Apache HttpClient 4.3+?-->https://stackoverflow.com/questions/20175912
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/29651988
+HttpClient 4 - how to capture last redirect URL-->https://stackoverflow.com/questions/10286025
+Self-Signed Certificate Bypass Not Working-->https://stackoverflow.com/questions/34166146
+spring-ws deprecated DefaultHttpClient-->https://stackoverflow.com/questions/57432798
+Java Apache HttClient : ThreadSafe or not?-->https://stackoverflow.com/questions/33789260
+How to set TCP keep Alive in java from httpclient-->https://stackoverflow.com/questions/53388344
+HTTPClient - NoSuchMethodError for .releaseConnection-->https://stackoverflow.com/questions/21060933
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/49668661
+Set HttpParams object in HttpClient 4.0-->https://stackoverflow.com/questions/21821034
+Apache HTTP 4.x: How can the "default context" be configured on HttpClient-->https://stackoverflow.com/questions/6097643
+Ignoring bad certificate on HTTPS connection when using Apache Async HttpClient 4.0.x-->https://stackoverflow.com/questions/27990541
+How to enable SSLv3 with Apache HttpClient?-->https://stackoverflow.com/questions/31614096
+Right way to close CloseableHttpResponse/CloseableHttpClient-->https://stackoverflow.com/questions/48929329
+How to set TCP_NODELAY and SO_KEEPALIVE with HttpClient 4.3-->https://stackoverflow.com/questions/25832860
+How to set default timeout in Apache HttpClient 4.5? (fluent)-->https://stackoverflow.com/questions/49570287
+commons httpclient - Adding query string parameters to GET/POST request-->https://stackoverflow.com/questions/41561338
+Apache HttpClient 4.3 does not honor keep alive-->https://stackoverflow.com/questions/21333404
+Digest auth with Java & Apache client : Always 401 Unauthorized-->https://stackoverflow.com/questions/33558238
+Performance issues using neo4j rest http client-->https://stackoverflow.com/questions/35600315
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/47100117
+Cookies getting ignored in Apache httpclient 4.4-->https://stackoverflow.com/questions/31428811
+HttpClient gives Negotiate error with NTLM auth provider-->https://stackoverflow.com/questions/28682917
+Apache Http Client slower than browser-->https://stackoverflow.com/questions/40548729
+Apache HttpClient 4.3.3 how to find target IP of the requested site-->https://stackoverflow.com/questions/23328603
+URL Encoding with httpclient-->https://stackoverflow.com/questions/11667492
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/43381707
+Apache HTTP components: Set timeout on default client-->https://stackoverflow.com/questions/22864802
+Change HttpClients HTTP version to HTTP/1.0-->https://stackoverflow.com/questions/24753287
+HttpClient get status code-->https://stackoverflow.com/questions/14819490
+Preemptive Proxy Authentication with HTTP Tunnel / HTTPS Connection in Apache HttpClient 4.3.1-->https://stackoverflow.com/questions/21167754
+HttpPost Posting Complex JSONObject in the Body of the Request-->https://stackoverflow.com/questions/44203984
+Single HttpClientContext for multiple threads-->https://stackoverflow.com/questions/42025074
+How to get httpclient response as stream-->https://stackoverflow.com/questions/49382684
+Timeout between request retries Apache HttpClient-->https://stackoverflow.com/questions/48560538
+How to determine the maximum number of simultaneous connections for a given `HttpClient` instance-->https://stackoverflow.com/questions/19024759
+HttpClient 4 - how to capture last redirect URL-->https://stackoverflow.com/questions/34961045
+HttpClient , httppost and payload-->https://stackoverflow.com/questions/22795051
+Mocking Apache HTTPClient using Mockito-->https://stackoverflow.com/questions/20542544
+Getting "Set-Cookie" header-->https://stackoverflow.com/questions/39485591
+How to use HttpClient with ANY ssl cert, no matter how "bad" it is-->https://stackoverflow.com/questions/53462016
+HttpClient 4 - how to capture last redirect URL-->https://stackoverflow.com/questions/11653985
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/37530625
+javax.net.ssl.SSLPeerUnverifiedException: Host name does not match the certificate subject provided by the peer-->https://stackoverflow.com/questions/40586925
+how to make Unirest(java) ignore certificate error-->https://stackoverflow.com/questions/23243982
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/11988335
+How can I get the cookies from HttpClient?-->https://stackoverflow.com/questions/46610432
+Apache HTTP client, request from specific network interface-->https://stackoverflow.com/questions/18675463
+Ignore self-signed certificates in Apache HTTPClient 4.5-->https://stackoverflow.com/questions/44019472
+HttpClient javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated when time shifted?-->https://stackoverflow.com/questions/24879462
+Httpclien 4 gzip Post-Data-->https://stackoverflow.com/questions/17867445
+HttpClient request succeeds with timeout defined, but hangs without-->https://stackoverflow.com/questions/24638882
+Apache HTTP components: Set timeout on default client-->https://stackoverflow.com/questions/24935907
+Disable NTLM on Apache HttpClient 4.3.6-->https://stackoverflow.com/questions/27444609
+How to upload a file using Apache HttpPost-->https://stackoverflow.com/questions/35289667
+sending post data to https without ssl cert verification with apache httpClient client-->https://stackoverflow.com/questions/14563246
+How to set global http proxy settings for apache HttpClient-->https://stackoverflow.com/questions/41811102
+HttpClient 4.2, Basic Authentication, and AuthScope-->https://stackoverflow.com/questions/10850182
+RestTemplate + ConnectionPoolTimeoutException: Timeout waiting for connection from pool-->https://stackoverflow.com/questions/31599280
+Apache's HttpClient stops working when MaxPoolSize in PoolingHttpClientConnectionManager is too small-->https://stackoverflow.com/questions/40134638
+Does Apache Commons HttpClient support GZIP?-->https://stackoverflow.com/questions/46910651
+How can I disable default request headers from apache httpclient 4?-->https://stackoverflow.com/questions/23294517
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/39560151
+How can I send a body in a HTTP request using Apache http client's URIBuilder?-->https://stackoverflow.com/questions/33210947
+apache httpclient 4.4: HostnameVerifier transition from 4.3.x-->https://stackoverflow.com/questions/29924729
+How to handle redirect by httpClient fluent?-->https://stackoverflow.com/questions/18271327
+Apache HttpClient 4.1 - Proxy Authentication-->https://stackoverflow.com/questions/39358838
+How to - Spring IoC and HttpClient 4.3.1 CloseableHttpClient?-->https://stackoverflow.com/questions/20340666
+Apache HttpClient 4.3.5 set proxy-->https://stackoverflow.com/questions/25568306
+How to access Bearer authenticated service from Android-->https://stackoverflow.com/questions/20242331
+Android project using httpclient --> http.client (apache), post/get method-->https://stackoverflow.com/questions/903387
+connection persistence using httpclient-->https://stackoverflow.com/questions/15106018
+Apache HTTPClient does not make more than 2 connections-->https://stackoverflow.com/questions/7767449
+How to set TLS version on apache HttpClient-->https://stackoverflow.com/questions/37871600
+After upgrading to Apache HttpClient 4.4 it does not send cookies with requests-->https://stackoverflow.com/questions/31428794
+How can I get the cookies from HttpClient?-->https://stackoverflow.com/questions/8733791
+apache http client 4.3 - how to set protocol version-->https://stackoverflow.com/questions/21788742
+Java : HttpClient 4.1.2 : ConnectionTimeout, SocketTimeout values set are not effective-->https://stackoverflow.com/questions/37962206
+Use HttpClient POST to submit form with upload-->https://stackoverflow.com/questions/11547811
+Apache HttpComponents HttpClient timeout-->https://stackoverflow.com/questions/14510227
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/29435138
+Apache Http Client 4 Form Post Multi-part data-->https://stackoverflow.com/questions/36318701
+How do I configure apache httpcore 4 to use a proxy?-->https://stackoverflow.com/questions/1171370
+Cannot process url with vertical/pipe bar in Java/Apache HttpClient-->https://stackoverflow.com/questions/18316278
+Apache Http Client SSL certificate error-->https://stackoverflow.com/questions/37141552
+http connection timeout issues-->https://stackoverflow.com/questions/4578230
+Connection and connection request timeout-->https://stackoverflow.com/questions/33573908
+How can I get an http response body as a string in Java?-->https://stackoverflow.com/questions/34740645
+RestTemplate + ConnectionPoolTimeoutException: Timeout waiting for connection from pool-->https://stackoverflow.com/questions/41366237
+Edit timeout in HttpClient (4.5)-->https://stackoverflow.com/questions/34792605
+Trusting all certificates using HttpClient over HTTPS-->https://stackoverflow.com/questions/11951889
+How do I replace Deprecated httpClient.getParams() with RequestConfig?-->https://stackoverflow.com/questions/20718405
+how to make Unirest(java) ignore certificate error-->https://stackoverflow.com/questions/35485145
+Apache HttpComponents HttpClient timeout-->https://stackoverflow.com/questions/25380128
+How can I disable default request headers from apache httpclient 4?-->https://stackoverflow.com/questions/31602892
+Extracting gzip data from Apache-httpclient without decompression-->https://stackoverflow.com/questions/30218535
+How to use RestTemplate with Basic Auth-->https://stackoverflow.com/questions/23490253
+Apache Http Client SSL certificate error-->https://stackoverflow.com/questions/24723341
+HttpClient redirecting to URL with spaces throwing exception-->https://stackoverflow.com/questions/3427169
+Add query parameters to a GetMethod (using Java commons-httpclient)?-->https://stackoverflow.com/questions/16231348
+HttpClient 4 - how to capture last redirect URL-->https://stackoverflow.com/questions/23445317
+How to prevent apache http client from following a redirect-->https://stackoverflow.com/questions/1736689
+Exception : javax.net.ssl.SSLPeerUnverifiedException: peer not authenticated-->https://stackoverflow.com/questions/9578244
+javax.net.ssl.SSLPeerUnverifiedException: Host name does not match the certificate subject provided by the peer-->https://stackoverflow.com/questions/43356439
+java.lang.IllegalStateException: Connection pool shut down while using spring RestTemplate-->https://stackoverflow.com/questions/34462361
+Ignore self-signed certificates in Apache HTTPClient 4.5-->https://stackoverflow.com/questions/45768724
+How to send parallel GET requests and wait for result responses?-->https://stackoverflow.com/questions/17779042
+Apache HttpClient POST Upload File won't work with MultipartEntityBuilder upload-->https://stackoverflow.com/questions/29357648
+Apache Camel Http and SSL-->https://stackoverflow.com/questions/5711777
+Basic Authentication with RestTemplate (3.1)-->https://stackoverflow.com/questions/20448384
+Apache HTTP client 4.3 credentials per request-->https://stackoverflow.com/questions/19255264
+Multi-part POST with file and string in HTTPClient 4.1-->https://stackoverflow.com/questions/6262273
+How do I replace Deprecated httpClient.getParams() with RequestConfig?-->https://stackoverflow.com/questions/20743545
+How to ignore SSL certificate errors in Apache HttpClient 4.0-->https://stackoverflow.com/questions/50180854
+How to completely release connection when using HttpClient?-->https://stackoverflow.com/questions/53285646
+Form based JBoss authentication using HttpClient from Apache-->https://stackoverflow.com/questions/9683889

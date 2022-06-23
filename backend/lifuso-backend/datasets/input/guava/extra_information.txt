@@ -1,0 +1,1522 @@
+Google Collections Suppliers and Find-->https://stackoverflow.com/questions/2295966
+Is there java.util.concurrent equivalent for WeakHashMap?-->https://stackoverflow.com/questions/2256017
+using guava cache without a load function-->https://stackoverflow.com/questions/13533148
+Filtering a list of JavaBeans with Google Guava-->https://stackoverflow.com/questions/8636536
+Compact way to create Guava Multimaps?-->https://stackoverflow.com/questions/10637614
+how to transform Map<String,String> to List<String> using google collections-->https://stackoverflow.com/questions/4895468
+Any library supports Guava tables to csv format?-->https://stackoverflow.com/questions/32739435
+How to create a synchronized version of Google Guava's TreeMultimap-->https://stackoverflow.com/questions/6858075
+Is there a corresponding immutable enumMap in guava?-->https://stackoverflow.com/questions/11244901
+Extending an ImmutableMap with additional or new values-->https://stackoverflow.com/questions/29829037
+Java: Instantiate Google Collection's HashBiMap-->https://stackoverflow.com/questions/1533570
+How to use guava Predicates as filter in the java 8 stream api-->https://stackoverflow.com/questions/35701621
+Guava - How to apply a function that returns Void on an Iterable-->https://stackoverflow.com/questions/12429912
+Map implementation with duplicate keys-->https://stackoverflow.com/questions/26273863
+Guava: Why is there no Lists.filter() function?-->https://stackoverflow.com/questions/8459652
+Does googles guava have a java tryparse integer method or something similar?-->https://stackoverflow.com/questions/9043006
+Google Collections (Guava Libraries): ImmutableSet/List/Map and Filtering-->https://stackoverflow.com/questions/6177051
+Google Guava isNullOrEmpty for collections-->https://stackoverflow.com/questions/6921270
+Can someone help me understand Guava CacheLoader?-->https://stackoverflow.com/questions/7782370
+how can I filter map entries based on set of entries-->https://stackoverflow.com/questions/11221919
+How is ArrayListMultimap different from LinkedListMultimap?-->https://stackoverflow.com/questions/14976142
+How to concatenate strings using Guava?-->https://stackoverflow.com/questions/17949540
+How to transform List<X> to another List<Y>-->https://stackoverflow.com/questions/7383831
+How to do map inversion with Guava with non-unique values?-->https://stackoverflow.com/questions/3678660
+Optional conversion from Guava to Java-->https://stackoverflow.com/questions/41597372
+Creating a String[] from Guava's Splitter-->https://stackoverflow.com/questions/7602987
+Guava: Why is there no Lists.filter() function?-->https://stackoverflow.com/questions/8458714
+Is Google Guava "harder" to use than Apache Collections?-->https://stackoverflow.com/questions/3950141
+Throttling method calls using Guava RateLimiter class-->https://stackoverflow.com/questions/31884004
+Text file into Java List<String> using Commons or Guava-->https://stackoverflow.com/questions/4580359
+Returning an ImmutableMap <File, File>-->https://stackoverflow.com/questions/6973663
+Java: how to transform from List<T> to Map<f1(T), List(f2(T))> without iterating-->https://stackoverflow.com/questions/8355152
+no such method error: ImmutableList.copyOf()-->https://stackoverflow.com/questions/3127804
+how to convert java Future<V> to guava ListenableFuture<V>-->https://stackoverflow.com/questions/30159361
+Guava - How to remove from a list, based on a predicate, keeping track of what was removed?-->https://stackoverflow.com/questions/6494892
+Library method to partition a collection by a predicate-->https://stackoverflow.com/questions/10547806
+What's the difference between Collections.unmodifiableSet() and ImmutableSet of Guava?-->https://stackoverflow.com/questions/5611347
+Passing Optional.absent() values to methods concisely-->https://stackoverflow.com/questions/11757963
+Combine multiple Collections into a single logical Collection?-->https://stackoverflow.com/questions/4896878
+How does @RequestParam in Spring handle Guava's Optional?-->https://stackoverflow.com/questions/20241080
+What are the big improvements between guava and apache equivalent libraries?-->https://stackoverflow.com/questions/4543114
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/11605625
+filter and sort list using google collections-->https://stackoverflow.com/questions/2313028
+Java - Append quotes to strings in an array and join strings in an array-->https://stackoverflow.com/questions/18229122
+Google Guava "zip" two lists-->https://stackoverflow.com/questions/19055340
+Updating an active collections on a scheduler-->https://stackoverflow.com/questions/38385627
+Does Java 8 have cached support for suppliers?-->https://stackoverflow.com/questions/35332514
+Convert java Map to custom key=value string-->https://stackoverflow.com/questions/21166984
+Guava ImmutableMap Builder syntax-->https://stackoverflow.com/questions/21921575
+Why does Java Collections have helpers for 0 or 1 but not more elements?-->https://stackoverflow.com/questions/4100600
+Simplest way to iterate through a Multiset in the order of element frequency?-->https://stackoverflow.com/questions/7576512
+Guava: Iterables.filter VS Collections2.filter, any big difference?-->https://stackoverflow.com/questions/10834642
+Why doesn't ImmutableMap.builder().build() pick the correct type parameters?-->https://stackoverflow.com/questions/9058470
+Grouping elements of a list into sublists (maybe by using guava)-->https://stackoverflow.com/questions/8464106
+Using table guava for hashbasedTable-->https://stackoverflow.com/questions/11695625
+How to convert a possible null-value to a default value using Guava?-->https://stackoverflow.com/questions/8040294
+builder for HashMap-->https://stackoverflow.com/questions/25795534
+How to avoid caching when values are null?-->https://stackoverflow.com/questions/13379658
+How to automatically refresh Cache using Google Guava?-->https://stackoverflow.com/questions/11466840
+Is there any generic version of toArray() in Guava or Apache Commons Collections?-->https://stackoverflow.com/questions/21730320
+Multi criteria sorting of a list of objects with Guava Ordering-->https://stackoverflow.com/questions/15532979
+Creating a String[] from Guava's Splitter-->https://stackoverflow.com/questions/7602982
+Shortcut for Guava's Optional use with exceptions?-->https://stackoverflow.com/questions/32127010
+Optional conversion from Guava to Java-->https://stackoverflow.com/questions/33918585
+How to automatically refresh Cache using Google Guava?-->https://stackoverflow.com/questions/33786821
+Is there an elegant way to remove nulls while transforming a Collection using Guava?-->https://stackoverflow.com/questions/21286543
+How do I create an empty Guava ImmutableList?-->https://stackoverflow.com/questions/29776623
+Google Guava isNullOrEmpty for collections-->https://stackoverflow.com/questions/6912070
+Get all Values from a Map for some Keys in Java/Guava?-->https://stackoverflow.com/questions/5720465
+Lazy loading reference implementation-->https://stackoverflow.com/questions/7526170
+How can I convert MultiMap<Integer, Foo> to Map<Integer, Set<Foo>> using Guava?-->https://stackoverflow.com/questions/11205178
+Get empty string when null-->https://stackoverflow.com/questions/42914980
+Guava cache and preserving checked exceptions-->https://stackoverflow.com/questions/8646035
+Get empty string when null-->https://stackoverflow.com/questions/21936577
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/4185715
+builder for HashMap-->https://stackoverflow.com/questions/7345751
+Guava one-liner for transforming immutable lists-->https://stackoverflow.com/questions/19383714
+Getting default value for primitive types-->https://stackoverflow.com/questions/2892525
+Is a Guava Table thread safe when its backing maps are thread safe?-->https://stackoverflow.com/questions/18634049
+Remove duplicates from List using Guava-->https://stackoverflow.com/questions/12248480
+how to use the InputSupplier or OutputSupplier api of Guava?-->https://stackoverflow.com/questions/5253930
+Google Guava "zip" two lists-->https://stackoverflow.com/questions/44775937
+filtering an ArrayList using an object's field-->https://stackoverflow.com/questions/16856736
+Is HashBiMap threadsafe?-->https://stackoverflow.com/questions/17885166
+How to eliminate duplicates in Guava MultiMap values?-->https://stackoverflow.com/questions/18983633
+How to avoid caching when values are null?-->https://stackoverflow.com/questions/13379964
+The best way to static initialization of Maps in google collections-->https://stackoverflow.com/questions/12228431
+Guava - How to remove from a list, based on a predicate, keeping track of what was removed?-->https://stackoverflow.com/questions/6494739
+How can I join an array using Google Guava (Java)?-->https://stackoverflow.com/questions/8226612
+I need an immutable key-value structure that retains insertion order-->https://stackoverflow.com/questions/14982955
+HashMap returned by Maps.newHashMap vs new HashMap-->https://stackoverflow.com/questions/13153812
+Does Java 8 have cached support for suppliers?-->https://stackoverflow.com/questions/35335467
+guava: best practices with ImmutableList.of(E[])-->https://stackoverflow.com/questions/6778663
+Multi criteria sorting of a list of objects with Guava Ordering-->https://stackoverflow.com/questions/15533385
+is there a Java equivalent to Javascript's "some" method?-->https://stackoverflow.com/questions/8991373
+Guava Cache CacheStats all zero-->https://stackoverflow.com/questions/33167221
+initializing a Guava ImmutableMap-->https://stackoverflow.com/questions/9489533
+How can I generate a list or array of sequential integers in Java?-->https://stackoverflow.com/questions/10242491
+The very basics for using Guava-->https://stackoverflow.com/questions/4257318
+adding a key to HashMap without the value?-->https://stackoverflow.com/questions/6046027
+Is there a JDK or Guava method to turn a null into an empty list?-->https://stackoverflow.com/questions/14903638
+Can I decorate Joiner class of Guava-->https://stackoverflow.com/questions/5040923
+Google-guava checkNotNull and IntelliJ IDEA's "may produce java.lang.NullPointerException"-->https://stackoverflow.com/questions/21690278
+Concatenating ImmutableLists-->https://stackoverflow.com/questions/37920432
+Bi-directional Map in Java?-->https://stackoverflow.com/questions/15541551
+HashMap<String, boolean> copy all the keys into HashMap<String, Integer>and initialize values to zero-->https://stackoverflow.com/questions/4156368
+How can I collect a Java 8 stream into a Guava ImmutableCollection?-->https://stackoverflow.com/questions/29013959
+Is there an elegant way to remove nulls while transforming a Collection using Guava?-->https://stackoverflow.com/questions/1802941
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/4186462
+Transform and convert a List to Set with Guava-->https://stackoverflow.com/questions/20081058
+JDK's Arrays vs. Guava's ImmutableList-->https://stackoverflow.com/questions/17200442
+Guava: Set<K> + Function<K,V> = Map<K,V>?-->https://stackoverflow.com/questions/3870481
+The Guava library: What are its most useful and/or hidden features?-->https://stackoverflow.com/questions/3769897
+Lists.newArrayList vs new ArrayList-->https://stackoverflow.com/questions/9980949
+implementing Public Suffix extraction using java-->https://stackoverflow.com/questions/4820675
+How to avoid applied lazily Lists.transform in guava?-->https://stackoverflow.com/questions/13429977
+How to create a Multimap<K,V> from a Map<K, Collection<V>>?-->https://stackoverflow.com/questions/3102655
+Sorting a Guava BiMap-->https://stackoverflow.com/questions/13237113
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/4185728
+How to make a new list with a property of an object which is in another list-->https://stackoverflow.com/questions/10976080
+What is the best way to cache single object within fixed timeout?-->https://stackoverflow.com/questions/7866476
+Caching with Guava-->https://stackoverflow.com/questions/8063387
+The Guava library: What are its most useful and/or hidden features?-->https://stackoverflow.com/questions/3759767
+Using Guava for high performance thread-safe caching-->https://stackoverflow.com/questions/11125407
+How to convert a possible null-value to a default value using Guava?-->https://stackoverflow.com/questions/39368870
+How to transform List<String> to Map<String,String> with Google collections?-->https://stackoverflow.com/questions/5003885
+Filtering a list of JavaBeans with Google Guava-->https://stackoverflow.com/questions/8638195
+What is an efficient and elegant way to add a single element to an immutable set?-->https://stackoverflow.com/questions/10354353
+Handle null value using Guava MapMaker/CacheBuilder-->https://stackoverflow.com/questions/8298578
+ImmutableMap.of() workaround for HashMap in Maps?-->https://stackoverflow.com/questions/5947915
+How to remove control characters from java string?-->https://stackoverflow.com/questions/14028756
+To instantiate BiMap Of google-collections in Java-->https://stackoverflow.com/questions/2428971
+ListenableFuture, FutureCallback and timeouts-->https://stackoverflow.com/questions/12396653
+Adding and removing items to a Guava ImmutableList-->https://stackoverflow.com/questions/12939708
+Why does it.next() throw java.util.ConcurrentModificationException?-->https://stackoverflow.com/questions/7237968
+Guava - Can a Multimap be serialized?-->https://stackoverflow.com/questions/43765350
+time complexity: google.common.base.Joiner vs String concatenation-->https://stackoverflow.com/questions/47430526
+How to cache data via Guava Cache using available memory as parameter?-->https://stackoverflow.com/questions/58084481
+How to convert Collection to Iterables?-->https://stackoverflow.com/questions/21238001
+How can i retrieve the key based on the value present in the multimap?-->https://stackoverflow.com/questions/34527587
+Guava Splitter to key value map with splitter character included in strings-->https://stackoverflow.com/questions/44685466
+Using Multiset to count occurrences-->https://stackoverflow.com/questions/11852719
+Guava RateLimiter running too often-->https://stackoverflow.com/questions/42969610
+in which case TreeBasedTable.create().rowMap().get(rowKey) will return an empty map-->https://stackoverflow.com/questions/49821904
+How to use JProfiler custom probe telemetry for monitoring Guava cache statistics-->https://stackoverflow.com/questions/7873029
+NoSuchMethodError when I'm running jar on cluster-->https://stackoverflow.com/questions/44584915
+How better to test and create a new list, if it does not exist in List<List<T>> structure?-->https://stackoverflow.com/questions/11381830
+Cyclic Interface Error when using orElseThrow-->https://stackoverflow.com/questions/33934182
+Create a Gson TypeAdapter for a Guava Range-->https://stackoverflow.com/questions/60354008
+How to return N consecutive elements from a Collection?-->https://stackoverflow.com/questions/40499866
+How to have multiple cache manager configuration in multiple modules/projects spring cache java-->https://stackoverflow.com/questions/54902982
+Guava 18.0 refreshAfterWrite-->https://stackoverflow.com/questions/30897990
+FutureCallback never executed-->https://stackoverflow.com/questions/49176781
+Extending an ImmutableMap with additional or new values-->https://stackoverflow.com/questions/46179526
+Checking equals for JAXB object considering some of the fields-->https://stackoverflow.com/questions/19078493
+How can I preserve type info when serializing ImmutableMap using Jackson?-->https://stackoverflow.com/questions/62836849
+Google LoadingCache Fails to Store Loaded Object-->https://stackoverflow.com/questions/54705084
+How can I use guava's MultiMap to split list of values-->https://stackoverflow.com/questions/47992589
+How to initialize a variable in the constructor only once?-->https://stackoverflow.com/questions/42101699
+Get an ordered subset from a Multiset of the most frequent X entries-->https://stackoverflow.com/questions/21248082
+initializing a Guava ImmutableMap-->https://stackoverflow.com/questions/56782053
+Guava CacheBuilder and store key different from lookup key-->https://stackoverflow.com/questions/38645704
+thread-safe bloomfilter-->https://stackoverflow.com/questions/11721367
+Collecting results from batching method calls-->https://stackoverflow.com/questions/36054962
+The method sipHash24() is undefined for the type Hashing-->https://stackoverflow.com/questions/35265068
+How can I split a String using Splitter.MapSplitter from Guava until a specific key?-->https://stackoverflow.com/questions/43934151
+After assigning a Map to ImmutableMap, how to stop or restrict reassign another map-->https://stackoverflow.com/questions/58788483
+How does Java guarantee callback is called when future.isDone() in ListenableFuture-->https://stackoverflow.com/questions/47636964
+elegant way to convert Object to Specific Number type-->https://stackoverflow.com/questions/42875831
+how to convert HashMultiset<String> to Map<String,Integer>-->https://stackoverflow.com/questions/21094757
+How to delete elements from a transformed collection using a predicate?-->https://stackoverflow.com/questions/3201732
+Apply Guava Range min/max-->https://stackoverflow.com/questions/32552764
+Is there a with() method inside ImmutableMap?-->https://stackoverflow.com/questions/30317346
+How to use Guava Optionals in a non-generic context?-->https://stackoverflow.com/questions/26018481
+guava - InetAddress.coerceToInteger returns int instead of long-->https://stackoverflow.com/questions/37824233
+Guava Load Multiple Keys and Get multiple items-->https://stackoverflow.com/questions/45945688
+Issue with Sorting List using collections in java-->https://stackoverflow.com/questions/25554664
+How to convert Guava HashMultmap to java.util.Map-->https://stackoverflow.com/questions/45438454
+Regarding map different implementation-->https://stackoverflow.com/questions/13725251
+How to filter Array of Map with multiple value using Guava-->https://stackoverflow.com/questions/46784053
+HashMap put or putAll? - Java-->https://stackoverflow.com/questions/8525094
+All Null, Any Null is possible guava Predicate-->https://stackoverflow.com/questions/21703136
+How to use ByteStream to read 1Mb of a file into a string-->https://stackoverflow.com/questions/19599391
+How to generate HashCode in order to call Hashing#consistentHash of google/guava?-->https://stackoverflow.com/questions/34540693
+java 7: Get optional nested POJO property-->https://stackoverflow.com/questions/47625207
+Guava what methods are being called when insert and delete-->https://stackoverflow.com/questions/42971163
+Java Guava combination of Multimap and Cache-->https://stackoverflow.com/questions/9586165
+Generic Test harness for java.util.Map?-->https://stackoverflow.com/questions/864890
+Iterables.find and Iterators.find - instead of throwing exception, get null-->https://stackoverflow.com/questions/2544534
+Predicate in Java-->https://stackoverflow.com/questions/2956756
+Guava Futures Wait for Callback-->https://stackoverflow.com/questions/17675030
+Check if only specific properties of 2 objects are equal-->https://stackoverflow.com/questions/22252072
+Does guava have an equivalent to Python's reduce function?-->https://stackoverflow.com/questions/19146232
+How can I combine DeferredResult with ListenableFuture list?-->https://stackoverflow.com/questions/40874813
+Sort Guava Multimap by number of values-->https://stackoverflow.com/questions/62343763
+Split a list by the type of element-->https://stackoverflow.com/questions/32346960
+Conditional expireAfterAccess in Google cache-->https://stackoverflow.com/questions/41985302
+How to use Guava ArrayTable to create a two dimensional table?-->https://stackoverflow.com/questions/42970231
+How to write the CharMatcher equivalent for the regex "word character"?-->https://stackoverflow.com/questions/12385867
+How can I iterate through a Guava multimap to print out values as pairs-->https://stackoverflow.com/questions/23484540
+Concatenating ImmutableLists-->https://stackoverflow.com/questions/62708877
+java guava multimap output in particular format-->https://stackoverflow.com/questions/32907465
+Create a map/cache that will use objects generated by the default constructor for new keys-->https://stackoverflow.com/questions/13095178
+Inverse of Guava HashBiMap that has multiple keys point to one value-->https://stackoverflow.com/questions/41963655
+BiMap with uniqueness along the set (key, value)?-->https://stackoverflow.com/questions/62687142
+Equivalent of Guavas Maps.uniqueIndex(...) for Set-->https://stackoverflow.com/questions/33410621
+Neo4j and Java: fast and random sample of Iterable<Relationship>-->https://stackoverflow.com/questions/30556571
+Guava: How to create an explicit Ordering from a List and a single element?-->https://stackoverflow.com/questions/39748753
+Guava's ImmutableTable filtering via Java 8 parallel stream-->https://stackoverflow.com/questions/39287585
+How can I combine DeferredResult with ListenableFuture list?-->https://stackoverflow.com/questions/40899918
+Cleaner way to filter collections in Java 7/Guava?-->https://stackoverflow.com/questions/31704095
+In Java 7 or below, HOWTO filter a list of map objects using key/value found in the map-->https://stackoverflow.com/questions/56427405
+Java 8 Optional asSet()-->https://stackoverflow.com/questions/25219333
+Is there an easy way to turn Future<Future<T>> into Future<T>?-->https://stackoverflow.com/questions/2165294
+implementing remove on a ConcurrentMultimap without races-->https://stackoverflow.com/questions/3839269
+Why Do we have TwoPlusArrayList and OnePlusArrayList inside Lists class?-->https://stackoverflow.com/questions/59313086
+guava collections conversion to scala collections-->https://stackoverflow.com/questions/28564091
+Get a list of results from ExecutorService.invokeAll-->https://stackoverflow.com/questions/11240934
+Guava way of sorting List according to another list?-->https://stackoverflow.com/questions/20153913
+Finding the sum of each ListMultiMap Key-->https://stackoverflow.com/questions/60775850
+How to do Groupby , Sum, Avg ,Min, Max on java collections?-->https://stackoverflow.com/questions/23591746
+How do I use Throwables.propagateIfInstanceOf() from Google Guava?-->https://stackoverflow.com/questions/36435923
+Get empty string when null-->https://stackoverflow.com/questions/63588155
+InternetDomainName and publicsuffix list-->https://stackoverflow.com/questions/45068878
+How to join two arrays of parametrized types (in guava)-->https://stackoverflow.com/questions/20125999
+Filter collections containing text using Google Guava-->https://stackoverflow.com/questions/31926762
+How to compare two Collections for "equivalence" based on fields from different Java classes?-->https://stackoverflow.com/questions/40877981
+Guava's Files.move() does it move the files or copy it-->https://stackoverflow.com/questions/44672216
+java - live view on collection contained within a collection contained within ... etc-->https://stackoverflow.com/questions/6024224
+How to translate list A,B to keyed map of tuples with guava-->https://stackoverflow.com/questions/8848385
+How to convert a possible null-value to a default value using Guava?-->https://stackoverflow.com/questions/8040311
+How to create MinMaxPriorityQueue with nested generic parameters?-->https://stackoverflow.com/questions/5045624
+What is an efficient and elegant way to add a single element to an immutable set?-->https://stackoverflow.com/questions/40285322
+How to get List<Y> from Map<X,Y> by providing List<X> using google collection?-->https://stackoverflow.com/questions/5033487
+How to delete elements from a transformed collection using a predicate?-->https://stackoverflow.com/questions/3198064
+Guava's HashBasedTable cellSet()-->https://stackoverflow.com/questions/15881949
+How can ImmutableMap builder create instance of abstract class?-->https://stackoverflow.com/questions/41042325
+Create a Guava TypeToken in Spring xml config?-->https://stackoverflow.com/questions/16993516
+Efficient filtering of list-->https://stackoverflow.com/questions/31267182
+How to measure elapsed time with Apache Camel-->https://stackoverflow.com/questions/28670257
+Negate comparison chain-->https://stackoverflow.com/questions/25374809
+Using Guava to index fields that can match multi properties-->https://stackoverflow.com/questions/35782265
+Check if only one element exist using Guava-->https://stackoverflow.com/questions/22058356
+Guava's `Files#write` doesn't write last empty line?-->https://stackoverflow.com/questions/25944073
+Java Generics erasure in Multimaps-->https://stackoverflow.com/questions/16042265
+Throw exception from Guava EventBus subscriber-->https://stackoverflow.com/questions/40857467
+SortedSet transform-->https://stackoverflow.com/questions/14341550
+Find if present in enum without iterating?-->https://stackoverflow.com/questions/31101147
+How do I change ImmutableSet from guava collections?-->https://stackoverflow.com/questions/34620517
+Cannot understand how to implement Memoization of a function with Guava-->https://stackoverflow.com/questions/63042863
+Create an efficient ImmutableMap collector that holds an ImmutableList for each key-->https://stackoverflow.com/questions/27473599
+How to take advantage of lambda expression with optionals-->https://stackoverflow.com/questions/49233225
+Exchanging a node in Guava MutableValueGraph-->https://stackoverflow.com/questions/43545387
+How to delete elements from a transformed collection using a predicate?-->https://stackoverflow.com/questions/3198538
+Google Guava "zip" two lists-->https://stackoverflow.com/questions/37729180
+Parsing Interval Notation to Guava Range-->https://stackoverflow.com/questions/45627598
+Using Multiset to count occurrences-->https://stackoverflow.com/questions/11913829
+Transform a Guava Range to a Different Type-->https://stackoverflow.com/questions/24890656
+Flink with Guava cache - The implementation of the ProcessFunction is not serializable-->https://stackoverflow.com/questions/55478825
+Regrouping Multimap Elements-->https://stackoverflow.com/questions/19789193
+Search in large CSV as fast as Guava Splitter-->https://stackoverflow.com/questions/45036637
+Java | Get column keys from a row key-->https://stackoverflow.com/questions/45038080
+Caching a graph with guava-->https://stackoverflow.com/questions/24574526
+Filter ArrayLists that just have intersected data-->https://stackoverflow.com/questions/16147743
+Use the results of two Guava ListenableFutures of different types-->https://stackoverflow.com/questions/35587554
+Preconditions library to throw IllegalArgumentException for notNull check-->https://stackoverflow.com/questions/30046279
+What is the proper error message to supply to Google Guava's Preconditions.* methods?-->https://stackoverflow.com/questions/39923832
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/31209897
+How to use Guava to cache HTTP responses? (without thread being blocked)-->https://stackoverflow.com/questions/55961661
+guava-libraries: Is Objects.hashCode(Object[]) collision safe?-->https://stackoverflow.com/questions/6158684
+guava cache RemovalListener not called-->https://stackoverflow.com/questions/59353106
+Get reverse of predicate when Filtering?-->https://stackoverflow.com/questions/28094152
+how to get a guava ListenableFuture from a callback?-->https://stackoverflow.com/questions/47960726
+How to concatenate strings using Guava?-->https://stackoverflow.com/questions/48551409
+Filter object only when predicate input is not the empty string using Guava-->https://stackoverflow.com/questions/38704964
+How to Use Guava MultiMap to store duplicate values against same key and retrieve keys and values-->https://stackoverflow.com/questions/63047527
+In Java, how can I use the inputStream from a process with Google's guava CharStreams.toString?-->https://stackoverflow.com/questions/16859995
+Finding a record in an interval in Guava Cache-->https://stackoverflow.com/questions/41890410
+Filter collections containing text using Google Guava-->https://stackoverflow.com/questions/31927147
+subscribing to an event bus-->https://stackoverflow.com/questions/40148400
+Guava function toByteArray() returning null?-->https://stackoverflow.com/questions/36192039
+Joining a collection based on members of the type-->https://stackoverflow.com/questions/30875636
+Having a Multimap sorted on keys only in Java-->https://stackoverflow.com/questions/52412233
+how to transform object list with list attribute to one list with all list attribute itemes contained-->https://stackoverflow.com/questions/13937704
+Guava Futures Wait for Callback-->https://stackoverflow.com/questions/33364489
+Guava way of sorting List according to another list?-->https://stackoverflow.com/questions/25998012
+Guava CacheBuilder Cache RemovalListener onRemoval doesn't get called everytime though the entry gets removed-->https://stackoverflow.com/questions/25396271
+calling a method on LoadingCache refresh-->https://stackoverflow.com/questions/47671324
+Guava ImmutableList copyOf vs Builder-->https://stackoverflow.com/questions/56129707
+Guava Graph library ElementOrder on Edges instead of Nodes-->https://stackoverflow.com/questions/58395367
+Register beans automatically in Guava EventBus with Spring IoC-->https://stackoverflow.com/questions/13805283
+how should I invoke super.hashcode with google guava hashCode()-->https://stackoverflow.com/questions/17502678
+Alternative to com.google.common.io.ByteArrayDataInput?-->https://stackoverflow.com/questions/9398558
+Jackson JsonParser readValueAs Multimap-->https://stackoverflow.com/questions/38592751
+Base64 encoding of Crc32c (long) value-->https://stackoverflow.com/questions/25099204
+Guava Load Multiple Keys and Get multiple items-->https://stackoverflow.com/questions/45890356
+How to configure guava cache to remove item after a read?-->https://stackoverflow.com/questions/47642274
+Convert Iterable to Array using Guava-->https://stackoverflow.com/questions/38867738
+Is there a performance impact when using Guava.Preconditions with concatenated strings?-->https://stackoverflow.com/questions/33145198
+How do you create a Guava CacheBuilder in Kotlin?-->https://stackoverflow.com/questions/62563814
+java/guava - collect removed elements from iterable-->https://stackoverflow.com/questions/25270449
+Iterable without element at index in Guava-->https://stackoverflow.com/questions/44958718
+Guava EventBus: don't catch RuntimeException-->https://stackoverflow.com/questions/40857256
+Java Class that can be used to represent null and absent differently-->https://stackoverflow.com/questions/23498687
+Merge ranges with guava-->https://stackoverflow.com/questions/20664737
+Can't properly serialize POJO with Iterable fields using Gson-->https://stackoverflow.com/questions/48319739
+How to expose ListeningExecuterService as Spring bean-->https://stackoverflow.com/questions/32281406
+Guava's UnsignedLong: Why does it XOR Long.MIN_VALUE-->https://stackoverflow.com/questions/53438920
+Inital Value for Guava Table-->https://stackoverflow.com/questions/13825398
+How to Make guava cache value permanent-->https://stackoverflow.com/questions/15900679
+WildcardType to ParameterizedType-->https://stackoverflow.com/questions/52309087
+Guava precondition checks, empty List-->https://stackoverflow.com/questions/12475827
+Guava: How to create an explicit Ordering from a List and a single element?-->https://stackoverflow.com/questions/39698052
+Guava eventbus memory limit-->https://stackoverflow.com/questions/32001792
+Java Generics Wildcards Question-->https://stackoverflow.com/questions/6027155
+Extract stats from Guava table using Java streams-->https://stackoverflow.com/questions/50341915
+Inject a synchronizedMultiMap with Guava & Spring?-->https://stackoverflow.com/questions/33371507
+How to create a Multimap<K,V> from a Map<K, Collection<V>>?-->https://stackoverflow.com/questions/49790867
+what is the method used for getting all the elements(substrings) in iterable.. as we get first substring with iterable.iterator().next();-->https://stackoverflow.com/questions/25618492
+com.google.common.collect.Lists.newArrayList throws away my elements-->https://stackoverflow.com/questions/51648948
+How can I release the semaphore when two futures are completed?-->https://stackoverflow.com/questions/62721399
+One liner for getting a sublist from a Set-->https://stackoverflow.com/questions/12491184
+Guava Android expireAfterWrite issue-->https://stackoverflow.com/questions/28402984
+How to check value of Multimap is null or empty?-->https://stackoverflow.com/questions/53579388
+Filter object by its members-->https://stackoverflow.com/questions/30536835
+Guava Splitter to key value map with splitter character included in strings-->https://stackoverflow.com/questions/61866627
+immutable map, adding a single object is a syntax error, 2 is fine-->https://stackoverflow.com/questions/22448197
+Guava ImmutableSortedSetMultimap?-->https://stackoverflow.com/questions/25776521
+How to get inclusive result from Guava RangeSet difference?-->https://stackoverflow.com/questions/50249607
+Java Guava splitter do not break the word-->https://stackoverflow.com/questions/44315011
+builder for HashMap-->https://stackoverflow.com/questions/54714173
+Synchronization for inverse view of synchronized BiMap-->https://stackoverflow.com/questions/44052072
+Convert Java Map<Obj1, Collection<Obj2>> to Map<Obj2, Collection<Obj1>>-->https://stackoverflow.com/questions/60267887
+how can I traverse in guava table-->https://stackoverflow.com/questions/40977499
+Will the Guava Multimap .values() collection throw concurrent modification exceptions?-->https://stackoverflow.com/questions/23828721
+Java - Append quotes to strings in an array and join strings in an array-->https://stackoverflow.com/questions/25568300
+Combine severel collections into one?-->https://stackoverflow.com/questions/34957165
+Regrouping Multimap Elements-->https://stackoverflow.com/questions/48893786
+Guava Lazy Collection using Supplier interface-->https://stackoverflow.com/questions/22758737
+Java Guava splitter do not break the word-->https://stackoverflow.com/questions/44190375
+Filter parameters from query String (using Guava?)-->https://stackoverflow.com/questions/24229798
+Writing a filter that goes between a charstreams inputsupplier and outputsupplier-->https://stackoverflow.com/questions/14274359
+How can I join an array using Google Guava (Java)?-->https://stackoverflow.com/questions/8226636
+Google Guava Optional - How to short circuit multiple chained expressions-->https://stackoverflow.com/questions/27577459
+Guava: MutableGraph with nodeOrder that is inverse-insertion-->https://stackoverflow.com/questions/60974026
+Cleaner way to check number of arguments-->https://stackoverflow.com/questions/23595490
+How to await a list of ListenableFuture with a timeout-->https://stackoverflow.com/questions/53877590
+How to avoid caching when values are null?-->https://stackoverflow.com/questions/61227029
+How to empty Guava cache every 30 seconds while sending it to another method?-->https://stackoverflow.com/questions/47431346
+Java lang IllegalAccess on collecting Guava Immutable Table via HashBasedTable accumulator-->https://stackoverflow.com/questions/39112830
+Guava Eventbus: NullPointerException when Posting from Thread to UI-->https://stackoverflow.com/questions/47512780
+Remove an array of ids contained in another array-->https://stackoverflow.com/questions/35018189
+Java : newSingleThreadScheduledExecutor is not giving expected result when used parallel to akka framework-->https://stackoverflow.com/questions/63582542
+How to build Multi ConcurrentHashMap?-->https://stackoverflow.com/questions/36265313
+calling Iterables.contains for a subfield of object list-->https://stackoverflow.com/questions/10918531
+Create a string-capable Guava Splitter-->https://stackoverflow.com/questions/32185913
+Guava SetMultimap not serializable (due to not serializable WrappedSet)-->https://stackoverflow.com/questions/8488680
+Guava Splitter to key value map with splitter character included in strings-->https://stackoverflow.com/questions/44685407
+builder for HashMap-->https://stackoverflow.com/questions/60264424
+How to wrap a method that returns an optional <T> with fromNullable?-->https://stackoverflow.com/questions/33012335
+how to create hashcode and equals for optional parameters-->https://stackoverflow.com/questions/39586983
+Are Iterables.filter and Collections2.filter lazy executed?-->https://stackoverflow.com/questions/27001806
+Guava cache expireAfterAccess issue-->https://stackoverflow.com/questions/41960934
+Adapting spymemcached Java client GetFuture to a Guava ListenableFuture-->https://stackoverflow.com/questions/46099379
+In Multimap how to return value which has highest occurrence-->https://stackoverflow.com/questions/62920271
+How to add and remove from list concurrently?-->https://stackoverflow.com/questions/26076233
+Use the results of two Guava ListenableFutures of different types-->https://stackoverflow.com/questions/15575379
+Google Guava BiMap - inversed get-Method doesn't work-->https://stackoverflow.com/questions/51459849
+Java: Curious ImmutableList add-->https://stackoverflow.com/questions/47696551
+Filter collections containing text using Google Guava-->https://stackoverflow.com/questions/31926993
+passing ImmutableSet in place of Set?-->https://stackoverflow.com/questions/2166737
+Shortest way to extract Map from List in Java-->https://stackoverflow.com/questions/30592959
+Guava: Access elements in TreeMultiset via position in expanded entrySet-->https://stackoverflow.com/questions/8369346
+How to delete elements from a transformed collection using a predicate?-->https://stackoverflow.com/questions/3202694
+Java - Are there any Stream Collectors that return ImmutableMap?-->https://stackoverflow.com/questions/34505942
+Guava EventBus in globally (singleton) and session based in Vaadin with Spring Boot-->https://stackoverflow.com/questions/48480166
+import excel sheet to Guava Table-->https://stackoverflow.com/questions/58754603
+Grouping elements of a list into sublists (maybe by using guava)-->https://stackoverflow.com/questions/28188426
+Hashing issue between guava versions-->https://stackoverflow.com/questions/21291270
+How to count occurrences for each value in MultiMap ? (java)-->https://stackoverflow.com/questions/48280541
+Need help on NoSuchMethodError: com.google.common.util.concurrent.MoreExecutors.directExecutor()Ljava/util/concurrent/Executor; in IntelliJ-->https://stackoverflow.com/questions/51813890
+Guava Table ConcurrentModificationException-->https://stackoverflow.com/questions/15800204
+How to let missing entries expire more quickly in Guava-->https://stackoverflow.com/questions/16071084
+How to merge multiple (arbitrary number of) Set<String> into one in Java?-->https://stackoverflow.com/questions/49544217
+How to cast Guava's "Sets.combinations" returns back to usable Object Type?-->https://stackoverflow.com/questions/56967493
+split values while printing in a file-->https://stackoverflow.com/questions/41498744
+How to sort Guava MultiMap by count of values for each key-->https://stackoverflow.com/questions/31203781
+Guava string sorting-->https://stackoverflow.com/questions/27296280
+Guava cache: how to set expiration on 'CacheLoader.load()' instead of during CacheBuilder.newBuilder()?-->https://stackoverflow.com/questions/36227400
+parallelize do while loop depending on how many pages we need to call for?-->https://stackoverflow.com/questions/48459818
+Define guava HashBasedTable/Table in spring xml config-->https://stackoverflow.com/questions/23909181
+Sorting TreeMultiMap based on key and ignore value-->https://stackoverflow.com/questions/37650545
+Collections and Naturally ordering a Map<Long, Map<String, String>>-->https://stackoverflow.com/questions/6537966
+Java Generics Wildcards Question-->https://stackoverflow.com/questions/6130842
+Java-get most common element in a list-->https://stackoverflow.com/questions/21923297
+How to invoke guava Predicate without filter?-->https://stackoverflow.com/questions/20969340
+Cached map with data initialization and whole data refreshed periodically in Java-->https://stackoverflow.com/questions/15358078
+Cache with automatically expiring items-->https://stackoverflow.com/questions/16108995
+Using Guava to index fields that can match multi properties-->https://stackoverflow.com/questions/35782106
+How to create s sublist of specific object variables?-->https://stackoverflow.com/questions/15880843
+How to automatically refresh Cache using Google Guava?-->https://stackoverflow.com/questions/60943421
+Compare two sets of different types-->https://stackoverflow.com/questions/29411057
+"IndexedSet", "MapSet" or "SetMap" implementation in Java-->https://stackoverflow.com/questions/18663389
+how to use expireAfterAccess with CacheBuilder in guava-->https://stackoverflow.com/questions/8038481
+Best practice to verify Optional using hamcrest-->https://stackoverflow.com/questions/45566990
+How to design an immutable value class holding java.lang.String?-->https://stackoverflow.com/questions/12485420
+Is there an IdentityHashMap implementation that maintains insert order?-->https://stackoverflow.com/questions/46561815
+How do I convert this Java code from using TreeMap to TreeMultiMap?-->https://stackoverflow.com/questions/31610699
+Sort List in reverse in order-->https://stackoverflow.com/questions/18087970
+Potential use for SoftReference with value (equals) equality-->https://stackoverflow.com/questions/2264389
+java guava multimap output in particular format-->https://stackoverflow.com/questions/32875208
+Json and Guava Multimap-->https://stackoverflow.com/questions/60994660
+Generate all combinations of place without redundancy in Java-->https://stackoverflow.com/questions/32813523
+How to sort a multimap by complex key?-->https://stackoverflow.com/questions/38922962
+Guava - how can I generate a random number using Range?-->https://stackoverflow.com/questions/36918537
+Asynchronous programming in Java/Guava-->https://stackoverflow.com/questions/21914239
+Identify the Key-Value pair having duplicate values-->https://stackoverflow.com/questions/38855453
+Filter parameters from query String (using Guava?)-->https://stackoverflow.com/questions/4597923
+how to convert HashMultiset<String> to Map<String,Integer>-->https://stackoverflow.com/questions/21100414
+mockserver not compatible with the last version of google guava-->https://stackoverflow.com/questions/32061570
+How to sort Hashmultimap based on value?-->https://stackoverflow.com/questions/24924901
+Thread parked on waiting on condition on AbstractFuture-->https://stackoverflow.com/questions/32611341
+How to reverse iterate a nested multimap-->https://stackoverflow.com/questions/22602246
+guava - filter and transform map-->https://stackoverflow.com/questions/26065565
+Query Guava Table by Value-->https://stackoverflow.com/questions/44502073
+How to get the value in a nested `ArrayListMultimap`-->https://stackoverflow.com/questions/45841036
+Can you use a functor/functional programming to group a list in Java 7 (and count its elements per group)?-->https://stackoverflow.com/questions/41552197
+Merge several Collections<A> into a single Collection<A> from a Collection<B> using Guava-->https://stackoverflow.com/questions/10293438
+Populating loading cache while loading from DB-->https://stackoverflow.com/questions/36186822
+Converting List To Maps in Java 8-->https://stackoverflow.com/questions/46224132
+Guava: Access elements in TreeMultiset via position in expanded entrySet-->https://stackoverflow.com/questions/8364273
+Iterating over Guava Mutlimaps-->https://stackoverflow.com/questions/28769098
+Caching with eviction based on timestamp-->https://stackoverflow.com/questions/27563990
+Convert url to a safe filename-->https://stackoverflow.com/questions/13754003
+How to implement a Guava Cache with the value as number of hits?-->https://stackoverflow.com/questions/52716208
+Compare sets inside a set-->https://stackoverflow.com/questions/34964554
+Guava Table to CSVPrinter with header-->https://stackoverflow.com/questions/59732417
+Can weakValues() and expireAfterAccess() be combined?-->https://stackoverflow.com/questions/37556076
+Guava Cache of maximum size 1-->https://stackoverflow.com/questions/35274326
+Timestamp based sorting for a nested Map-->https://stackoverflow.com/questions/32032540
+Regarding map different implementation-->https://stackoverflow.com/questions/13729235
+Iterating over a map and putting its values in java-->https://stackoverflow.com/questions/30979737
+Get an element through an iterable string (guava)-->https://stackoverflow.com/questions/34374103
+How to compare two Collections for "equivalence" based on fields from different Java classes?-->https://stackoverflow.com/questions/40813641
+Sort Strings in java-->https://stackoverflow.com/questions/24172890
+Remove predicate from nested structure (google guava predicates)-->https://stackoverflow.com/questions/42970575
+How to transform Iterable<Map.Entry<A,B>> to Map<A,B> using Guava?-->https://stackoverflow.com/questions/19936644
+Java Class that can be used to represent null and absent differently-->https://stackoverflow.com/questions/23418988
+The method sipHash24() is undefined for the type Hashing-->https://stackoverflow.com/questions/35280709
+Efficient way to find the difference between two data sets-->https://stackoverflow.com/questions/20835877
+Convert Key and Value from input JSON to Guava ListMultimap?-->https://stackoverflow.com/questions/33700166
+Type error with map based on cache in Guava-->https://stackoverflow.com/questions/29036866
+How does someone use Guava's CacheLoader asynchronously-->https://stackoverflow.com/questions/19457435
+An Iterator which mutates and returns the same object. Bad practice?-->https://stackoverflow.com/questions/11894974
+Guava splitter for splitting on space,special character, digit-->https://stackoverflow.com/questions/30941520
+spot the difference between two lists-->https://stackoverflow.com/questions/25901592
+ImmutableMap turns into a HashMap when passed through Intent-->https://stackoverflow.com/questions/24065991
+Why does Predicates.instanceOf returns false?-->https://stackoverflow.com/questions/39903022
+Remove duplicates from List using Guava-->https://stackoverflow.com/questions/12246987
+Base64 encoding of Crc32c (long) value-->https://stackoverflow.com/questions/25144946
+How to translate list A,B to keyed map of tuples with guava-->https://stackoverflow.com/questions/8859722
+How do I implement Guava Caching in Dropwizard?-->https://stackoverflow.com/questions/50417811
+Is there an elegant way to remove nulls while transforming a Collection using Guava?-->https://stackoverflow.com/questions/3115703
+How to convert Collection to Iterables?-->https://stackoverflow.com/questions/21237947
+Create list of certain size in Java from SortedSet-->https://stackoverflow.com/questions/58533430
+Register beans automatically in Guava EventBus with Spring IoC-->https://stackoverflow.com/questions/13807727
+Guava MapSplitter to extract key-value pairs whose value can contain outer split character-->https://stackoverflow.com/questions/29491752
+Guava CacheBuilder removal listener-->https://stackoverflow.com/questions/34681142
+How can I use a guava class (HashMultiset) from Scala?-->https://stackoverflow.com/questions/28259970
+Create a Gson TypeAdapter for a Guava Range-->https://stackoverflow.com/questions/30018782
+Filter parameters from query String (using Guava?)-->https://stackoverflow.com/questions/4596633
+error: expireAfterAccess(long,TimeUnit) is not public in MapMaker; cannot be accessed from outside package-->https://stackoverflow.com/questions/32584089
+Java MultipMap single key with multiple value-->https://stackoverflow.com/questions/25831263
+Find intersection between collections with different objects-->https://stackoverflow.com/questions/30171896
+Get delegate function for arbitrary java method-->https://stackoverflow.com/questions/28114765
+Config Spring cache using Guava-->https://stackoverflow.com/questions/40973059
+How to populate map of string and another map in a thread safe way?-->https://stackoverflow.com/questions/40984515
+Add(remove) element(s) from an ImmutableSortedMultiset-->https://stackoverflow.com/questions/37767527
+Map that could be iterated in the order of values-->https://stackoverflow.com/questions/28699526
+Join array and wrap every element with Guava Joiner-->https://stackoverflow.com/questions/48824684
+Guava Collections : limit permutation size-->https://stackoverflow.com/questions/11121802
+Change index for a large 2D array using Guava-->https://stackoverflow.com/questions/35309354
+Should you avoid Guavas Ordering.usingToString()?-->https://stackoverflow.com/questions/18429372
+Creating guava Table from Map-->https://stackoverflow.com/questions/24649008
+Why is there a type mismatch error creating a factory with guava?-->https://stackoverflow.com/questions/13065488
+Is Guava Striped.get(key) synchronized?-->https://stackoverflow.com/questions/32880708
+How to instanciate a guava Table dynamically?-->https://stackoverflow.com/questions/47591110
+How does Java guarantee callback is called when future.isDone() in ListenableFuture-->https://stackoverflow.com/questions/47540032
+guava - Iterables avoid iterating multiple times-->https://stackoverflow.com/questions/28234733
+How to use wildcard generics with Sets.powerSet-->https://stackoverflow.com/questions/27904805
+CacheBuilder.newBuilder().build is ambiguous-->https://stackoverflow.com/questions/29267347
+Guava ImmutableSortedMultiset: how to "sum" two instances?-->https://stackoverflow.com/questions/22389127
+Extract the first matching item from a list based on condition (Java/Guava)?-->https://stackoverflow.com/questions/22662055
+Swapping relation of keys and values in a Google Guava Multimap-->https://stackoverflow.com/questions/28214155
+Spark - Can a MultiMap be converted to a DataFrame in JAVA-->https://stackoverflow.com/questions/35509646
+Array to JSON with Guava-->https://stackoverflow.com/questions/27362768
+Ways to reduce boilerplate using guava cache-->https://stackoverflow.com/questions/19713605
+Negate comparison chain-->https://stackoverflow.com/questions/25387657
+Is there a generic implementation for NavigableMap subMap/headMap/tailMap?-->https://stackoverflow.com/questions/27404261
+In Java, how can I use the inputStream from a process with Google's guava CharStreams.toString?-->https://stackoverflow.com/questions/7030398
+Sum of each values of Guava Multimap-->https://stackoverflow.com/questions/59418822
+A Java multimap which allows fast lookup of key by value-->https://stackoverflow.com/questions/24966130
+Guava SortedSetMultimap doesn't put unordered values-->https://stackoverflow.com/questions/41245421
+Filtering Guava Multimaps-->https://stackoverflow.com/questions/6244498
+Is it possible to configure Guava Cache (or other library) behaviour to be: If time to reload, return previous entry, reload in background (see specs)-->https://stackoverflow.com/questions/33863701
+How to convert List into HashBasedTable using Java 8?-->https://stackoverflow.com/questions/60167302
+Split a list by the type of element-->https://stackoverflow.com/questions/32352519
+How to make normal List as ImmutableList?-->https://stackoverflow.com/questions/34914213
+Taking the value of a JSON string and get the value-->https://stackoverflow.com/questions/26150248
+How to run a Listener in a different thread or do its calculation in a different thread-->https://stackoverflow.com/questions/11690116
+How do I store a Map in a Guava Cache-->https://stackoverflow.com/questions/44156239
+Guava: How to create an explicit Ordering from a List and a single element?-->https://stackoverflow.com/questions/14407570
+IllegalArgumentException - Google Guava convert String to HashMap-->https://stackoverflow.com/questions/26910936
+Guava: how to customly reduce a multimap?-->https://stackoverflow.com/questions/33216292
+In Multimap how to return value which has highest occurrence-->https://stackoverflow.com/questions/62917975
+How can i do to get all class of a given package with guava-->https://stackoverflow.com/questions/28341549
+How to validate with ComparisonChain?-->https://stackoverflow.com/questions/28475520
+How to serialize bloom filter from Google Guava?-->https://stackoverflow.com/questions/39481218
+Evict object from ArrayBlockingQueue if full-->https://stackoverflow.com/questions/41041979
+How to keep a fixed size pool of ListenableFutures?-->https://stackoverflow.com/questions/25323446
+Google Guava isNullOrEmpty for collections-->https://stackoverflow.com/questions/30312233
+How to count occurrences for each value in MultiMap ? (java)-->https://stackoverflow.com/questions/48286012
+Get key of Guava Multimap by index of value-->https://stackoverflow.com/questions/45412891
+Iterate on a Multiset in Java, use setcount() without ConcurrentModificationException-->https://stackoverflow.com/questions/35349711
+Getting Guava ArrayListMultimap to work-->https://stackoverflow.com/questions/26635751
+Most efficient way to find the collection of all ids in a collection of entities-->https://stackoverflow.com/questions/23814173
+Can I use Guava's Services with an API provided ExecutorService?-->https://stackoverflow.com/questions/50838665
+Idiomatic way to use for-each loop given an iterator?-->https://stackoverflow.com/questions/3883304
+Use the results of two Guava ListenableFutures of different types-->https://stackoverflow.com/questions/53390685
+In Java, how can I use the inputStream from a process with Google's guava CharStreams.toString?-->https://stackoverflow.com/questions/7030397
+Java Multimap search for value-->https://stackoverflow.com/questions/29748409
+How to port from java.util.Optional method call chaining to Guava Optional?-->https://stackoverflow.com/questions/29066282
+More succinct code for a defensive copy using Guava's immutable types?-->https://stackoverflow.com/questions/62835612
+How do I add to a set based on a specific predicate in Java?-->https://stackoverflow.com/questions/16092626
+Can I evaluate variable in predicate apply method？-->https://stackoverflow.com/questions/7242701
+Search in large CSV as fast as Guava Splitter-->https://stackoverflow.com/questions/45012925
+How to delete elements from a transformed collection using a predicate?-->https://stackoverflow.com/questions/3206278
+Existing Java collection that supports custom criteria for uniqueness?-->https://stackoverflow.com/questions/14263647
+Caching with Guava-->https://stackoverflow.com/questions/4744395
+List of results from async operations-->https://stackoverflow.com/questions/10360005
+Why doesn't Guava RateLimiter limit for too large permits per second anymore?-->https://stackoverflow.com/questions/52626754
+Siphash tostring and getBytes()-->https://stackoverflow.com/questions/35471908
+create guava hashmaptable from excel with apache poi-->https://stackoverflow.com/questions/36038431
+Java Multimap search for value-->https://stackoverflow.com/questions/29750535
+Remove element from SynchronizedMultimap adds unexpected behavior-->https://stackoverflow.com/questions/39331670
+Convert org.restlet.data.MediaType to com.google.common.net.MediaType-->https://stackoverflow.com/questions/26302303
+Guava cache generics error-->https://stackoverflow.com/questions/46315965
+WildcardType to ParameterizedType-->https://stackoverflow.com/questions/52242637
+Is there a generic implementation for NavigableMap subMap/headMap/tailMap?-->https://stackoverflow.com/questions/27496069
+How to iterate guava MultiMap when the key is derived from a List-->https://stackoverflow.com/questions/33042432
+Returning an element of a list based on an id-->https://stackoverflow.com/questions/25013098
+Create Multimap for every single object in for-Loop-->https://stackoverflow.com/questions/18615335
+Getting rid of NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE?-->https://stackoverflow.com/questions/23747056
+Returning an element of a list based on an id-->https://stackoverflow.com/questions/24935112
+Guava.Objects.hashCode vs Java.Objects.hashCode-->https://stackoverflow.com/questions/58587197
+spot the difference between two lists-->https://stackoverflow.com/questions/25764880
+Regrouping Multimap Elements-->https://stackoverflow.com/questions/19793409
+How to iterate two multi maps and print the difference in file?-->https://stackoverflow.com/questions/37033160
+Guava cast HashBasedTable to TreeBasedTable-->https://stackoverflow.com/questions/61448432
+Should I do things like this?-->https://stackoverflow.com/questions/4420708
+Turning a ListenableFuture<Iterable<A>> to Iterable<ListenableFuture<B>> through split and run-->https://stackoverflow.com/questions/15071244
+Issue while running hive job for giraph for graph analysis-->https://stackoverflow.com/questions/14418636
+Guava thread management when pre-loading and refreshing cache entries-->https://stackoverflow.com/questions/52819445
+Iterable throws NoSuchElementException even after I have verified by printing each element-->https://stackoverflow.com/questions/22239090
+Iterators.filter vs for-each-->https://stackoverflow.com/questions/24881031
+How do I avoid "potential null pointer access" when using Preconditions.checkNotNull()?-->https://stackoverflow.com/questions/20148333
+Guava why toStringFunction not a generic function?-->https://stackoverflow.com/questions/29136406
+Would java allow me to assign this object to this generic field?-->https://stackoverflow.com/questions/52026646
+Inferring generic types of nested static generic functions-->https://stackoverflow.com/questions/6297361
+Guava - How to remove from a list, based on a predicate, keeping track of what was removed?-->https://stackoverflow.com/questions/6494813
+want a list<ABC> be converted to MAP<var, List<ABC>>-->https://stackoverflow.com/questions/33010789
+Guava Iterables.filter(), how do you test for an empty return?-->https://stackoverflow.com/questions/12649563
+Iteration order for views derived from Guava ImmutableTable-->https://stackoverflow.com/questions/31978828
+FluentIterable: should limit() be called as soon as possible?-->https://stackoverflow.com/questions/44306122
+Guava cache allow stale reads?-->https://stackoverflow.com/questions/32489929
+How to map a value back to an enum?-->https://stackoverflow.com/questions/10946817
+Alternatives to deprecated Files.copy, ByteStreams.copy, InputSupplier-->https://stackoverflow.com/questions/25562761
+Is it possible to have a single Gson-based method to deserialize maps with values from different classes?-->https://stackoverflow.com/questions/28179511
+I can't compile a Guava's Cache's builder because of Java generics-->https://stackoverflow.com/questions/15387664
+Guava - get keys only from left/right and add as ValueDifference-->https://stackoverflow.com/questions/46552474
+Change map values in LoadingCache-->https://stackoverflow.com/questions/22958287
+Java Executor for "main" thread-->https://stackoverflow.com/questions/57367014
+Inferring generic types of nested static generic functions-->https://stackoverflow.com/questions/6264418
+How can I transform a collection into a Guava Multimap grouped by the elements of a nested collection property?-->https://stackoverflow.com/questions/58095722
+Cleaner way to check number of arguments-->https://stackoverflow.com/questions/23595327
+How to make LoadingCache to call load() in a non blocking fashion()?-->https://stackoverflow.com/questions/20497092
+Java 8 collector for Guava ImmutableTable using HashBasedTable as accumulator gives IllegalAccessError-->https://stackoverflow.com/questions/39112812
+Guava generic for Ordering-->https://stackoverflow.com/questions/25851118
+Google-guava checkNotNull and IntelliJ IDEA's "may produce java.lang.NullPointerException"-->https://stackoverflow.com/questions/25564243
+Java: slicing guava multimap-->https://stackoverflow.com/questions/42767053
+Transform Map using another Map with the help of Guava-->https://stackoverflow.com/questions/24894681
+Initialize an ImmutableMap with explicit types?-->https://stackoverflow.com/questions/43870658
+Add(remove) element(s) from an ImmutableSortedMultiset-->https://stackoverflow.com/questions/37767671
+Persist guava cache on shutdown-->https://stackoverflow.com/questions/9081749
+Why does Eclipse complain about ambiguity in overloaded varargs method?-->https://stackoverflow.com/questions/21375962
+convert MultiLabelDataset<String, String> to Guava Multimap for printing / examining-->https://stackoverflow.com/questions/29553839
+Immutable collection with expiration-->https://stackoverflow.com/questions/24703204
+Guava Futures Wait for Callback-->https://stackoverflow.com/questions/17672268
+Converting an iterator into a stream and calling parallel, is the conversion done on shared thread pool threads?-->https://stackoverflow.com/questions/51445997
+Transform List<List<String>> into List<Integer> with Guava's Function-->https://stackoverflow.com/questions/19172790
+API to express an operation to test whether one `Predicate` is stricter than another `Predicate`?-->https://stackoverflow.com/questions/40853043
+Add/extend behavior of Future created by ListeningExecutorService-->https://stackoverflow.com/questions/8944376
+scala 2.10 type mismatch using google guava's CacheBuilder-->https://stackoverflow.com/questions/16204579
+Is there any way to get the hashcode of an InputStream using Guava?-->https://stackoverflow.com/questions/56351987
+Guava: How to type a List of powersets of generic Enums-->https://stackoverflow.com/questions/57641182
+LoadingCache with async loading-->https://stackoverflow.com/questions/38671322
+Sorting a list of lists in an specific order-->https://stackoverflow.com/questions/40849969
+Parsing Logs Using Google Guava-->https://stackoverflow.com/questions/7113599
+How can I convert a normal array of doubles to a guava immutable array-->https://stackoverflow.com/questions/62111955
+It is possible to achieve that the destination collection has different length than source using guava transform?-->https://stackoverflow.com/questions/20957551
+IllegalAnnotationsException SetMultimap is an interface, and JAXB can't handle interfaces-->https://stackoverflow.com/questions/3476856
+Having a Multimap sorted on keys only in Java-->https://stackoverflow.com/questions/5501874
+How to create a Map with immutable keys and no duplicates using Google Guava?-->https://stackoverflow.com/questions/31595556
+IntelliJ IDEA causes NoSuchMethodErrors in GRPC/Netty-->https://stackoverflow.com/questions/43686715
+In Guava, how to create a Multiset with a single element and n occurrences-->https://stackoverflow.com/questions/10895583
+Build Graph given a SuccessorsFunction and a set of nodes-->https://stackoverflow.com/questions/58457785
+Create a Gson TypeAdapter for a Guava Range-->https://stackoverflow.com/questions/23179733
+Eclipse fails to compile generic code, but mvn compile works-->https://stackoverflow.com/questions/23007232
+How can I properly relate multiple BiMap collections using shared keys?-->https://stackoverflow.com/questions/14830947
+java/guava - collect removed elements from iterable-->https://stackoverflow.com/questions/25270384
+Guava MultiMap and ConcurrentModificationException-->https://stackoverflow.com/questions/20578620
+spot the difference between two lists-->https://stackoverflow.com/questions/25767608
+readResolve not working ? : an instance of Guava's SerializedForm appears-->https://stackoverflow.com/questions/36309496
+Java: "cons" an item to a list-->https://stackoverflow.com/questions/7074556
+How to merge multiple (arbitrary number of) Set<String> into one in Java?-->https://stackoverflow.com/questions/27263946
+google common cache - default value of maximumSize (and other "optional" settings) - want a cache that uses all "available" memory-->https://stackoverflow.com/questions/41332306
+map ConcurrentModificationException in for header-->https://stackoverflow.com/questions/36235523
+save null values as multiple keys where null has a single meaning-->https://stackoverflow.com/questions/40885921
+Add/extend behavior of Future created by ListeningExecutorService-->https://stackoverflow.com/questions/8932460
+Does guava provide any support for defining ranges of characters?-->https://stackoverflow.com/questions/12009740
+How to create nested maps from flat sql select result set-->https://stackoverflow.com/questions/59152977
+Filter ArrayLists that just have intersected data-->https://stackoverflow.com/questions/16164679
+How to create collection from Iterable in java?-->https://stackoverflow.com/questions/7851006
+How to sort Guava MultiMap by count of values for each key-->https://stackoverflow.com/questions/21401118
+Cached map with data initialization and whole data refreshed periodically in Java-->https://stackoverflow.com/questions/19217596
+how to convert HashMultiset<String> to Map<String,Integer>-->https://stackoverflow.com/questions/21100179
+Min/Max of object.attribute in a list of object with guava-->https://stackoverflow.com/questions/21940385
+Guava caching using independent keys-->https://stackoverflow.com/questions/33903523
+From List of an object to Group objects with its key and values based on Java 8 or Guava-->https://stackoverflow.com/questions/44721851
+Finding first and last elements in time added to Guava LinkedHashMultimap/HashMultiMap-->https://stackoverflow.com/questions/44374027
+Is ImmutableMap a sub-optimal choice for large volume of keys/objects/-->https://stackoverflow.com/questions/28274857
+Preserve order of Insertion in guava SetMultimap-->https://stackoverflow.com/questions/40711372
+Iterate through multi map in Java-->https://stackoverflow.com/questions/24086958
+Guava splitter with limit from backwards-->https://stackoverflow.com/questions/37863733
+Guava: Is it valid to cast a Multimap to generic supertypes?-->https://stackoverflow.com/questions/36540463
+Google-guava checkNotNull and IntelliJ IDEA's "may produce java.lang.NullPointerException"-->https://stackoverflow.com/questions/6598952
+Check if only specific properties of 2 objects are equal-->https://stackoverflow.com/questions/22252064
+Find the highest value in a HashSet/ArrayList by a specific object attribute-->https://stackoverflow.com/questions/16101282
+How can I sort a Guava Multiset on entry value and count?-->https://stackoverflow.com/questions/19100558
+Unable to get key from a Guava MultiMap-->https://stackoverflow.com/questions/11846798
+Guava: Is it possible not map all entries with Multimaps.index()?-->https://stackoverflow.com/questions/25900505
+What is the impact of libraries that maintain their own threads pool?-->https://stackoverflow.com/questions/28971105
+Filtering Guava HashMultimap keys by count-->https://stackoverflow.com/questions/7573616
+Guava - Filter by Property and Contains-->https://stackoverflow.com/questions/27930114
+Get minvalue of a Map(Key,Double)-->https://stackoverflow.com/questions/2776468
+How to use CacheBuiler from Guava as a ConcurrentLRUCache-->https://stackoverflow.com/questions/38913417
+Change Comparator in MinMaxPriorityQueue guava-->https://stackoverflow.com/questions/31278021
+Efficient hash code for multiset in Java-->https://stackoverflow.com/questions/7448843
+Intersecting ranges when using RangeMap-->https://stackoverflow.com/questions/41418794
+How to create a Guava HashMultiset from a Map<String, Object>-->https://stackoverflow.com/questions/51896258
+Mismatched base32 encoded hash of certificate-->https://stackoverflow.com/questions/23670880
+How should I implement Guava cache when I plan to cache multiple values efficiently?-->https://stackoverflow.com/questions/31577360
+Google Guava TreeMultimap -- retrieve values based on sorted ordering?-->https://stackoverflow.com/questions/17200728
+how do I correctly override equals for inheritance in java?-->https://stackoverflow.com/questions/9888607
+What Iterable will be used when working with Guava Iterables-->https://stackoverflow.com/questions/35768407
+How to get proper string from Guava range class-->https://stackoverflow.com/questions/37460658
+Resolving a method's return type using its argument types-->https://stackoverflow.com/questions/23769044
+Java Generics Wildcards Question-->https://stackoverflow.com/questions/6000152
+immutable map, adding a single object is a syntax error, 2 is fine-->https://stackoverflow.com/questions/22445334
+Method transform() in Type Lists Not Applicable-->https://stackoverflow.com/questions/23275084
+Spock Mock with Guava Collection-->https://stackoverflow.com/questions/32953796
+How do I add to a set based on a specific predicate in Java?-->https://stackoverflow.com/questions/16092775
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/18081061
+Thread safety of cached ConcurrentHashMaps containing Lists-->https://stackoverflow.com/questions/12402115
+How do I store a Map in a Guava Cache-->https://stackoverflow.com/questions/28755658
+Filter Multimap By Key Based on Date Range-->https://stackoverflow.com/questions/45423006
+Java object definition shorthand or shortcuts?-->https://stackoverflow.com/questions/29125919
+Can we achieve Limit functionality similar to database, from Maps.filteKey/Value method provided in Guava library-->https://stackoverflow.com/questions/20651805
+Joining a collection based on members of the type-->https://stackoverflow.com/questions/30875596
+Merge two Maps (Map<String, Map<String, Object>>) with duplicate keys-->https://stackoverflow.com/questions/35381464
+Converting Multiset Count into a List Java-->https://stackoverflow.com/questions/29269803
+is there a string to map splitter in google collections-->https://stackoverflow.com/questions/4095503
+Ways to persist Guava Graph-->https://stackoverflow.com/questions/61038828
+Guava: get a list of variables from a list of objects containing the variable-->https://stackoverflow.com/questions/14872799
+How do I change ImmutableSet from guava collections?-->https://stackoverflow.com/questions/27599879
+Google Guava - Filter Multiple Inputs on Single Property-->https://stackoverflow.com/questions/27864717
+Guava Cache: How to handle null values-->https://stackoverflow.com/questions/52467660
+How to triggerShutdown a Guava AbstractScheduledService?-->https://stackoverflow.com/questions/52713032
+Java: "cons" an item to a list-->https://stackoverflow.com/questions/7075757
+Use Guava's ImmutableSortedMap as a frequency map-->https://stackoverflow.com/questions/59382103
+Select Element with Max Occurrence in Multiset-->https://stackoverflow.com/questions/16717868
+Guava Transform Map<String, List<Double>> to List<TargetObject>-->https://stackoverflow.com/questions/28232244
+InternetDomainName and publicsuffix list-->https://stackoverflow.com/questions/45085809
+How to compare two Collections for "equivalence" based on fields from different Java classes?-->https://stackoverflow.com/questions/40830950
+Removing the "first" object from a Set-->https://stackoverflow.com/questions/5792844
+Send record and wait for its acknowledgement to receive-->https://stackoverflow.com/questions/47394627
+How to chain Guava futures?-->https://stackoverflow.com/questions/27923482
+How to iterate over the sets in a SetMultimap without a cast?-->https://stackoverflow.com/questions/5089710
+Using Google Guava to format Strings-->https://stackoverflow.com/questions/16100481
+Confused while testing guava ImmutableList behavior-->https://stackoverflow.com/questions/62551363
+Programming - Java - Disassociate the merge algorithm from the actions-->https://stackoverflow.com/questions/32415531
+Cons'ing a List in Java-->https://stackoverflow.com/questions/826457
+Getting key from object for Map using object and interface-->https://stackoverflow.com/questions/34426752
+Java Multimap search for value-->https://stackoverflow.com/questions/29749627
+How can I add keys to a list based on the size of the value of an ArrayListMultiMap?-->https://stackoverflow.com/questions/57508453
+Will the java Splitter result list ever be empty?-->https://stackoverflow.com/questions/62953541
+Importing ArrayListMultimap into IntelliJ - Java-->https://stackoverflow.com/questions/39462157
+Why don't cache elements expire promptly?-->https://stackoverflow.com/questions/32057358
+Is there a better way to retrieve values from a Map-->https://stackoverflow.com/questions/29042065
+Smart way to combine collections based on a common property-->https://stackoverflow.com/questions/35031977
+Is there a way to have a map like ArrayListMultimap but with RangeSet and "coalescing" instead?-->https://stackoverflow.com/questions/39351097
+Google guava ImmutableList equals Method returns a different result than java.utils.List, breaking List-Interface contract?-->https://stackoverflow.com/questions/36243285
+Is there a JDK or Guava method to turn a null into an empty list?-->https://stackoverflow.com/questions/52330722
+Creating an ImmutableMap<P,ImmutableMultimap<C,V>> stream Collector-->https://stackoverflow.com/questions/29418685
+Extending List<T> in Java 8-->https://stackoverflow.com/questions/22332654
+In Google Guava (Java), how to bulk set values for ArrayTable?-->https://stackoverflow.com/questions/21628395
+Should I do things like this?-->https://stackoverflow.com/questions/4418798
+Lazy non-modifiable list in Google Collections-->https://stackoverflow.com/questions/2694585
+How to create JUnit test cases for Guava's ArrayListMultiMap class in Eclipse?-->https://stackoverflow.com/questions/19483808
+Guava CacheBuilder not clearing cache-->https://stackoverflow.com/questions/63013548
+Range<Date> issue-->https://stackoverflow.com/questions/23815066
+Strange looking guava code-->https://stackoverflow.com/questions/17562191
+Why does my guava cache constantly overwrite items?-->https://stackoverflow.com/questions/54481106
+override getOrDefault of HashBiMap implementation-->https://stackoverflow.com/questions/61875402
+Java Util Optional code to Guava Optional map and filter-->https://stackoverflow.com/questions/57206727
+Better way of getting a list of ids-->https://stackoverflow.com/questions/15416867
+Howto load guava with entries-->https://stackoverflow.com/questions/36084863
+Cache filter on collection with Guava-->https://stackoverflow.com/questions/36060545
+Canonical way to display Google Guava table in JavaFX TableView-->https://stackoverflow.com/questions/36459066
+Is my getStatement method thread safe?-->https://stackoverflow.com/questions/40795397
+Fluently adding to a Collection (add and return the value)-->https://stackoverflow.com/questions/38045917
+Sort keys of multimap by highest value they contain-->https://stackoverflow.com/questions/12967874
+EMF and Guava Eclipse Java-->https://stackoverflow.com/questions/27702712
+Filter ArrayList that has similar data-->https://stackoverflow.com/questions/16133097
+Java Executor for "main" thread-->https://stackoverflow.com/questions/57371059
+Getting the first object that satisfies condition-->https://stackoverflow.com/questions/29065595
+Join strings with different separators in Java-->https://stackoverflow.com/questions/38608749
+How to interpret string as a negative number or zero and throw IAE accordingly?-->https://stackoverflow.com/questions/34895185
+Arrays.getOnlyElement()?-->https://stackoverflow.com/questions/6177250
+Java Map<String, String> to List<String> using Guava-->https://stackoverflow.com/questions/20849703
+Identify the Key-Value pair having duplicate values-->https://stackoverflow.com/questions/38851528
+Why does FluentIterable.first() throw NPE when the first element is null-->https://stackoverflow.com/questions/30452072
+How to get MoreExecutors.newDirectExecutorService() behavior by using bare ThreadPoolExecutor?-->https://stackoverflow.com/questions/46611285
+guava-libraries: List with n instances-->https://stackoverflow.com/questions/37692108
+Jackson and the Guava datatype module: Ignore missing fields, but serialize explicit nulls-->https://stackoverflow.com/questions/25234267
+Converting List of object to Guava Table data structure using lamda-->https://stackoverflow.com/questions/47721163
+Merge several Guava multisets into one-->https://stackoverflow.com/questions/43804810
+How do I concatenate two lists to create a 3rd?-->https://stackoverflow.com/questions/28329045
+Probabilistic Early Expiration with Guava Cache-->https://stackoverflow.com/questions/47670056
+Text file into Java List<String> using Commons or Guava-->https://stackoverflow.com/questions/34287432
+Guava Splitter to produce as map with set value-->https://stackoverflow.com/questions/53734650
+HashBiMap get getting blocked-->https://stackoverflow.com/questions/61639789
+How to sort multimap in java with similar values-->https://stackoverflow.com/questions/34989890
+Filtering a list of JavaBeans with Google Guava-->https://stackoverflow.com/questions/8645120
+Incompatible types Guava Immutable Map to Java util map-->https://stackoverflow.com/questions/45808492
+How to return 2 collections while filtering using Collections2?-->https://stackoverflow.com/questions/36955017
+Convert Guava's ArrayListMultimap to Serializable Map-->https://stackoverflow.com/questions/35628833
+How do I create an empty Guava ImmutableList?-->https://stackoverflow.com/questions/47969226
+In search of an easier way to get ImmutableMultimap<String, String>'s get to return sorted-->https://stackoverflow.com/questions/20670823
+Java TreeMultimap - how to remove key AND nearest key?-->https://stackoverflow.com/questions/21915409
+How can i retrieve the key based on the value present in the multimap?-->https://stackoverflow.com/questions/34527665
+Is there a concurrent version of this definition Java Guava collections Map-->https://stackoverflow.com/questions/52553630
+Launching ListenableFuture within FutureCallback and calling back when all are complete-->https://stackoverflow.com/questions/27546978
+Getting the first object that satisfies condition-->https://stackoverflow.com/questions/29065602
+Creating a submap of guava TreeMultimap and efficient iteration of its key-value pairs-->https://stackoverflow.com/questions/42969921
+How to use Guava Optional in this scenario-->https://stackoverflow.com/questions/23049721
+Check if only specific properties of 2 objects are equal-->https://stackoverflow.com/questions/22253115
+Java 8 Guava Preconditions throwing NullPointerException while evaluating the exception message string-->https://stackoverflow.com/questions/60724291
+How to convert Guava HashMultmap to java.util.Map-->https://stackoverflow.com/questions/45326552
+How to define failed predicate in composite Guava predicate-->https://stackoverflow.com/questions/61275120
+Guava EventBus delaying handler execution of nested events-->https://stackoverflow.com/questions/53136251
+Using generics with collection of enum classes implementing same interface-->https://stackoverflow.com/questions/8704051
+writing guava table values into file in java-->https://stackoverflow.com/questions/42567033
+Multimap how to return all values from a key-->https://stackoverflow.com/questions/32875437
+Guava Collection Utils vs. plain Java 7-->https://stackoverflow.com/questions/37319853
+How do I catch the exception thrown by the code inside a Guava retryer?-->https://stackoverflow.com/questions/41723207
+Is my Java cache thread-safe and performant?-->https://stackoverflow.com/questions/10765385
+Incompatible bounds error: Java Predicate generics-->https://stackoverflow.com/questions/31125421
+Guava table to CSV-->https://stackoverflow.com/questions/38525378
+How to use NavigableMap features with Guava's Multimap (with asMap())?-->https://stackoverflow.com/questions/22720014
+Java - Append quotes to strings in an array and join strings in an array-->https://stackoverflow.com/questions/40051713
+How to refresh the key and value in cache after they are expired in Guava (Spring)-->https://stackoverflow.com/questions/51559228
+Synchronization with Guava HashBiMap and synchronizedBiMap-->https://stackoverflow.com/questions/54895141
+In guava, why is just "T" used where "? super T" would be possible?-->https://stackoverflow.com/questions/14635996
+How to iterate through Nested Map and Multiset? - Java/Guava-->https://stackoverflow.com/questions/8522434
+How to increment value stored in HashBasedTable properly?-->https://stackoverflow.com/questions/26935035
+How to profile a cache (guava)-->https://stackoverflow.com/questions/10173298
+Problem in accessing elements from google HashMultimap-->https://stackoverflow.com/questions/4025719
+What is context token in guava TypeToken explained?-->https://stackoverflow.com/questions/21451098
+Google guva filter from list of arraylist-->https://stackoverflow.com/questions/56968011
+How to await a list of ListenableFuture with a timeout-->https://stackoverflow.com/questions/53886958
+Is HashBiMap threadsafe?-->https://stackoverflow.com/questions/17885262
+Converting a List<String> to a List<Integer> (or any class that extends Number)-->https://stackoverflow.com/questions/4109066
+Is there a Comparator<List<T>> or Comparator<Collection<T>>?-->https://stackoverflow.com/questions/25551471
+How can i do to get all class of a given package with guava-->https://stackoverflow.com/questions/28339715
+guava-libraries: List with n instances-->https://stackoverflow.com/questions/4501733
+Text file into Java Set<String> using Commons or Guava-->https://stackoverflow.com/questions/5804574
+Guava: Is it valid to cast a Multimap to generic supertypes?-->https://stackoverflow.com/questions/36557753
+Creating heterogenous list of lists in Java-->https://stackoverflow.com/questions/47132662
+How can transform this map using guava generics?-->https://stackoverflow.com/questions/23392560
+Guava: ImmutableSet of either values or an empty set-->https://stackoverflow.com/questions/2024990
+How does timed cache expiry work?-->https://stackoverflow.com/questions/39252714
+Error in saving and reloading guava bloom filter - need help finding any mistake in code-->https://stackoverflow.com/questions/35506827
+Guava EventBus: pause event posting-->https://stackoverflow.com/questions/13288939
+google guava cachebuilder use greater of the time between exipreAfterAccess and expireActerWrite-->https://stackoverflow.com/questions/29615266
+FileNotFoundException with FileOutputStream open-->https://stackoverflow.com/questions/20938051
+ArrayList groupby in java android based on same attributes without java 8 stream and lambda-->https://stackoverflow.com/questions/50983111
+Split a list by the type of element-->https://stackoverflow.com/questions/32352878
+Using Guavas Range in Scala-->https://stackoverflow.com/questions/18140441
+Datastructure like Treemap with duplicate keys and ceilingkey in Java-->https://stackoverflow.com/questions/37415463
+List to Map giving compilation error-->https://stackoverflow.com/questions/45513226
+Guava: Splitter and considering Escaping?-->https://stackoverflow.com/questions/10774596
+ImmutableSet from Guava or Java enum-->https://stackoverflow.com/questions/15952644
+Casting multimap from Multimaps.synchronizedSortedSetMultimap-->https://stackoverflow.com/questions/48843174
+Filtering Guava HashMultimap keys by count-->https://stackoverflow.com/questions/7572546
+Is my Java cache thread-safe and performant?-->https://stackoverflow.com/questions/10754699
+How to implement Guava cache to store and get different types of objects?-->https://stackoverflow.com/questions/53191088
+Why should Objects.requireNonNull() not be used if com.google.common from Guava is used?-->https://stackoverflow.com/questions/41891138
+Finding duplicates in a collection-->https://stackoverflow.com/questions/8108497
+Extending an ImmutableMap with additional or new values-->https://stackoverflow.com/questions/49825966
+Writing and reading ListMultimap<Object, Object> in file-->https://stackoverflow.com/questions/17703639
+How to use Guava's ClassToInstanceMap<B>?-->https://stackoverflow.com/questions/10251762
+How should I use Guava's Hashing#consistentHash?-->https://stackoverflow.com/questions/12336292
+ImmutableMap.of() workaround for HashMap in Maps?-->https://stackoverflow.com/questions/53809321
+Normalising ugly method parameters using Guava-->https://stackoverflow.com/questions/18800752
+Iterators substracting-->https://stackoverflow.com/questions/25282014
+Mapping with an AND (&&) relationship in Java-->https://stackoverflow.com/questions/32654985
+What is the purpose of @CompatibleWith annotation from Guava?-->https://stackoverflow.com/questions/49556078
+Guava Group By Key-->https://stackoverflow.com/questions/9463121
+java.util.concurrent.RejectedExecutionException:-->https://stackoverflow.com/questions/28987993
+Fluent syntax for transforming futures-->https://stackoverflow.com/questions/44634054
+Simple Java hash map with weak keys based on identity in Google Guava?-->https://stackoverflow.com/questions/15122671
+Java Generics Wildcards Question-->https://stackoverflow.com/questions/6000296
+Guava CharMatcher remove whitespace retain linebreaks-->https://stackoverflow.com/questions/37664319
+Java 8 Stream String Null Or Empty Filter-->https://stackoverflow.com/questions/39174451
+How to update bean while iterating-->https://stackoverflow.com/questions/29278826
+Java comparison library-->https://stackoverflow.com/questions/14403487
+In Guava, how to create a Multiset with a single element and n occurrences-->https://stackoverflow.com/questions/10971381
+How to populate entries into a map from a different thread and then from a single background thread iterate the map and send?-->https://stackoverflow.com/questions/42804741
+Why does guava joiner implement a private method iterable(final Object first, final Object second, final Object[] rest)?-->https://stackoverflow.com/questions/48326347
+replace / prepend set of characters in string-->https://stackoverflow.com/questions/5299571
+Graph Transpose using Google Guava Graph API-->https://stackoverflow.com/questions/49425064
+Shortcut for Guava's Optional use with exceptions?-->https://stackoverflow.com/questions/8534799
+Guava cache asMap method-->https://stackoverflow.com/questions/42370046
+Creating a TreeMultimap with Immutable object-->https://stackoverflow.com/questions/46829695
+Use guava to map collection to id-->https://stackoverflow.com/questions/29534940
+How to create s sublist of specific object variables?-->https://stackoverflow.com/questions/15879341
+Using table guava for hashbasedTable-->https://stackoverflow.com/questions/26384686
+Is it possible to Iterate over a guava Cache in order of insertion/access?-->https://stackoverflow.com/questions/50220470
+Google RateLimiter not Working for counter-->https://stackoverflow.com/questions/46846100
+Guava function to add items to resultant collection based on applying conditions to each item in list-->https://stackoverflow.com/questions/40149468
+How to use guava cache load function with a limit time?-->https://stackoverflow.com/questions/24170948
+Multimap guava values-->https://stackoverflow.com/questions/42623020
+Java method params: var args vs array-->https://stackoverflow.com/questions/25218196
+Is it possible to change all Guava API with the Java 8 API?-->https://stackoverflow.com/questions/63521833
+Siphash tostring and getBytes()-->https://stackoverflow.com/questions/35446300
+How to use Guava ServiceManager with Guice Injection-->https://stackoverflow.com/questions/18514125
+how to transform Map<String,String> to List<String> using google collections-->https://stackoverflow.com/questions/26167745
+How does Lists.newArraylist() of Guava library work?-->https://stackoverflow.com/questions/23615681
+Kotlin Guava Cache not showing right hitCount-->https://stackoverflow.com/questions/54737539
+ImmutableMap.of() workaround for HashMap in Maps?-->https://stackoverflow.com/questions/5948329
+Compilation error with Optional in generic class-->https://stackoverflow.com/questions/25564808
+Creating guava Table from Map-->https://stackoverflow.com/questions/24627739
+making a lazy iterator for an arithmetic series?-->https://stackoverflow.com/questions/5797107
+Trim space separated file with guava-->https://stackoverflow.com/questions/23079929
+Why can't Guava's identity function be used in place of a function that transforms a list to an iterable?-->https://stackoverflow.com/questions/31148107
+Sorting Guava table on values-->https://stackoverflow.com/questions/12608331
+How to use two maps and make another map?-->https://stackoverflow.com/questions/40816751
+How to get guava's Splitter.split to not return an unmodifiable map-->https://stackoverflow.com/questions/48933129
+Generate combinations of different sets-->https://stackoverflow.com/questions/50983216
+How to use replaceValues method of Guava Multimap?-->https://stackoverflow.com/questions/21571646
+Guava reverse source odd generic syntax-->https://stackoverflow.com/questions/17385142
+Using groupingBy into a nested Map, but collecting to a different type of object-->https://stackoverflow.com/questions/44038859
+How to create a custom Intellij template setter for use with Guava's Optional-->https://stackoverflow.com/questions/35530933
+Smart way to combine collections based on a common property-->https://stackoverflow.com/questions/35061677
+Concatenate elements of two sets with delimiter using java stream-->https://stackoverflow.com/questions/32811254
+guava - map backed guava function-->https://stackoverflow.com/questions/25807911
+scala 2.10 type mismatch using google guava's CacheBuilder-->https://stackoverflow.com/questions/18007386
+How to iterate list of objects by object field with Google Guava lexicographical?-->https://stackoverflow.com/questions/12134561
+How to make an immutable map given a map using Guava?-->https://stackoverflow.com/questions/41094550
+Combine severel collections into one?-->https://stackoverflow.com/questions/34925416
+Find top N elements in a Multiset from Google Collections?-->https://stackoverflow.com/questions/3029689
+Transform List<List<String>> into List<Integer> with Guava's Function-->https://stackoverflow.com/questions/19172559
+Register beans automatically in Guava EventBus with Spring IoC-->https://stackoverflow.com/questions/36118429
+Guava ComparisonChain why does it not terminate after first compare returns non-zero result-->https://stackoverflow.com/questions/24792776
+Multikey map with Long or AtomicLong value in Java-->https://stackoverflow.com/questions/42523158
+How to represent SQL Table and SELECT Query in Guava?-->https://stackoverflow.com/questions/36494261
+Google Guava Cache - Change the eviction timeout values during run time-->https://stackoverflow.com/questions/26845156
+How do you serialize a guava collection?-->https://stackoverflow.com/questions/15364557
+Good way to convert Optional<Integer> to Optional<Long>-->https://stackoverflow.com/questions/30730297
+Iterators.any in Guava library-->https://stackoverflow.com/questions/24555559
+Is getIfPresent considered as a get operation for expireAfterAccess?-->https://stackoverflow.com/questions/47671802
+Base64 encoding of Crc32c (long) value-->https://stackoverflow.com/questions/25111119
+jUnit and Guava, comparing list equality after transform()-->https://stackoverflow.com/questions/10124864
+Java multithreaded programming using with Guava FutureCallback interface-->https://stackoverflow.com/questions/18227331
+How to figure out whether a key exists in guava cache so that I don't overwrite it?-->https://stackoverflow.com/questions/48199398
+In Java, how can I use the inputStream from a process with Google's guava CharStreams.toString?-->https://stackoverflow.com/questions/7030963
+Adding new elements to a Collection instead of transforming them?-->https://stackoverflow.com/questions/15708055
+Java/Guava: handle 'null' arguments. Which exception?-->https://stackoverflow.com/questions/28579742
+Google Collections Suppliers and Find-->https://stackoverflow.com/questions/2298255
+Is it possible to apply a function to a collection using Java Guava?-->https://stackoverflow.com/questions/7448224
+Java Lists list item values-->https://stackoverflow.com/questions/31202607
+How to increment value stored in HashBasedTable properly?-->https://stackoverflow.com/questions/26932100
+Automatically merge several collections to one-->https://stackoverflow.com/questions/15843699
+Ordered table datastructure-->https://stackoverflow.com/questions/30193432
+Map same key and value using google collections-->https://stackoverflow.com/questions/29671222
+JAVA Guava/collections : How to use a predefined list as a predicate to sort another list by?-->https://stackoverflow.com/questions/31619193
+subset based on index from google guava TreeBasedTable-->https://stackoverflow.com/questions/18498992
+FluentIterable: should limit() be called as soon as possible?-->https://stackoverflow.com/questions/44306127
+Filtering lists of generic types-->https://stackoverflow.com/questions/7478379
+Removing null values from a Guava SetMultimap?-->https://stackoverflow.com/questions/20145923
+How do I get the argument of the formal method parameter type?-->https://stackoverflow.com/questions/45000398
+Bring Up Exceptions in Google Guava EventBus-->https://stackoverflow.com/questions/37135135
+Convert Guava ListMultimap to Java Map-->https://stackoverflow.com/questions/61208077
+Sum of each values of Guava Multimap-->https://stackoverflow.com/questions/59422067
+Regrouping Multimap Elements-->https://stackoverflow.com/questions/19795814
+how to easily access nested maps in java(or google guava)-->https://stackoverflow.com/questions/23568066
+Should you avoid Guavas Ordering.usingToString()?-->https://stackoverflow.com/questions/18512475
+Guava, Files.readLines() and white space-->https://stackoverflow.com/questions/11017610
+Extracting objects from List<X> based on some other list property collection-->https://stackoverflow.com/questions/5746549
+Why Do we have TwoPlusArrayList and OnePlusArrayList inside Lists class?-->https://stackoverflow.com/questions/59156204
+Aggregate key-value lines in a file by keys in Java-->https://stackoverflow.com/questions/34918977
+How to wrap a method that returns an optional <T> with fromNullable?-->https://stackoverflow.com/questions/30746660
+caching and computing map-->https://stackoverflow.com/questions/2068788
+Equivalent of Guavas Maps.uniqueIndex(...) for Set-->https://stackoverflow.com/questions/27424365
+ImmutableSortedMap - Duplicate keys in mappings-->https://stackoverflow.com/questions/40740204
+How to write a method using single responsibility princpile?-->https://stackoverflow.com/questions/41278748
+Conditional operator with Guava's Optional object in Java 7-->https://stackoverflow.com/questions/29126510
+List initialialization with a first element and an additional collection-->https://stackoverflow.com/questions/58205686
+Java : guava Futures API with ListenableFuture-->https://stackoverflow.com/questions/57579565
+Create list of certain size in Java from SortedSet-->https://stackoverflow.com/questions/58533582
+Getting Non Filtered Item from array list using Guava Library-->https://stackoverflow.com/questions/35408087
+Guava’s RateLimiter per minutes instead of seconds?-->https://stackoverflow.com/questions/45598342
+How do I add to a set based on a specific predicate in Java?-->https://stackoverflow.com/questions/16092628
+Editable multimap index-->https://stackoverflow.com/questions/27715332
+Function Guava apply Function on Single object-->https://stackoverflow.com/questions/31020120
+guava-libraries: Is Objects.hashCode(Object[]) collision safe?-->https://stackoverflow.com/questions/6159895
+Ready solution for converting raw collections to generic-->https://stackoverflow.com/questions/51398485
+filtering an ArrayList using an object's field-->https://stackoverflow.com/questions/25444749
+Count duplicate values in Multimap-->https://stackoverflow.com/questions/49430615
+How to take advantage of lambda expression with optionals-->https://stackoverflow.com/questions/49235507
+JAVA Guava/collections : How to use a predefined list as a predicate to sort another list by?-->https://stackoverflow.com/questions/31619217
+no such method error: ImmutableList.copyOf()-->https://stackoverflow.com/questions/3126387
+How should I implement Guava cache when I plan to cache multiple values efficiently?-->https://stackoverflow.com/questions/31599724
+How to create a custom Intellij template setter for use with Guava's Optional-->https://stackoverflow.com/questions/35530777
+how do I correctly override equals for inheritance in java?-->https://stackoverflow.com/questions/9904824
+Ordering with partial explicit and then another order?-->https://stackoverflow.com/questions/42125935
+Iterating on values from Guava Cache loses data-->https://stackoverflow.com/questions/48461364
+Use CacheBuilder's cache as a Map-->https://stackoverflow.com/questions/11144868
+Guava Cache that does not cache-->https://stackoverflow.com/questions/26913490
+Get all Values from a Map for some Keys in Java/Guava?-->https://stackoverflow.com/questions/5719900
+Can weakValues() and expireAfterAccess() be combined?-->https://stackoverflow.com/questions/37556671
+Map implementation with duplicate keys-->https://stackoverflow.com/questions/23609306
+Downcasting Guava map classes-->https://stackoverflow.com/questions/30599280
+Add index number to each element in collection using FluentIterables in Guava-->https://stackoverflow.com/questions/26319827
+How to store values in data structure(collections) where the values came by querying with clause GROUP BY two columns-->https://stackoverflow.com/questions/35084501
+Guava Join 3rd parameter NULL-->https://stackoverflow.com/questions/28429500
+What's the difference between PerThreadQueuedDispatcher and ImmediateDispatcher in guava?-->https://stackoverflow.com/questions/51758768
+Existing utility method to ensure that all collection elements are non null-->https://stackoverflow.com/questions/36432326
+Construct ImmutableSortedSet without warnings-->https://stackoverflow.com/questions/4410897
+Why does this Guava Ordering of a Map by value work?-->https://stackoverflow.com/questions/18133940
+Can't use Guava Optional for default constructor?-->https://stackoverflow.com/questions/12044744
+RemovalListener for auto-eviction events only-->https://stackoverflow.com/questions/13318588
+Iterating through all values for a particular key, in order, for a LinkedHashMultiMap-->https://stackoverflow.com/questions/41246839
+Is there a way to get, at runtime, the version of Guava in use?-->https://stackoverflow.com/questions/7697195
+Iterate through Collection<List<Integer>>-->https://stackoverflow.com/questions/20654368
+Guava Hasher some times give diff result for same object-->https://stackoverflow.com/questions/28369925
+How do I replace Guava new MapMaker().softValues().makeMap() from Guava 17-->https://stackoverflow.com/questions/54308440
+LocalCache guava, optimization for higher throughput-->https://stackoverflow.com/questions/24381673
+Cannot get Guava 23's SimpleTimeLimiter example to compile-->https://stackoverflow.com/questions/47430268
+How to iterate in Guava-->https://stackoverflow.com/questions/6844735
+Using Optional for validation of input method parameters-->https://stackoverflow.com/questions/25509600
+How to update a LinkedList value stored in cache using Guava's LoadingCache-->https://stackoverflow.com/questions/27284649
+How to avoid applied lazily Lists.transform in guava?-->https://stackoverflow.com/questions/13450267
+Transforming/Filtering a list of custom objects to another using Guava collections-->https://stackoverflow.com/questions/39184718
+Synchronization with Guava HashBiMap and synchronizedBiMap-->https://stackoverflow.com/questions/54895102
+Guava Multimap. Put value both to the end and beginning-->https://stackoverflow.com/questions/11378698
+Filter parameters from query String (using Guava?)-->https://stackoverflow.com/questions/4596396
+java: get count of values within a given key range of Guava Multimap-->https://stackoverflow.com/questions/40231282
+How to put() values into Guava's Cache class?-->https://stackoverflow.com/questions/7643995
+Serialize Guava's MinMaxPriorityQueue-->https://stackoverflow.com/questions/51089059
+Share values between several transformations?-->https://stackoverflow.com/questions/15749519
+Why is Guava issuing the error "missing event handler for an > annotated method"?-->https://stackoverflow.com/questions/17896497
+Generics, Guava Ordering.arbitrary()-->https://stackoverflow.com/questions/12316617
+Why does FluentIterable.first() throw NPE when the first element is null-->https://stackoverflow.com/questions/30453302
+Google Guava - Filter Multiple Inputs on Single Property-->https://stackoverflow.com/questions/27852735
+Why don't cache elements expire promptly?-->https://stackoverflow.com/questions/32057299
+Using Google Guava to get List-->https://stackoverflow.com/questions/41189386
+What's the difference between Collections.unmodifiableSet() and ImmutableSet of Guava?-->https://stackoverflow.com/questions/36787693
+Inital Value for Guava Table-->https://stackoverflow.com/questions/13822967
+Guava Joiner throws NPE on null elements-->https://stackoverflow.com/questions/43476207
+Extracting objects from List<X> based on some other list property collection-->https://stackoverflow.com/questions/5746915
+Why does it.next() throw java.util.ConcurrentModificationException?-->https://stackoverflow.com/questions/7243151
+Guava predicate to filter various conditions without anonymous class or extra classes-->https://stackoverflow.com/questions/30572553
+What is the default Maximum Size for a Google Guava Cache?-->https://stackoverflow.com/questions/11467014
+Java method params: var args vs array-->https://stackoverflow.com/questions/25253226
+Get all Values from a Map for some Keys in Java/Guava?-->https://stackoverflow.com/questions/5720370
+Filtering using Google Guava API-->https://stackoverflow.com/questions/29875810
+Multikey map with Long or AtomicLong value in Java-->https://stackoverflow.com/questions/42520580
+Computing md5 using Guava 14+ and Java 7-->https://stackoverflow.com/questions/21488893
+Iterating over Guava Mutlimaps-->https://stackoverflow.com/questions/28769443
+How to chain Guava futures?-->https://stackoverflow.com/questions/28825764
+Why did guava/java use possible.isPresent() as opposed to Optional.isPresent(possible)?-->https://stackoverflow.com/questions/27090827
+how to do filter/query on in-memory list/map using guava-->https://stackoverflow.com/questions/9520422
+Concatenate ImmutableSet using Guava-->https://stackoverflow.com/questions/56959509
+Prevent checkElementIndex() Guava function from concatenating additional response to existing error message-->https://stackoverflow.com/questions/18204101
+Generics errors using Guava's toImmutableSortedMap collector from Kotlin-->https://stackoverflow.com/questions/58161953
+How to create multiple Multimap live views of an existing Collection using Guava-->https://stackoverflow.com/questions/20976592
+Error at com.google.common.base.Joiner.on()-->https://stackoverflow.com/questions/49459509
+What is the canonical way to transform a Range<T> into a List<T>?-->https://stackoverflow.com/questions/40980828
+How to make a distinction between two equals objects in a Sorted collection?-->https://stackoverflow.com/questions/10321581
+Filter Multimap By Key Based on Date Range-->https://stackoverflow.com/questions/45423023
+Removing null values from a Guava SetMultimap?-->https://stackoverflow.com/questions/20145864
+Does Google Guava Cache do deduplication when refreshing value of the same key-->https://stackoverflow.com/questions/47670427
+How to subclass Guava's ImmutableList?-->https://stackoverflow.com/questions/31670774
+Dynamically filter List with Predicate-->https://stackoverflow.com/questions/24454322
+How to transform Map<String, List<String>> into Files by Key Value-->https://stackoverflow.com/questions/35350530
+Java Guava Cache : How to clear all cache entries?-->https://stackoverflow.com/questions/42970042
+ceiling() with TreeMultimap-->https://stackoverflow.com/questions/15455065
+Should Guava Splitters/Joiners be created each time they are used?-->https://stackoverflow.com/questions/42584605
+Is it possible to apply joiner (collector, accumulator) over function using Java Guava?-->https://stackoverflow.com/questions/37596524
+How to convert recursion into iteration with LoadingCache?-->https://stackoverflow.com/questions/11155059
+Got NotSerializableException when putting Guava MultiTreemap in http session-->https://stackoverflow.com/questions/26184803
+Automatically merge several collections to one-->https://stackoverflow.com/questions/15843234
+Map with ArrayList as the value in Java - Why use a third party library for this?-->https://stackoverflow.com/questions/24368157
+Why does Guava Enums.ifPresent use synchronized under the hood?-->https://stackoverflow.com/questions/47663370
+Guava cache considering older key-->https://stackoverflow.com/questions/39305098
+No SortedMultiMap in Guava?-->https://stackoverflow.com/questions/31494694
+Is there a SortedMultimap type implementation in Guava that doesn't care about the order of its values-->https://stackoverflow.com/questions/22139486
+Java Guava filter two collection with different type-->https://stackoverflow.com/questions/35118370
+Replace google-collect Lists.newArrayList() with other List-->https://stackoverflow.com/questions/32564445
+Change Comparator in MinMaxPriorityQueue guava-->https://stackoverflow.com/questions/31278144
+How can I use PriorityBlockingQueue with ListeningExecutorService?-->https://stackoverflow.com/questions/19009309
+Use the results of two Guava ListenableFutures of different types-->https://stackoverflow.com/questions/13763716
+How to check value of Multimap is null or empty?-->https://stackoverflow.com/questions/42798773
+Count duplicate values in Multimap-->https://stackoverflow.com/questions/49422560
+compiler error when using Google guava from scala code-->https://stackoverflow.com/questions/48893292
+How to use replaceValues method of Guava Multimap?-->https://stackoverflow.com/questions/10170772
+Library for handling a List of Ranges-->https://stackoverflow.com/questions/26586658
+Addind an Optional.absent() element to a collection in Guava-->https://stackoverflow.com/questions/16915293
+How to avoid applied lazily Lists.transform in guava?-->https://stackoverflow.com/questions/13523479
+HashMap put or putAll? - Java-->https://stackoverflow.com/questions/8525085
+How to generate HashCode in order to call Hashing#consistentHash of google/guava?-->https://stackoverflow.com/questions/34540632
+Java: Merge two com.google.common.collect.Table-->https://stackoverflow.com/questions/58012307
+java: cache database table with 1 hour refresh-->https://stackoverflow.com/questions/49310160
+Guava: Iterables transform method usage-->https://stackoverflow.com/questions/14953980
+Convert Iterable to Array using Guava-->https://stackoverflow.com/questions/18021220
+Lists.newArrayList vs new ArrayList-->https://stackoverflow.com/questions/9981039
+Java Getting all possible combinations from only one item per key-->https://stackoverflow.com/questions/53412338
+Alternatives to deprecated Files.copy, ByteStreams.copy, InputSupplier-->https://stackoverflow.com/questions/25571109
+How can I find an element whether it exists in a List or not using Google Guava?-->https://stackoverflow.com/questions/21457777
+Guava Resources.readLines() for Zip/Gzip files-->https://stackoverflow.com/questions/32014786
+Guava - How to remove from a list, based on a predicate, keeping track of what was removed?-->https://stackoverflow.com/questions/6494997
+Predicate chaining question-->https://stackoverflow.com/questions/6131919
+filter, sort and limit an unmodifiable list in Java-->https://stackoverflow.com/questions/25732830
+Create a string-capable Guava Splitter-->https://stackoverflow.com/questions/19946701
+Idiomatic way to use for-each loop given an iterator?-->https://stackoverflow.com/questions/14711323
+Ordered generic Map implementation?-->https://stackoverflow.com/questions/15504379
+builder for HashMap-->https://stackoverflow.com/questions/7347844
+Convenience class for handling Map<K, List<V>>-->https://stackoverflow.com/questions/38990557
+How to use the Guava ListenableFuture and the Futures.chain() methods-->https://stackoverflow.com/questions/8627579
+Generics, Guava Ordering.arbitrary()-->https://stackoverflow.com/questions/12316627
+filter, sort and limit an unmodifiable list in Java-->https://stackoverflow.com/questions/25732816
+What is the difference between Function and AsyncFunction in Google Guava?-->https://stackoverflow.com/questions/25638380
+Extract gaps from a List of Range<Date>-->https://stackoverflow.com/questions/34499901
+Downcasting Guava map classes-->https://stackoverflow.com/questions/30599320
+Select Element with Max Occurrence in Multiset-->https://stackoverflow.com/questions/16745017
+how to use the InputSupplier or OutputSupplier api of Guava?-->https://stackoverflow.com/questions/5253888
+How to sort a guava table by row natural order and column insertion order-->https://stackoverflow.com/questions/25765174
+Any library supports Guava tables to csv format?-->https://stackoverflow.com/questions/32739913
+How to use guava Closer properly-->https://stackoverflow.com/questions/39659839
+Can we override the intersection method of Guava to compare objects?-->https://stackoverflow.com/questions/24426219
+Guava Input/Output Suppliers and URLConnection-->https://stackoverflow.com/questions/14464939
+Multimap with duplicated keys ordered by order with which they appear in the given multimap-->https://stackoverflow.com/questions/18255979
+Java Multimap of naturally ordered keys but collections sorted in the order the elements were added-->https://stackoverflow.com/questions/52383980
+Are some combinations of keys behaviors and values behavior not appropriate for a multimap implementation?-->https://stackoverflow.com/questions/38264721
+Guava Mutlimap to HashMap-->https://stackoverflow.com/questions/40769604
+Using generics with collection of enum classes implementing same interface-->https://stackoverflow.com/questions/8658583
+how can I sum the values in two maps and return the value using guava-->https://stackoverflow.com/questions/11223687
+Query about Guava ListenableFuture-->https://stackoverflow.com/questions/21624668
+Does guava have an equivalent to Python's reduce function?-->https://stackoverflow.com/questions/5027640
+java - live view on collection contained within a collection contained within ... etc-->https://stackoverflow.com/questions/6028307
+Creating a new collection from an existing collection-->https://stackoverflow.com/questions/25373016
+Java Random access Map-->https://stackoverflow.com/questions/4217745
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/4186778
+Multimaps.index() but producing a NavigableMap?-->https://stackoverflow.com/questions/5489807
+Merge several Collections<A> into a single Collection<A> from a Collection<B> using Guava-->https://stackoverflow.com/questions/10299354
+Tranforming Guava Optional with function that might return null-->https://stackoverflow.com/questions/48446124
+Merge several Guava multisets into one-->https://stackoverflow.com/questions/43801756
+Reject values while using Maps.uniqueIndex with Guava-->https://stackoverflow.com/questions/11667214
+How doesn't add null value to Guava's LoadingCache?-->https://stackoverflow.com/questions/30869606
+Transform Map to object using Guava?-->https://stackoverflow.com/questions/15746934
+How to implement retry policies while sending data to another application?-->https://stackoverflow.com/questions/42204653
+Compact way to create Guava Multimaps?-->https://stackoverflow.com/questions/40298761
+How to convert "Hashmap values of List type" into Set?-->https://stackoverflow.com/questions/39594573
+Guava Table ConcurrentModificationException-->https://stackoverflow.com/questions/15800264
+The best way to static initialization of Maps in google collections-->https://stackoverflow.com/questions/12218550
+Contravariantly converting Guava Predicates-->https://stackoverflow.com/questions/16154738
+Guava null pointer on multimap with multiple null values-->https://stackoverflow.com/questions/21078677
+Java8 streams and filters-->https://stackoverflow.com/questions/35865808
+How to avoid caching when values are null?-->https://stackoverflow.com/questions/41457944
+All Null, Any Null is possible guava Predicate-->https://stackoverflow.com/questions/21702247
+How can I collect a Java 8 stream into a Guava ImmutableCollection?-->https://stackoverflow.com/questions/29017331
+Java data structures: IndexedSet or HashList-->https://stackoverflow.com/questions/29240003
+Construct ImmutableSortedSet without warnings-->https://stackoverflow.com/questions/4410840
+Guava: ImmutableList magic of the copyOf() method-->https://stackoverflow.com/questions/16773917
+How to implement a rate limiter in Scala?-->https://stackoverflow.com/questions/12622188
+Is there an IdentityHashMap implementation that maintains insert order?-->https://stackoverflow.com/questions/33974718
+How to represent SQL Table and SELECT Query in Guava?-->https://stackoverflow.com/questions/36500647
+How to create a synchronized multimap with Guava in one line?-->https://stackoverflow.com/questions/48185357
+Extending ImmutableCollection-->https://stackoverflow.com/questions/18281608
+Immutable priority queue in Guava-->https://stackoverflow.com/questions/20729882
+Java Optional for method argument?-->https://stackoverflow.com/questions/29051203
+Transform collections to client side in GWT-->https://stackoverflow.com/questions/10156066
+How to use guava cache load function with a limit time?-->https://stackoverflow.com/questions/18395158
+Why is Guava Bloom Filter Performing so Poorly?-->https://stackoverflow.com/questions/40391405
+java/guava - start and stop at certain index of iterable/iterator-->https://stackoverflow.com/questions/27754261
+Can an empty Iterator be used to concat with another iterator in Java-->https://stackoverflow.com/questions/48437739
+Convert Collection to Map-->https://stackoverflow.com/questions/32738246
+How to get List<Y> from Map<X,Y> by providing List<X> using google collection?-->https://stackoverflow.com/questions/5033276
+Using guava Function interface vs introducing new types-->https://stackoverflow.com/questions/20996800
+case insensitive explicit ordering guava-->https://stackoverflow.com/questions/45629585
+Using MapMaker#makeComputingMap to prevent simultaneous RPCs for the same data-->https://stackoverflow.com/questions/4039080
+Simple cache manager using Guava in Scala parameterized (generics) type error-->https://stackoverflow.com/questions/8919937
+Give me a practical use-case of Multi-set-->https://stackoverflow.com/questions/2531553
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/31317358
+ListenableFuture callback execution order-->https://stackoverflow.com/questions/32764080
+how to use expireAfterAccess with CacheBuilder in guava-->https://stackoverflow.com/questions/8141378
+Guava why toStringFunction not a generic function?-->https://stackoverflow.com/questions/29135172
+Min/Max of object.attribute in a list of object with guava-->https://stackoverflow.com/questions/21936905
+How to convert recursion into iteration with LoadingCache?-->https://stackoverflow.com/questions/12108459
+Joiner not ordering correctly?-->https://stackoverflow.com/questions/21295618
+Does Guava ImmutableMap postpone Map resize?-->https://stackoverflow.com/questions/33040894
+How to use ByteStream to read 1Mb of a file into a string-->https://stackoverflow.com/questions/19601401
+Join strings with different separators in Java-->https://stackoverflow.com/questions/38598049
+Multimap.inverse() to a (non-multi) Map (values in original map known to be unique)-->https://stackoverflow.com/questions/40432352
+Guava Load Multiple Keys and Get multiple items-->https://stackoverflow.com/questions/45890387
+Sort a list with known values before unknown values-->https://stackoverflow.com/questions/51394505
+Text file into Java List<String> using Commons or Guava-->https://stackoverflow.com/questions/4580389
+How to wrap a method that returns an optional <T> with fromNullable?-->https://stackoverflow.com/questions/30746696
+Is removalListener of guava cache runs in a separate thread?-->https://stackoverflow.com/questions/42811763
+Is there any way to get the hashcode of an InputStream using Guava?-->https://stackoverflow.com/questions/54264608
+How to create a synchronized version of Google Guava's TreeMultimap-->https://stackoverflow.com/questions/47762752
+Can Guava Lists.transform or Iterables.transform take a Converter?-->https://stackoverflow.com/questions/37307786
+Guava Cache: How to handle null values-->https://stackoverflow.com/questions/57899714
+Google multimap sorts keys automatically-->https://stackoverflow.com/questions/23204216
+How to validate with ComparisonChain?-->https://stackoverflow.com/questions/28475461
+What's the point of Guava checkNotNull-->https://stackoverflow.com/questions/42631431
+Java 8 Optional asSet()-->https://stackoverflow.com/questions/25270844
+java 8 - immutablemap for loop-->https://stackoverflow.com/questions/43056300
+Guava - How to remove from a list, based on a predicate, keeping track of what was removed?-->https://stackoverflow.com/questions/6494714
+Filtering a list of JavaBeans with Google Guava-->https://stackoverflow.com/questions/8643136
+Convert Guava HashMultimap to json-->https://stackoverflow.com/questions/25676222
+How to concatenate strings using Guava?-->https://stackoverflow.com/questions/17949546
+Using Guava multisets or Collections.frequency()?-->https://stackoverflow.com/questions/27374489
+Using both @Nonnull and Preconditions.checkNotNull(...)-->https://stackoverflow.com/questions/40131919
+Find the differences between two maps-->https://stackoverflow.com/questions/47043989
+Google Collections Suppliers and Find-->https://stackoverflow.com/questions/2296708
+Creating HashMap with a timeout.Will Guava Caching work?-->https://stackoverflow.com/questions/18561142
+Alternative for Guava's Charmatcher methods such as javaDigit()?-->https://stackoverflow.com/questions/54853752
+Sorting the data in increasing order based on keys in Multimap Google Guava-->https://stackoverflow.com/questions/20335981
+Preconditions library to throw IllegalArgumentException for notNull check-->https://stackoverflow.com/questions/30039109
+A Map<String, List<String>> implementation, exposing a view Map of "last values"-->https://stackoverflow.com/questions/16335742
+Find matching predicate and using iterable.tryFind return the element from the list in java-->https://stackoverflow.com/questions/23787497
+is there a string to map splitter in google collections-->https://stackoverflow.com/questions/4096832
+Java Guava combination of Multimap and Cache-->https://stackoverflow.com/questions/9655651
+How to iterate in Guava-->https://stackoverflow.com/questions/6886943
+Is there a Map in Java that supports looking up Keys by (non-Unique) Value?-->https://stackoverflow.com/questions/59934188
+Guava Lists.transform - what if one input is bad?-->https://stackoverflow.com/questions/14319882
+Concurrent set with weak references and identity hash-->https://stackoverflow.com/questions/15978735
+Why is Files.deleteDirectoryContents() deprecated in Guava?-->https://stackoverflow.com/questions/8320529
+How can I iterate through a Guava multimap to print out values as pairs-->https://stackoverflow.com/questions/23484617
+Is it sensible and efficient to set a List as a constant?-->https://stackoverflow.com/questions/32027372
+How to sort Guava's MultiMap only by keys?-->https://stackoverflow.com/questions/36260286
+Jackson ObjectMapper wraps every element with square brackets (Even single values)-->https://stackoverflow.com/questions/35391209
+Passing an immutable list to ImmutableList.copyOf()?-->https://stackoverflow.com/questions/36630899
+How to create collection from Iterable in java?-->https://stackoverflow.com/questions/7851756
+Java 8 way to loop using com.google.common.collect.Iterables.partition?-->https://stackoverflow.com/questions/47188517
+How to Filter an Element from a List-->https://stackoverflow.com/questions/13124996
+Select Element with Max Occurrence in Multiset-->https://stackoverflow.com/questions/49660756
+Getting values in Multimaps - Guava-->https://stackoverflow.com/questions/11448226
+Looking for java 1.6 workaround to apparent compiler issue-->https://stackoverflow.com/questions/29015975
+Why does Google Guava offer static methods where equivalent constructors exist?-->https://stackoverflow.com/questions/34867381
+I can't compile a Guava's Cache's builder because of Java generics-->https://stackoverflow.com/questions/15382857
+How to create a LinkedHashMultiset<String>?-->https://stackoverflow.com/questions/9328895
+Guava MinMaxPriorityQueue instantiation-->https://stackoverflow.com/questions/21840814
+Guava ComparisonChain why does it not terminate after first compare returns non-zero result-->https://stackoverflow.com/questions/24792730
+Multiset intersection-like operation in Java-->https://stackoverflow.com/questions/26125890
+Check if two collections are the same (ignoring order) using a custom equality function-->https://stackoverflow.com/questions/33158221
+Is there any way to get the hashcode of an InputStream using Guava?-->https://stackoverflow.com/questions/54257149
+Iterators substracting-->https://stackoverflow.com/questions/25282088
+Transform List<T> to Map with List of Elements (Map<F<T>, List<T>>) Java 7-->https://stackoverflow.com/questions/35578861
+Java Hash Multi Map (key with multiple values) Implementation-->https://stackoverflow.com/questions/10056227
+Using table guava for hashbasedTable-->https://stackoverflow.com/questions/11695629
+Guava: how to customly reduce a multimap?-->https://stackoverflow.com/questions/33215637
+Immutable collection with expiration-->https://stackoverflow.com/questions/24701797
+First element in tree becoming null? Guava TreebasedTable-->https://stackoverflow.com/questions/7154458
+Guava: transform an List<Optional<T>> to List<T> keeping just present values-->https://stackoverflow.com/questions/26378605
+Guava Optional type, when transformation returns another Optional-->https://stackoverflow.com/questions/13079278
+Is there a bidirectional function in Guava?-->https://stackoverflow.com/questions/27261882
+How do I change ImmutableSet from guava collections?-->https://stackoverflow.com/questions/27599898
+Ways to reduce boilerplate using guava cache-->https://stackoverflow.com/questions/19712685
+Is there an elegant way to remove nulls while transforming a Collection using Guava?-->https://stackoverflow.com/questions/1802686
+How can I iterate through a Guava multimap to print out values as pairs-->https://stackoverflow.com/questions/23484420
+Ensure List of elements ordered by field in element-->https://stackoverflow.com/questions/30682082
+Arrays.getOnlyElement()?-->https://stackoverflow.com/questions/6186221
+Using the Java Guava library, how to create a ImmutableSortedSet using a Builder?-->https://stackoverflow.com/questions/6363048
+Is there a way to "pivot" a ImmutableMap<String, ImmutableSet<String>>?-->https://stackoverflow.com/questions/20574839
+Hashing with Google Guava in Java outputting with lowercase characters while online hashing site outputs in uppercase-->https://stackoverflow.com/questions/53563057
+Sort keys of multimap by highest value they contain-->https://stackoverflow.com/questions/12960292
+How can I transform a List<A> into List<B>?-->https://stackoverflow.com/questions/29029582
+Lazy non-modifiable list in Google Collections-->https://stackoverflow.com/questions/2700915
+Creating objects with Guava from property files-->https://stackoverflow.com/questions/8210185
+How can I generate a List backed by a Function?-->https://stackoverflow.com/questions/15099506
+Check whether a String does contain different characters as the given one in Java-->https://stackoverflow.com/questions/57413689
+ImmutableMap.Builder from a HashMap-->https://stackoverflow.com/questions/57595573
+Detect which Guava version is used?-->https://stackoverflow.com/questions/40895251
+Java 8 Guava Preconditions throwing NullPointerException while evaluating the exception message string-->https://stackoverflow.com/questions/60724225
+How to cache server results in GWT with guava?-->https://stackoverflow.com/questions/34995304
+Lightweight caching solution in Scala?-->https://stackoverflow.com/questions/18042347
+Add index number to each element in collection using FluentIterables in Guava-->https://stackoverflow.com/questions/22480326
+Guava CacheBuilder not working as expected-->https://stackoverflow.com/questions/35454123
+What is difference between HashMap and HashMultimap-->https://stackoverflow.com/questions/19241833
+google guava nesting joiner-->https://stackoverflow.com/questions/7668485
+How to Merge two Immutable Sets in Java.?-->https://stackoverflow.com/questions/61003937
+Effective way to build a list of tokens from multiple strings in Java-->https://stackoverflow.com/questions/15906012
+Guava: Why is there no Lists.filter() function?-->https://stackoverflow.com/questions/25865105
+How can I conver this string into a java list?-->https://stackoverflow.com/questions/23937859
+Guava, Files.readLines() and white space-->https://stackoverflow.com/questions/11017585
+Searching a scala caching framework with annotation like (spring + ehcache)-->https://stackoverflow.com/questions/12331753
+Merge several Collections<A> into a single Collection<A> from a Collection<B> using Guava-->https://stackoverflow.com/questions/10299270
+How to use FallbackFuture to handle TimeoutException?-->https://stackoverflow.com/questions/36576179
+Check if only one element exist using Guava-->https://stackoverflow.com/questions/9988711
+How to use Google Guava's Preconditions.checkElementIndex?-->https://stackoverflow.com/questions/6907062
+Automatically merge several collections to one-->https://stackoverflow.com/questions/15843595
+Why is there a type mismatch error creating a factory with guava?-->https://stackoverflow.com/questions/13053849
+How to disable Guava caching?-->https://stackoverflow.com/questions/13763492
+How do I change ImmutableSet from guava collections?-->https://stackoverflow.com/questions/27599720
+Guava string sorting-->https://stackoverflow.com/questions/27296309
+guava converter for Function<T, Boolean> to Predicate<T>-->https://stackoverflow.com/questions/24478573
+What does google Guava LoadingCache do when a call is made to invalidate while load is executing?-->https://stackoverflow.com/questions/12891623
+Java comparator by using priority for classes that extend a common parent class-->https://stackoverflow.com/questions/16213557
+Why is Multimap not camel cased?-->https://stackoverflow.com/questions/37431810
+Sorting Guava tables in descending order based on values-->https://stackoverflow.com/questions/11699459
+Find closest object in Java collection-->https://stackoverflow.com/questions/36739597
+Return a sublist based on member variable or mapping function-->https://stackoverflow.com/questions/9791164
+Direct comparator in Java out of the box-->https://stackoverflow.com/questions/2956644
+Use Guava's ImmutableSortedMap as a frequency map-->https://stackoverflow.com/questions/59382005
+How to filter a List by class?-->https://stackoverflow.com/questions/15763317
+How to cast from static generic functions in java that don't take parameters?-->https://stackoverflow.com/questions/21796975
+Java Map<String, String> to List<String> using Guava-->https://stackoverflow.com/questions/20849702
+Scala "constructor Stopwatch cannot be accessed in class Main"-->https://stackoverflow.com/questions/34985043
+LoadingCache expireAfterWrite not working as expected-->https://stackoverflow.com/questions/39392455
+The constructor LinkedHashMultimap is not visible-->https://stackoverflow.com/questions/13405254
+How to make a distinction between two equals objects in a Sorted collection?-->https://stackoverflow.com/questions/10315939
+How to copy a resource to a file in another location in Java-->https://stackoverflow.com/questions/37377147
+Method that exists...does not?-->https://stackoverflow.com/questions/8011524
+Get first n elements of an iterable-->https://stackoverflow.com/questions/38128356
+How to get duplicate elements in array list using guava predicates-->https://stackoverflow.com/questions/32633366
+Get an ordered subset from a Multiset of the most frequent X entries-->https://stackoverflow.com/questions/21248257
+Writing test case for Loading Cache guava-->https://stackoverflow.com/questions/25418475
+Subclassing HashBasedTable from guava collection-->https://stackoverflow.com/questions/29350151
+To instantiate BiMap Of google-collections in Java-->https://stackoverflow.com/questions/29182571
+How to use Guava's Multisets.toMultiSet() when collecting a stream?-->https://stackoverflow.com/questions/59348298
+Concurrent set with weak references and identity hash-->https://stackoverflow.com/questions/25299039
+How to create a LinkedHashMultiset<String>?-->https://stackoverflow.com/questions/9328909
+How to translate list A,B to keyed map of tuples with guava-->https://stackoverflow.com/questions/8831583
+How to return N consecutive elements from a Collection?-->https://stackoverflow.com/questions/5516440
+How to run a Listener in a different thread or do its calculation in a different thread-->https://stackoverflow.com/questions/11689446
+Does Guava Lists.transform guarantee order?-->https://stackoverflow.com/questions/26295267
+Does Google Guava Cache load on same thread?-->https://stackoverflow.com/questions/33329722
+In Java 7 or below, HOWTO filter a list of map objects using key/value found in the map-->https://stackoverflow.com/questions/27989624
+Get empty string when null-->https://stackoverflow.com/questions/21936963
+Sorting the data in increasing order based on keys in Multimap Google Guava-->https://stackoverflow.com/questions/20335342
+Extend ImmutableList.of() by another List-->https://stackoverflow.com/questions/55494887
+Guava's Ranges.asSet outputting infinite list-->https://stackoverflow.com/questions/6337346
+Guava Optional type, when transformation returns another Optional-->https://stackoverflow.com/questions/13071630
+how to transform object list with list attribute to one list with all list attribute itemes contained-->https://stackoverflow.com/questions/13938216
+Guava LoadingCache with Kotlin Coroutines-->https://stackoverflow.com/questions/53558325
+Most Efficient way to find top 100 elements from a Map-->https://stackoverflow.com/questions/17867083
+guava contiguous range by a rule-->https://stackoverflow.com/questions/16149421
+Guava's policy based caching-->https://stackoverflow.com/questions/11910024
+Extending Guava collections-->https://stackoverflow.com/questions/29334191
+How can I compare two MultiMaps?-->https://stackoverflow.com/questions/32254990
+Android List filter-->https://stackoverflow.com/questions/14796578
+Java data structure-->https://stackoverflow.com/questions/4350802
+Guava Joiner on SortedSet-->https://stackoverflow.com/questions/17149594
+Eclipse fails to compile generic code, but mvn compile works-->https://stackoverflow.com/questions/23647661
+Why guava doesn't trim |-->https://stackoverflow.com/questions/20050435
+How to throw away the original collection once the Immutable version is created using Google Guava?-->https://stackoverflow.com/questions/30315260
+In guava, what is the difference (if any) between Lists.newArrayList() and e.g. Ints.asList() for primitive types-->https://stackoverflow.com/questions/26912853
+Guava EventBus: What does it mean to listen to event supertypes (such as EventObject or Object)?-->https://stackoverflow.com/questions/13426364
+Guava table to CSV-->https://stackoverflow.com/questions/38526269
+Java 8 collector for Guava immutable collections?-->https://stackoverflow.com/questions/30635537
+What is the purpose of Guava's Verify?-->https://stackoverflow.com/questions/24227177
+Java Generics erasure in Multimaps-->https://stackoverflow.com/questions/16042196
+String representation of List<String> list-->https://stackoverflow.com/questions/12871739
+Issue with Guava's BiMap and LinkedHashMap-->https://stackoverflow.com/questions/9664993
+Can Guava’s TypeToken get the specific type of a generic field?-->https://stackoverflow.com/questions/13466998
+Guava Iterables.filter(), how do you test for an empty return?-->https://stackoverflow.com/questions/12649537
+An Iterator which mutates and returns the same object. Bad practice?-->https://stackoverflow.com/questions/11893578
+Google Guava / Equivalence / different equals() and hashCode() method implementations-->https://stackoverflow.com/questions/7972825
+guava multimap that uses TreeMap not HashMap?-->https://stackoverflow.com/questions/6470259
+Is it safe to mutate values in a HashBiMap?-->https://stackoverflow.com/questions/18420853
+Retrieving specific values in Multimap-->https://stackoverflow.com/questions/11853392
+Why google-collections contains semantically equal functions and strange generics?-->https://stackoverflow.com/questions/6253056
+How to reverse a map-->https://stackoverflow.com/questions/22709871
+Java: "cons" an item to a list-->https://stackoverflow.com/questions/7109952
+Java Guava CartesianProduct-->https://stackoverflow.com/questions/20449362
+Guava SetMultimap not serializable (due to not serializable WrappedSet)-->https://stackoverflow.com/questions/8490643
+Clean Guava way to handle possibly-null collection-->https://stackoverflow.com/questions/17454265
+How to sort Guava's MultiMap only by keys?-->https://stackoverflow.com/questions/36268257
+Can you use "parenthesis" on Predicate operations-->https://stackoverflow.com/questions/2799994
+How to transform List<X> to another List<Y>-->https://stackoverflow.com/questions/7383983
+Does casting Iterables to Collection iterates over all the elements?-->https://stackoverflow.com/questions/41753499
+Get empty string when null-->https://stackoverflow.com/questions/50148015
+Java Generics erasure in Multimaps-->https://stackoverflow.com/questions/16042268
+Combining two Iterables using standard library -- or -- map with multiple Iterables-->https://stackoverflow.com/questions/10036824
+Converting a List<String> to a List<Integer> (or any class that extends Number)-->https://stackoverflow.com/questions/4109132
+Guava: merge two multimaps-->https://stackoverflow.com/questions/14940206
+Extending an ImmutableMap with additional or new values-->https://stackoverflow.com/questions/29860574
+Check for value (list) existence in immutable map builder-->https://stackoverflow.com/questions/38664885
+Thread-safe HashSet with Guava Collections-->https://stackoverflow.com/questions/3653634
+How to convert a hashmap into a cachable map-->https://stackoverflow.com/questions/19008334
+Murmur3 hash different result between Python and Java implementation-->https://stackoverflow.com/questions/29949820
+Simplest way to iterate through a Multiset in the order of element frequency?-->https://stackoverflow.com/questions/4346245
+Simple example of Guava ValueGraph-->https://stackoverflow.com/questions/47377785
+Java : Creating chunks of List for processing-->https://stackoverflow.com/questions/43315271
+Inject Google Guava Hashmultimap using Spring-->https://stackoverflow.com/questions/4625880
+Google Guava Supplier Example-->https://stackoverflow.com/questions/4014617
+Why does the Guava Resources class not have String versions of the methods?-->https://stackoverflow.com/questions/9388354
+How do I store a Map in a Guava Cache-->https://stackoverflow.com/questions/28755701
+Guava cache return an empty result on the second hit-->https://stackoverflow.com/questions/10299060
+Guava Splitter with multiple split parameters-->https://stackoverflow.com/questions/21104805
+builder for HashMap-->https://stackoverflow.com/questions/7345248
+Populating map from multiple threads-->https://stackoverflow.com/questions/34405332
+Java - Get 'View' of Collection by Type/Interface-->https://stackoverflow.com/questions/12553147
+java: standard method of wrapping checked exceptions-->https://stackoverflow.com/questions/6286323
+Pre-load values for a Guava Cache-->https://stackoverflow.com/questions/7924203
+Guava Table vs. 2D array-->https://stackoverflow.com/questions/23182735
+How to create MinMaxPriorityQueue with nested generic parameters?-->https://stackoverflow.com/questions/5045600
+Guava - How to apply a function that returns Void on an Iterable-->https://stackoverflow.com/questions/32222080
+How to read large file from Amazon S3?-->https://stackoverflow.com/questions/16089842
+Guava Sets.intersection bad performance-->https://stackoverflow.com/questions/30374918
+How to automatically refresh Cache using Google Guava?-->https://stackoverflow.com/questions/19410168
+Sort a TreeMultimap in descending (reversed) order-->https://stackoverflow.com/questions/35114550
+Capturing executor for current thread-->https://stackoverflow.com/questions/21260121
+Is there IdentitySetMultimap in guava or somewhere else?-->https://stackoverflow.com/questions/35750326
+How to output unique keys with MultiMap from Guava? (Java)-->https://stackoverflow.com/questions/31052844
+Merge ranges with guava-->https://stackoverflow.com/questions/20664624
+Dynamically filter List with Predicate-->https://stackoverflow.com/questions/24454502
+How to iterate through google collections' Multimap<?, Object>?-->https://stackoverflow.com/questions/2064773
+How to transform MultiMap<String, String> to MultiMap<String,Integer>?-->https://stackoverflow.com/questions/17402343
+Convert Map to Sorted List-->https://stackoverflow.com/questions/13185293
+Java object definition shorthand or shortcuts?-->https://stackoverflow.com/questions/29124460
+Cannot fit file in Java Byte Array-->https://stackoverflow.com/questions/51147400
+Is there a better way to map over map values with Java streams?-->https://stackoverflow.com/questions/50907929
+Using Guava 19.0, is there a way to map a file extension to a MediaType?-->https://stackoverflow.com/questions/28754249
+Why Guava does not provide a way to transform map keys-->https://stackoverflow.com/questions/13993917
+Comparator for Optional<T>-->https://stackoverflow.com/questions/29570443
+lexicographical ordering of string list using guava-->https://stackoverflow.com/questions/4887657
+Using MapMaker to create a cache-->https://stackoverflow.com/questions/3218008
+Get reverse of predicate when Filtering?-->https://stackoverflow.com/questions/28094079
+Guava Optional to Java 8 Optional with multiple choices-->https://stackoverflow.com/questions/35172410
+Guava Cache not expiring after x timeunit when using timed expire-->https://stackoverflow.com/questions/31489914
+ClassCastException using Iterables from Guava-->https://stackoverflow.com/questions/6666256
+Reversed view of ImmutableSortedSet-->https://stackoverflow.com/questions/12941539
+Why does Optional not extend Supplier-->https://stackoverflow.com/questions/7855151
+guava: Transform a list to a map with the index as the key-->https://stackoverflow.com/questions/19137354
+Parse a string with key=value pair in a map?-->https://stackoverflow.com/questions/37402817
+How to use Guava Optional as "naturally covariant object"-->https://stackoverflow.com/questions/7855076
+Map<Class<?>, Object> registry-->https://stackoverflow.com/questions/12790822
+Combine guava's ImmutableList and varargs-->https://stackoverflow.com/questions/4533615
+Sort List in reverse in order-->https://stackoverflow.com/questions/18084742
+Guava iterators, and iterating over a list within a list object-->https://stackoverflow.com/questions/18206304
+How to instantiate guava EnumBiMap?-->https://stackoverflow.com/questions/14909633
+Comparator for Optional<T>-->https://stackoverflow.com/questions/48598148
+How to create a Multimap<K,V> from a Map<K, Collection<V>>?-->https://stackoverflow.com/questions/10443359
+Union two ImmutableEnumSets with Guava-->https://stackoverflow.com/questions/33820977
+How to create a Multimap<K,V> from a Map<K, Collection<V>>?-->https://stackoverflow.com/questions/35608910
+Can I wrap text to a given width with Guava?-->https://stackoverflow.com/questions/5752644
+How to cast from static generic functions in java that don't take parameters?-->https://stackoverflow.com/questions/21796973
+I need an immutable key-value structure that retains insertion order-->https://stackoverflow.com/questions/14982964
+Concise way of creating Guava's Optional based on String being empty or not-->https://stackoverflow.com/questions/34530174
+In Kotlin, how to delegate to an interface and provide only a no-arg public constructor?-->https://stackoverflow.com/questions/37598292
+Guava Ratelimiter tryAcquire returns true only for the first call(any number of permits)?-->https://stackoverflow.com/questions/34168864
+Sort Guava Multimap by number of values-->https://stackoverflow.com/questions/7882417
+How to get hold of current index when using Maps.uniqueIndex-->https://stackoverflow.com/questions/5010637
+reliably forcing Guava map eviction to take place-->https://stackoverflow.com/questions/7290209
+How do I check if a string has only alphanumeric characters in guava?-->https://stackoverflow.com/questions/26511474
+Guava Joiner doesn't have ability to prefix and suffix-->https://stackoverflow.com/questions/20945694
+Can I wrap text to a given width with Guava?-->https://stackoverflow.com/questions/5694876
+How to compare two Collections for "equivalence" based on fields from different Java classes?-->https://stackoverflow.com/questions/40881581
+A complex key for guavas Cache (shifting)-->https://stackoverflow.com/questions/8242818
+Normalising ugly method parameters using Guava-->https://stackoverflow.com/questions/18800689
+Java-get most common element in a list-->https://stackoverflow.com/questions/19086335
+Can I wrap text to a given width with Guava?-->https://stackoverflow.com/questions/5689524
+Chaining order in Guava-->https://stackoverflow.com/questions/4973913
+I used doReturn, why would Mockito still call real implementation inside anonymous class?-->https://stackoverflow.com/questions/32219640
+is there a case insensitive multimap in google collections-->https://stackoverflow.com/questions/4592778
+Google Collections Distinct Predicate-->https://stackoverflow.com/questions/4036416
+Difference between Iterables.tryFind and FluentIterable.firstMatch in Guava-->https://stackoverflow.com/questions/30226724
+Getting the first object that satisfies condition-->https://stackoverflow.com/questions/29065585
+Is there an elegant way to get the first non null value of multiple method returns in Java?-->https://stackoverflow.com/questions/26126636
+Guava Joiner doesn't have ability to prefix and suffix-->https://stackoverflow.com/questions/20953164
+guava distinct multimap values-->https://stackoverflow.com/questions/9587349
+Pattern for Guava Splitter-->https://stackoverflow.com/questions/23390383
+Does RemovalListener callback in guava caching api make sure that no one is using the object-->https://stackoverflow.com/questions/11564076
+HashMultimap cannot be resolved to a type?-->https://stackoverflow.com/questions/19000426
+Register beans automatically in Guava EventBus with Spring IoC-->https://stackoverflow.com/questions/13808117
+ImmutableSet from Guava or Java enum-->https://stackoverflow.com/questions/15952399
+Mapping a Nested Optional?-->https://stackoverflow.com/questions/28613380
+Collection intermediate operations library in Java7-->https://stackoverflow.com/questions/27448777
+Guava Collections : limit permutation size-->https://stackoverflow.com/questions/11123951
+Joiner - skipDuplicates-->https://stackoverflow.com/questions/9265909
+How to sort guava Multimap keys in reverse order?-->https://stackoverflow.com/questions/35426403
+best way to combine guava eventbus and AWT Event thread handling-->https://stackoverflow.com/questions/9522073
+Why is there no reduce in Guava library?-->https://stackoverflow.com/questions/26476478
+How to Make guava cache value permanent-->https://stackoverflow.com/questions/15900700
+How can I transform a collection into a Guava Multimap grouped by the elements of a nested collection property?-->https://stackoverflow.com/questions/23003913
+Filtering on List based on one property with guava-->https://stackoverflow.com/questions/5794226
+How to populate entries into Loading Cache guava?-->https://stackoverflow.com/questions/41676830
+Better way of getting a list of ids-->https://stackoverflow.com/questions/15417007
+Guava: construct a Multimap by inverting a Map-->https://stackoverflow.com/questions/8157292
+Google Guava: How to use ImmutableSortedMap.naturalOrder?-->https://stackoverflow.com/questions/4906961
+Get only element of a collection view with Guava, without exception when there are multiple elements-->https://stackoverflow.com/questions/15023125
+How to intersect a Guava Range and a TreeSet efficiently?-->https://stackoverflow.com/questions/14572214
+How can I sort a Guava Multiset on entry value and count?-->https://stackoverflow.com/questions/19100509
+invokeAll() vs Guava ListenableFuture+addCallback()-->https://stackoverflow.com/questions/17893831
+Combine multiple Collections into a single logical Collection?-->https://stackoverflow.com/questions/34126154
+Guava mergeSorted issue-->https://stackoverflow.com/questions/18350093
+In Futures.transform, what is the difference between using a Function and an AsyncFunction-->https://stackoverflow.com/questions/24064598
+What is a "LoadingCache"?-->https://stackoverflow.com/questions/43995514
+Java Map Values to Comma Separated String-->https://stackoverflow.com/questions/20788724
+com.google.common.collect.Sets.SetView bug or feature?-->https://stackoverflow.com/questions/8490964
+Automatic cache refresh with Guava-->https://stackoverflow.com/questions/27059811
+Why Guavas Ordering doesn't sort string values of integers correctly?-->https://stackoverflow.com/questions/32692973
+What is the performance penalty of enabling stats on Guava Cache objects?-->https://stackoverflow.com/questions/32107488
+Why does TransformedCollection not implement hashCode?-->https://stackoverflow.com/questions/12094437
+filling a collection using an iterator-->https://stackoverflow.com/questions/2254243
+Is there a way to find common elements in multiple lists?-->https://stackoverflow.com/questions/15222223
+Is it possible to chain async calls using Guava?-->https://stackoverflow.com/questions/8193077
+Guava Duplicate keys exception IllegalArgumentException-->https://stackoverflow.com/questions/15479979
+Resolve a path name with .. parent directory specifiers ("dot dot") without resolving symlinks-->https://stackoverflow.com/questions/13281790
+Case Insensitive filtering using Google Guava-->https://stackoverflow.com/questions/16560696
+Guava way of sorting List according to another list?-->https://stackoverflow.com/questions/10930652
+Guava equivalent for IOUtils.toString(InputStream)-->https://stackoverflow.com/questions/25042258
+Guava iterators, and iterating over a list within a list object-->https://stackoverflow.com/questions/14341224
+Map that could be iterated in the order of values-->https://stackoverflow.com/questions/8899689
+How to iterate over Multimap in insertion order?-->https://stackoverflow.com/questions/9758806
+Using Guava Iterables.cycle as a circular list impl-->https://stackoverflow.com/questions/32573241
+Compact way to create Guava Multimaps?-->https://stackoverflow.com/questions/43963774
+filter and sort list using google collections-->https://stackoverflow.com/questions/2312941
+Remove duplicates from List using Guava-->https://stackoverflow.com/questions/12250676
+How can I transform a collection into a Guava Multimap grouped by the elements of a nested collection property?-->https://stackoverflow.com/questions/23011392
+What is the benefit of using ComparisonChain over Objects.equal() && Objects.equal() ... with Guava-->https://stackoverflow.com/questions/7449161
+How do I do this using guava?-->https://stackoverflow.com/questions/3805871
+Java data structure-->https://stackoverflow.com/questions/4344035
+A Map<String, List<String>> implementation, exposing a view Map of "last values"-->https://stackoverflow.com/questions/16335274
+Is there a corresponding immutable enumMap in guava?-->https://stackoverflow.com/questions/15295727
+Use of Google-collections MapMaker?-->https://stackoverflow.com/questions/3737342
+Text file into Java List<String> using Commons or Guava-->https://stackoverflow.com/questions/4580387
+Java: how to use Google's HashBiMap?-->https://stackoverflow.com/questions/39329515
+I use Guava's immutable collections (compiled for Java 6) and a Java 8 JRE, can I use the new stream interface?-->https://stackoverflow.com/questions/22660274
+how to insert into set without changing the equals and hashcode-->https://stackoverflow.com/questions/12509079
+Clean Guava way to handle possibly-null collection-->https://stackoverflow.com/questions/17454273
+Does guava have a method for turning an iterable into a map of unique types?-->https://stackoverflow.com/questions/7758362
+java. is there any google's guava interface to replace Map<String, Map<String, String>>?-->https://stackoverflow.com/questions/17572983
+Is it possible to apply a function to a collection using Java Guava?-->https://stackoverflow.com/questions/7447108
+Map that could be iterated in the order of values-->https://stackoverflow.com/questions/8897384
+Text file into Java Set<String> using Commons or Guava-->https://stackoverflow.com/questions/5804319
+Is there a JDK or Guava method to turn a null into an empty list?-->https://stackoverflow.com/questions/41061990
+Is there a concise way to create an InputSupplier for an InputStream in Google Guava?-->https://stackoverflow.com/questions/19553971
+How to return N consecutive elements from a Collection?-->https://stackoverflow.com/questions/5516125
+Appropriate way to subclass Guava's ImmutableSet-->https://stackoverflow.com/questions/9113185
+right way to incorporate superclass into a Guava Objects.hashcode() implementation?-->https://stackoverflow.com/questions/8249073
+Google Guava's CacheLoader loadAll() vs reload() semantics-->https://stackoverflow.com/questions/10155578
+Did I implement equals and hashCode correctly using Google Guava?-->https://stackoverflow.com/questions/9262609
+How to transform List<String> to Map<String,String> with Google collections?-->https://stackoverflow.com/questions/5005775
+Iterables.find and Iterators.find - instead of throwing exception, get null-->https://stackoverflow.com/questions/7835773
+How can I use Joiner, to join only specific properties?-->https://stackoverflow.com/questions/28276193
+guava multimap that uses TreeMap not HashMap?-->https://stackoverflow.com/questions/6470213
+Difference between 2 collections? (elements in collection1, but not in collection2)-->https://stackoverflow.com/questions/15925739
+how to convert HashMultiset<String> to Map<String,Integer>-->https://stackoverflow.com/questions/28275980
+Guava ComparisonChain Wtih List?-->https://stackoverflow.com/questions/11941940
+Lists.newArrayList vs new ArrayList-->https://stackoverflow.com/questions/9986215
+How does Lists.newArraylist() of Guava library work?-->https://stackoverflow.com/questions/23615646
+Why does guava Multimap.values() return a flat collection instead of a collection of collections?-->https://stackoverflow.com/questions/9915496
+Google Guava Iterate All Files Starting From a Begin Directory-->https://stackoverflow.com/questions/22906828
+Apache's StringUtils.isBlank(str) vs. Guava's Strings.isNullOrEmpty(str): Should you routinely check for whitespace?-->https://stackoverflow.com/questions/36485128
+Select Element with Max Occurrence in Multiset-->https://stackoverflow.com/questions/16742315
+Guava way of sorting List according to another list?-->https://stackoverflow.com/questions/10931209
+Guava’s RateLimiter per minutes instead of seconds?-->https://stackoverflow.com/questions/27713636
+Combine guava's ImmutableList and varargs-->https://stackoverflow.com/questions/4531439
+Google Guava and an error I can't figure out-->https://stackoverflow.com/questions/3454851
+Populating a List with a contiguous range of integers-->https://stackoverflow.com/questions/16711230
+Is there a way to get all keys from a value in a multimap?-->https://stackoverflow.com/questions/15032007
+Guava.Objects.hashCode vs Java.Objects.hashCode-->https://stackoverflow.com/questions/36251559
+How to create collection from Iterable in java?-->https://stackoverflow.com/questions/7851056
+Java: how to use Google's HashBiMap?-->https://stackoverflow.com/questions/2574697
+How to transform List<String> to Map<String,String> with Google collections?-->https://stackoverflow.com/questions/5003857
+Can I decorate Joiner class of Guava-->https://stackoverflow.com/questions/5041241
+Does iterating over a Guava LoadingCache's map-view entry set reset the access time used for expiration?-->https://stackoverflow.com/questions/14372126
+Where to find basic Predicates like greaterThan for Guava?-->https://stackoverflow.com/questions/5765306
+Guava Ticker Cache expire-->https://stackoverflow.com/questions/30008018
+Guava: transform an List<Optional<T>> to List<T> keeping just present values-->https://stackoverflow.com/questions/26379431
+Issue creating ImmutableMap with Class<?> as key-->https://stackoverflow.com/questions/19144259
+Optional conversion from Guava to Java-->https://stackoverflow.com/questions/33918548
+Is there a way to join strings, each with a specific surrounding string?-->https://stackoverflow.com/questions/20203626
+Java-get most common element in a list-->https://stackoverflow.com/questions/19034666
+How to save null value in Guava Optional-->https://stackoverflow.com/questions/49280660
+How to iterate through google multimap-->https://stackoverflow.com/questions/60754984
+How to implement a Guava Cache with the value as number of hits?-->https://stackoverflow.com/questions/52717262
+How to get one attribute from list of custom objects-->https://stackoverflow.com/questions/23015641
+Why do Guava classes provide so many factory methods instead of just one that takes varargs?-->https://stackoverflow.com/questions/4315117
+Check if only specific properties of 2 objects are equal-->https://stackoverflow.com/questions/22253233
+Using exceptions with Google Guava-->https://stackoverflow.com/questions/25033632
+How to create a synchronized multimap with Guava in one line?-->https://stackoverflow.com/questions/48185589
+Where's google-collection's LazyMap?-->https://stackoverflow.com/questions/43341711
+Guava - Caching a table and using get methods on that one cache-->https://stackoverflow.com/questions/50613182
+How should I unit test code that uses the google guava libraries, especially stuff in the io package?-->https://stackoverflow.com/questions/6737667
+Can I decorate Joiner class of Guava-->https://stackoverflow.com/questions/5045846

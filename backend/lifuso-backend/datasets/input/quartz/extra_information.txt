@@ -1,0 +1,511 @@
+Quartz retry when failure-->https://stackoverflow.com/questions/40999093
+How to pass instance variables into Quartz job?-->https://stackoverflow.com/questions/12782677
+Quartz Jobs Not Kicking Off-->https://stackoverflow.com/questions/11449243
+Quartz: Cron expression that will never execute-->https://stackoverflow.com/questions/13836907
+How to get and set a global object in Java servlet context-->https://stackoverflow.com/questions/3216084
+Quartz Scheduler - trigger does not reference given job-->https://stackoverflow.com/questions/25916028
+Scheduling Dependent Jobs in Quartz.Net-->https://stackoverflow.com/questions/26493636
+Correct way to persist Quartz triggers in database-->https://stackoverflow.com/questions/17437781
+find if a job is running in Quartz1.6-->https://stackoverflow.com/questions/9187765
+java quartz scheduler fire a new job immediately-->https://stackoverflow.com/questions/9906421
+Quartz Scheduler - Updating only the JobDataMap, between jobs-->https://stackoverflow.com/questions/16154019
+TaskScheduler, @Scheduled and quartz-->https://stackoverflow.com/questions/6840970
+Quartz.Net cron trigger to schedule a job every 45 minutes-->https://stackoverflow.com/questions/11331534
+java quartz scheduler fire a new job immediately-->https://stackoverflow.com/questions/9892021
+How to run every 25 seconds in Quartz scheduler?-->https://stackoverflow.com/questions/6270215
+Executing multiple Quartz.NET jobs with Topshelf-->https://stackoverflow.com/questions/25321679
+Firing Quartz jobs manually-->https://stackoverflow.com/questions/12264408
+How to reschedule the job execution interval in Quartz?-->https://stackoverflow.com/questions/14063719
+quartz: preventing concurrent instances of a job in jobs.xml-->https://stackoverflow.com/questions/2676939
+Verifying a cron expression is valid in Java-->https://stackoverflow.com/questions/2363119
+Immediate one time task with Quartz-->https://stackoverflow.com/questions/14163742
+Simple example for Quartz 2.2 and Tomcat 7-->https://stackoverflow.com/questions/19573839
+Quartz retry when failure-->https://stackoverflow.com/questions/4409263
+quartz: preventing concurrent instances of a job in jobs.xml-->https://stackoverflow.com/questions/5801514
+How to maintain a job history using Quartz scheduler-->https://stackoverflow.com/questions/2963732
+How to get cron expression given job name and group name?-->https://stackoverflow.com/questions/3641595
+Java Example: Dynamic Job Scheduling with Quartz-->https://stackoverflow.com/questions/17669446
+schedule a trigger every minute, if job still running then standby and wait for the next trigger-->https://stackoverflow.com/questions/12426423
+Quartz jobs - disallow concurrent execution group-wide?-->https://stackoverflow.com/questions/17714462
+Quartz Scheduler - Standby Until Following Day-->https://stackoverflow.com/questions/43188520
+knowing when job is crashed (or listen to a job stoppage)-->https://stackoverflow.com/questions/41623231
+Quartz scheduler how to pass the results from job execution to display it in UI-->https://stackoverflow.com/questions/45818551
+how to delete specific trigger for a scheduled job-->https://stackoverflow.com/questions/62734257
+Cron trigger with Quartz run in every minute-->https://stackoverflow.com/questions/40170049
+Quartz cron expression to run job with interval of minutes-->https://stackoverflow.com/questions/47927394
+Multiple triggers/Cron expression in a single Quartz Job-->https://stackoverflow.com/questions/27837160
+How do I shutdown a Quartz ThreadGroup?-->https://stackoverflow.com/questions/7273856
+Get no of attempts in quartz-->https://stackoverflow.com/questions/27707481
+Quartz jobs - disallow concurrent execution group-wide?-->https://stackoverflow.com/questions/14783509
+Quartz scheduler failed to get JNDI DB resource but starts anyway-->https://stackoverflow.com/questions/27480602
+How to inject Spring DAO class in QuartzJobBean, using JobDetailFactoryBean Annotated way-->https://stackoverflow.com/questions/36087518
+Spring + Quartz - how to create different triggers for the same job method-->https://stackoverflow.com/questions/40593835
+Configure Quartz for interval and different starting hours-->https://stackoverflow.com/questions/32754843
+quartz jboss spring multiple webapps-->https://stackoverflow.com/questions/12007872
+Monthly jobs on every 30th day using Quartz-->https://stackoverflow.com/questions/20377333
+Convert old version logic to Quartz-2.2.1-->https://stackoverflow.com/questions/37758518
+Quartz: repeat job always on monday through friday-->https://stackoverflow.com/questions/26159710
+Quartz scheduler in Tomcat 6, thread does not stop-->https://stackoverflow.com/questions/11304117
+CronExpression for every day between 9 AM-10 AM-->https://stackoverflow.com/questions/16790338
+How to stop a job when 'WithRepeatCount' done in C#-->https://stackoverflow.com/questions/46772968
+No way of starting Quartz on server deploy-->https://stackoverflow.com/questions/4931632
+Fill in "getCurrentlyExecutingJobs();" in a JTable-->https://stackoverflow.com/questions/24037860
+Quartz Scheduler - trigger does not reference given job-->https://stackoverflow.com/questions/48081547
+difference between last actual and scheduled fire time-->https://stackoverflow.com/questions/12250189
+Quartz.net schedule job from asp.net, execute in a windows service app-->https://stackoverflow.com/questions/26546037
+Any way to get Quartz's DailyTimeIntervalTrigger to run in alternate time zones?-->https://stackoverflow.com/questions/36894105
+Quartz.NET remoting - scheduler already exists-->https://stackoverflow.com/questions/44284821
+java.text.ParseException: Minute and Second values must be between 0 and 59-->https://stackoverflow.com/questions/62848223
+Spring Batch (2.2) Java Config + Quartz as Scheduler-->https://stackoverflow.com/questions/23628416
+About firing of missed scheduled Cron expression in quartz?-->https://stackoverflow.com/questions/18979149
+Quartz Integration with Spring-->https://stackoverflow.com/questions/4818534
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/51982052
+Quartz Scheduler - Second Job Not Executing-->https://stackoverflow.com/questions/27257290
+Schedule a job to run at multiple of 2 seconds i.e 2,4,8,16,32 seconds-->https://stackoverflow.com/questions/46143312
+How can I create a schedule that fires every nth week using simple schedule?-->https://stackoverflow.com/questions/29365461
+Job scheduler not invoke-->https://stackoverflow.com/questions/17722248
+How to run cron trigger with 5 sec exceeds process-->https://stackoverflow.com/questions/37085295
+C# Quartz Scheduler - reset a trigger-->https://stackoverflow.com/questions/34861186
+Java Example: Dynamic Job Scheduling with Quartz-->https://stackoverflow.com/questions/40465785
+Spring with quartz-->https://stackoverflow.com/questions/31270335
+How can I convert java.util.Calendar to org.quartz.impl.calendar.DailyCalendar?-->https://stackoverflow.com/questions/33419097
+How to use Quartz scheduler for REST call in Dropwizard?-->https://stackoverflow.com/questions/51317299
+Quartz.net service, Scheduler has been disconnected or does not exist at server-->https://stackoverflow.com/questions/19663784
+How to schedule a task that runs everyday in 13.00 h-->https://stackoverflow.com/questions/37671288
+How to write a Quartz timer service that updates every 6 months?-->https://stackoverflow.com/questions/36811611
+How to call a CronTriggerBean stored in a JDBCJobStore?-->https://stackoverflow.com/questions/1763560
+How to write a cron expression or Set a timer that will be executed only once in Spring?-->https://stackoverflow.com/questions/30846590
+Quartz on a webapp - scheduler does not stop-->https://stackoverflow.com/questions/6445463
+Spring modular Quartz Configurations-->https://stackoverflow.com/questions/47774636
+Quartz.net schedule a task to run for 5 minutes-->https://stackoverflow.com/questions/34755267
+Multiple quartz Schedulers for multiple threads-->https://stackoverflow.com/questions/31244071
+Cron expression validator-->https://stackoverflow.com/questions/44040937
+Quartz Scheduler and RabbitMQ-->https://stackoverflow.com/questions/12686083
+Run Quartz manually with Spring controller-->https://stackoverflow.com/questions/30801500
+How To implement Quartz Scheduler in server side? What all are the steps i want to do?-->https://stackoverflow.com/questions/23179531
+Cron Job and Server Restart-->https://stackoverflow.com/questions/11094800
+Add Quartz Source Java Files on the Fly-->https://stackoverflow.com/questions/16909423
+Repeat Interval Cannot Be Zero-->https://stackoverflow.com/questions/21178315
+Spring + Hibernate + Quartz: Dynamic Job-->https://stackoverflow.com/questions/30801269
+java quartz cron schedule error-->https://stackoverflow.com/questions/27546882
+Can I set concurrentExecutionDisallowed and persistJobDataAfterExecution on Job instance?-->https://stackoverflow.com/questions/29612485
+Running A Missed Quartz Job-->https://stackoverflow.com/questions/9067522
+How to stop quartz cron scheduler after specified number of occurrences?-->https://stackoverflow.com/questions/58744025
+Spring + Quartz - Trigger repeat interval exception-->https://stackoverflow.com/questions/48589626
+how to suspend job in quartz scheduler?-->https://stackoverflow.com/questions/50144470
+Setting nextFireTime of a quartz job manually in groovy-->https://stackoverflow.com/questions/30580921
+Quartz - How to shutdown and restart the scheduler?-->https://stackoverflow.com/questions/60971404
+Quartz threadpool reconfiguration-->https://stackoverflow.com/questions/23822138
+How to control Linux java cron jobs from web appication?-->https://stackoverflow.com/questions/40680323
+Obtaining a context path in a non-servlet class-->https://stackoverflow.com/questions/23675537
+Quartz scheduler job get not executed repeatedly for every 5 minute-->https://stackoverflow.com/questions/50970792
+Dynamically loading name of Java class file in a Quartz job-->https://stackoverflow.com/questions/1573951
+Do I need to shutdown Quartz scheduler in finally block?-->https://stackoverflow.com/questions/9395975
+Dynamic Job Schedule Quartz-->https://stackoverflow.com/questions/48621009
+Cron Expression to execute cron triggers on every week at 3 pm and start time from 5th April 2012-->https://stackoverflow.com/questions/9931754
+Setting a Calendar to a knowledge session dynamically inside the rules file-->https://stackoverflow.com/questions/40838487
+Setting a quartz property programmatically in a jboss seam project-->https://stackoverflow.com/questions/20686995
+Quartz Scheduler error in Eclipse - creating a new trigger-->https://stackoverflow.com/questions/52473481
+Java - Quartz CronSchedule doesn't Work with start date and end date-->https://stackoverflow.com/questions/46857055
+JAVA: Run the cron job task even schedule has come-->https://stackoverflow.com/questions/59405071
+java.lang.NoSuchMethodError:org.quartz.Scheduler.deleteTrigger(Ljava/lang/String;Ljava/lang/String;)V-->https://stackoverflow.com/questions/62744056
+Initialize QuartzScheduler when container first loads web application-->https://stackoverflow.com/questions/11294003
+looking for persistent timers for a spring application-->https://stackoverflow.com/questions/34374198
+Quartz trigger is not firing with JobStoreTX-->https://stackoverflow.com/questions/40283343
+Quartz Scheduler: expression to configure the scheduler to execute in the alternative weeks-->https://stackoverflow.com/questions/11050245
+Scheduling a Quartz job-->https://stackoverflow.com/questions/41227890
+Can Quartz scheduler refire broken job at application shutdown?-->https://stackoverflow.com/questions/23275364
+Number of times trigger has executed-->https://stackoverflow.com/questions/50637944
+Unable to get Listing of Jobs in the Quartz Scheduler-->https://stackoverflow.com/questions/53330551
+quartz integration with spring,null pointer exception-->https://stackoverflow.com/questions/16083702
+Quartz Job not running when a class calls another class-->https://stackoverflow.com/questions/36856085
+Injecting Entity Manager in a programatically managed Quartz job-->https://stackoverflow.com/questions/28309175
+Dynamic Job Data using Quartz-->https://stackoverflow.com/questions/5344815
+how to handle user timezone for daylight savings in quartz for cron Triggers?-->https://stackoverflow.com/questions/62555672
+quartz.net simple example as per the time given-->https://stackoverflow.com/questions/41014658
+how to stop all quartz schedular job of an entire bean in springs java-->https://stackoverflow.com/questions/28185587
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/40800995
+How to run multiple quartz jobs-->https://stackoverflow.com/questions/25360077
+how handle two triggers to same quartz scheduler-->https://stackoverflow.com/questions/30863883
+How to get the result datetime from “CronExpression.GetNextValidTimeAfter(DateTimeOffset)” quartz scheduler method in UTC±00:00 format?-->https://stackoverflow.com/questions/59968307
+Quartz.Net DailyTimeIntervalTriggerImpl with different time zone-->https://stackoverflow.com/questions/14234396
+Make Spring Quartz Job Scheduler Run on a user action-->https://stackoverflow.com/questions/22082462
+How to rerun my job after it's end?-->https://stackoverflow.com/questions/31895588
+Job Chaining using quartz in Java-->https://stackoverflow.com/questions/61600777
+Quartz Scheduler preemptive trigger priority-->https://stackoverflow.com/questions/37125558
+Scheduled jobs during server shutdown doesn't run during server startup-->https://stackoverflow.com/questions/23388447
+Quartz.net configuration and scheduling-->https://stackoverflow.com/questions/38465120
+Java Quartz-Scheduler across TimeZone-->https://stackoverflow.com/questions/62555559
+Quartz Scheduling Client Server-->https://stackoverflow.com/questions/26102164
+How to reschedule the job execution interval in Quartz?-->https://stackoverflow.com/questions/61038393
+Long running jobs in Quartz.Net-->https://stackoverflow.com/questions/21459781
+Quartz JobDataMap doesn't work for not-primitive types-->https://stackoverflow.com/questions/29547885
+Java Quartz 2.2.1 - Schedule-->https://stackoverflow.com/questions/27817288
+How to make Quartz Scheduler in Eclipse work?-->https://stackoverflow.com/questions/16910654
+Quartz: triggering multiple jobs-->https://stackoverflow.com/questions/31556430
+Quartz.Net retrieve object from scheduler before stopping it-->https://stackoverflow.com/questions/21158019
+Quartz Scheduler Unresponsive-->https://stackoverflow.com/questions/40362064
+Quartz job not restarting in java web-->https://stackoverflow.com/questions/46308801
+Quartz Scheduler's job fired but JobListener not picking up event?-->https://stackoverflow.com/questions/27387488
+Quartz : Why does this Trigger not fire?-->https://stackoverflow.com/questions/17315695
+How to make object available to the job instance when it executes?-->https://stackoverflow.com/questions/31897801
+Scheduler using Quartz is not calling immediately-->https://stackoverflow.com/questions/23874581
+Quartz.NET Rescheduling job with new trigger set-->https://stackoverflow.com/questions/63547009
+Quartz Cron Expression: Run Job Every 1 hr 10 minutes 20 seconds starting NOW (immediately)-->https://stackoverflow.com/questions/43589064
+Dynamically Scheduled Jobs with Quartz-->https://stackoverflow.com/questions/21376333
+Quartz Scheduler - Job Chaining with JobDataMap-->https://stackoverflow.com/questions/43391403
+Quartz.NET error comes every time I use it-->https://stackoverflow.com/questions/53391318
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/58216163
+Testing Quartz CronTrigger trigger-->https://stackoverflow.com/questions/37149465
+How to acces other servlet's init-parameters or context's contex-parameters inside quartz jobs?-->https://stackoverflow.com/questions/30618132
+Quartz.NET remoting - scheduler already exists-->https://stackoverflow.com/questions/44284515
+Why Quartz job is not getting executed(although QUARTZ tables are getting updated with proper job details)-->https://stackoverflow.com/questions/32072419
+Using Quartz CronScheduleBuilder No Job Executed-->https://stackoverflow.com/questions/36027283
+Quartz + Spring : Configure jobs to run on specific time using JobStore-->https://stackoverflow.com/questions/47001028
+How to implement a scheduler using QUARTZ on an ASP.NET Web API Core application?-->https://stackoverflow.com/questions/45724253
+How to cancel a Quartz job instead of enqueue in case of @DisallowConcurrentExecution-->https://stackoverflow.com/questions/35487079
+Posticipate Quartz expression to the next weekday-->https://stackoverflow.com/questions/25305314
+quartz job run only once-->https://stackoverflow.com/questions/35358732
+Do I need to shutdown Quartz scheduler in finally block?-->https://stackoverflow.com/questions/9395773
+Timing quartz task execution duration-->https://stackoverflow.com/questions/50349920
+How to interrupt or stop currently running quartz job?-->https://stackoverflow.com/questions/30378086
+Cron schedule in quartz to fire every week from a specific date for one year-->https://stackoverflow.com/questions/45227375
+Bean references are not creating when using quartz with spring scheduler - Job instantiation failed-->https://stackoverflow.com/questions/58063075
+quartz misfire instruction-->https://stackoverflow.com/questions/39870182
+Quartz Scheduler sending email notification multiple time-->https://stackoverflow.com/questions/54552550
+Schedule task depending on its response-->https://stackoverflow.com/questions/10180724
+How to run tasks from db with Quartz Cron expression in java?-->https://stackoverflow.com/questions/48846784
+How to disable cron jobs in dropwizard-->https://stackoverflow.com/questions/52074156
+How can I create a one time cron schedule that would execute only once in C#?-->https://stackoverflow.com/questions/28739216
+Quartz: The Scheduler has been shutdown-->https://stackoverflow.com/questions/44695530
+Cron job scheduler to add new quartz jobs every day?-->https://stackoverflow.com/questions/31805642
+Altering Quartz Job Schedule-->https://stackoverflow.com/questions/14653556
+Grouping significance-->https://stackoverflow.com/questions/41932268
+Firing Quartz jobs manually-->https://stackoverflow.com/questions/7039502
+Setting weekend or holiday strategy while scheduling quartz scheduler-->https://stackoverflow.com/questions/43254167
+[Quartz]how can I add jobs into one Scheduler of quartz dynamically？-->https://stackoverflow.com/questions/34490021
+Fire job cron immediately with quartz-->https://stackoverflow.com/questions/33500424
+Jersey 2.0: Create repeating job-->https://stackoverflow.com/questions/30640119
+i cant create a Scheduler instance in spring mvc using quartz-->https://stackoverflow.com/questions/26745100
+QuartzScheduler injection in JBoss AS 6-->https://stackoverflow.com/questions/6161353
+How to restrict cron trigger executed a job only once when fired in quartz scheduler-->https://stackoverflow.com/questions/45164160
+Java Quartz 2.2.1 - Schedule-->https://stackoverflow.com/questions/27816964
+How to instantiate manually the method newJob of quartz jobDetail?-->https://stackoverflow.com/questions/39244118
+Quartz: Execute cron trigger, skip next execution-->https://stackoverflow.com/questions/50393394
+how to configure the property value parameter of quartz from database?-->https://stackoverflow.com/questions/17044354
+Quartz How can i stop/pause/start/interrupt the Scheduler from Jsp i.e on click of particular button-->https://stackoverflow.com/questions/24198347
+How do I list Quartz running jobs in java/struts2-->https://stackoverflow.com/questions/22413304
+quartz job fires even though scheduled time has passed-->https://stackoverflow.com/questions/26674375
+Spring cannot inject Bean in class that implements Quartz Job-->https://stackoverflow.com/questions/49858918
+How to find if a given timestamp is within a cron-expression?-->https://stackoverflow.com/questions/18913892
+How to run cron job using Quartz Scheduler framework in Java?-->https://stackoverflow.com/questions/40021203
+How to pass instance variables into Quartz job?-->https://stackoverflow.com/questions/39250865
+Quartz Cron job required that executes at 12 am every 2 weeks-->https://stackoverflow.com/questions/21750613
+How to prevent Quartz scheduler from missing few executions-->https://stackoverflow.com/questions/58966974
+Quartz CronTrigger - Getting next fire time-->https://stackoverflow.com/questions/23473716
+How to implement Quartz Scheduler with specific job in servlet?-->https://stackoverflow.com/questions/51151371
+quartz jdbc serialize/deserialize object-->https://stackoverflow.com/questions/56835508
+Quartz: Undesired multiple job run in same time-->https://stackoverflow.com/questions/52862670
+How to add a field in my quartz configuration dynamically?-->https://stackoverflow.com/questions/48500312
+How to create a trigger in akka quartz, which will start executing a job only once in special time-->https://stackoverflow.com/questions/54109682
+How to add Quartz listener in Grails when using the plugin-->https://stackoverflow.com/questions/43891472
+Quartz.NET - Run every hour except for 3am on Monday Mornings-->https://stackoverflow.com/questions/53587876
+Quartz scheduler time setting - comma not accepted-->https://stackoverflow.com/questions/28050939
+Fire job cron immediately with quartz-->https://stackoverflow.com/questions/33500631
+Quartz.net - fire trigger in custom time-->https://stackoverflow.com/questions/30635226
+Quartz scheduleJob function is not working properly-->https://stackoverflow.com/questions/9908199
+Cron expression for one day occurs every hour-->https://stackoverflow.com/questions/17254414
+Quartz cron expression to run job with interval of minutes-->https://stackoverflow.com/questions/48200127
+Quartz Job not firing as expected-->https://stackoverflow.com/questions/16427861
+Quartz.Net CronTrigger scheduling not working as expected-->https://stackoverflow.com/questions/22540685
+Getting Database Connection using Quartz-->https://stackoverflow.com/questions/29488436
+Country specific calendars java-->https://stackoverflow.com/questions/12205681
+Quartz retry job with exponentially increasing delay time strategy for trigger-->https://stackoverflow.com/questions/55206538
+Does SchedularFactory returns same instance with new method-->https://stackoverflow.com/questions/45431569
+Difference between Spring Boot QuartzAutoConfiguration 2.1.6.RELEASE & 2.2.2.RELEASE-->https://stackoverflow.com/questions/61717403
+Update Quartz.net cron trigger not to execute on a particular date/dates for daily trigger.-->https://stackoverflow.com/questions/46661439
+Quartz .net job is not executing-->https://stackoverflow.com/questions/30003123
+Quartz Scheduler suddenly stop running and no exception error-->https://stackoverflow.com/questions/60625516
+Java Example: Dynamic Job Scheduling with Quartz-->https://stackoverflow.com/questions/23938105
+Unable to remove Camel Quartz route-->https://stackoverflow.com/questions/54080901
+When does quartz Scheduler JobListener.jobWasExecuted() method get called?-->https://stackoverflow.com/questions/27937805
+Quartz Scheduler: How to Group Jobs together?-->https://stackoverflow.com/questions/39550214
+why quartz scheduleJob() execute many times?-->https://stackoverflow.com/questions/54020548
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/8929557
+Quartz Scheduler / Multiple (Non Clustered) Scheduler Instances-->https://stackoverflow.com/questions/51756617
+How to add job with trigger for running Quartz scheduler instance without restarting server-->https://stackoverflow.com/questions/23566081
+How can I find which Quartz job a thread is running in java?-->https://stackoverflow.com/questions/29438748
+AEM 6.3 : Creating Scheduler using OSGi R6 annotations-->https://stackoverflow.com/questions/56192476
+How to re-schedule a trigger in Quartz-->https://stackoverflow.com/questions/22767711
+quartz grails multi-entity environment-->https://stackoverflow.com/questions/26829370
+How to prevent a memory leak in quartz-->https://stackoverflow.com/questions/37070742
+Quartz - Failed to pass parameter to job via JobDataMap-->https://stackoverflow.com/questions/31701164
+How do I cancel a job trigger if the previous trigger is still running?-->https://stackoverflow.com/questions/12179077
+Multiple SchedulerFactory in Quartz-->https://stackoverflow.com/questions/32330950
+Add calendar to Quartz job by configuration-->https://stackoverflow.com/questions/50528623
+How to rerun my job after it's end?-->https://stackoverflow.com/questions/31892625
+can I use CDI injection into quartz-scheduler jobs?-->https://stackoverflow.com/questions/50369989
+quartz cron trigger first fire time-->https://stackoverflow.com/questions/6144217
+Scheduling multiple jobs with dynamic parameter using Quartz 1.6.2 (simple trigger) + Spring 3.0-->https://stackoverflow.com/questions/20592995
+How can I run crone Trigger immediately using crone expression in java?-->https://stackoverflow.com/questions/42605935
+Quartz scheduler with excluding specific time range-->https://stackoverflow.com/questions/37048797
+Quartz scheduler missing job-->https://stackoverflow.com/questions/40627431
+Add scripts dynamically as jobs using property/xml file in Quartz-->https://stackoverflow.com/questions/36651004
+quartz API - learn about executed jobs-->https://stackoverflow.com/questions/19162888
+Quartz.net fail-over setup : Incorrect first run of the job-->https://stackoverflow.com/questions/21512723
+How can I dynamically create Triggers in Spring Boot using Quartz?-->https://stackoverflow.com/questions/57741320
+Regular expression for day offset-->https://stackoverflow.com/questions/29213668
+How to handle Quartz trigger when Computer is turned off during sending push notification-->https://stackoverflow.com/questions/41242300
+How to handle Quartz simple trigger when server is restarted-->https://stackoverflow.com/questions/51009747
+Delay crone trigger (diffrent first start date) in quartz-->https://stackoverflow.com/questions/37312284
+jobDataMap to pass parameters for Multiple Triggers in Quartz-->https://stackoverflow.com/questions/27910475
+Quartz Job Scheduler how to fire jobs at exact order-->https://stackoverflow.com/questions/38655834
+Calling a method in application-scoped bean from quartz job-->https://stackoverflow.com/questions/36430685
+Scheduling a Job in webserver -Java-->https://stackoverflow.com/questions/6176750
+Start quartz trigger next day at specified time-->https://stackoverflow.com/questions/36905666
+Quartz scheduler not running the cron job-->https://stackoverflow.com/questions/62025266
+How to configure Quartz triggers in Grails to allow different schedules for testing and production-->https://stackoverflow.com/questions/24420333
+Quartz jobs hanging around in DB tables-->https://stackoverflow.com/questions/16367079
+unscheduling job in quartz-->https://stackoverflow.com/questions/26369945
+How to create spring scheduled jobs programmatically?-->https://stackoverflow.com/questions/42945288
+Getting job key from job class name in Quartz-->https://stackoverflow.com/questions/52148343
+How to start quartz Scheduler by second 0 on Spring?-->https://stackoverflow.com/questions/52648579
+Generate cron expression for weekly and repeat every n weeks-->https://stackoverflow.com/questions/46974645
+quartz API - learn about executed jobs-->https://stackoverflow.com/questions/19313882
+Quartz SimpleTrigger event triggerred immediately even though the repeatInterval is some time later-->https://stackoverflow.com/questions/15841537
+Dynamic Scheduled Concurrent Task Execution in Java-->https://stackoverflow.com/questions/23577770
+Query quartz for existing triggers using criteria-->https://stackoverflow.com/questions/11033531
+Are Quartz's configuration parameters externalizable outside of the default properties file?-->https://stackoverflow.com/questions/38114718
+How to stop a specific Job in quartz scheduler-->https://stackoverflow.com/questions/39733946
+Quartz.NET Rescheduling job with new trigger set-->https://stackoverflow.com/questions/48262964
+Time Period (Window) implementation using java + spring-->https://stackoverflow.com/questions/9843395
+Quartz Scheduler not return values method executing in every 3 minutes-->https://stackoverflow.com/questions/19446633
+I don't understand getNextIncludedTime() in Quartz-->https://stackoverflow.com/questions/1279877
+How do you update a value in a Quartz JobDataMap?-->https://stackoverflow.com/questions/42627782
+Scheduling a persistent entity-->https://stackoverflow.com/questions/5639150
+QuartzScheduler: Pass database values from one class to another-->https://stackoverflow.com/questions/38851327
+Quartz job scheduler using Java, stuck on standby mode without the job being executed-->https://stackoverflow.com/questions/61096419
+Quartz Email dynamics-->https://stackoverflow.com/questions/52379134
+quartz: preventing concurrent instances of a job in jobs.xml-->https://stackoverflow.com/questions/15896875
+Quartz Scheduler Issue in setting multiple triggers for a single job-->https://stackoverflow.com/questions/35355161
+Quarzt: store JobDataMap before/without scheduling a job-->https://stackoverflow.com/questions/44364335
+Creating Object chain in Quartz Job execution using Google Guice/Dogger in Java Web App-->https://stackoverflow.com/questions/63692588
+How to use org.quartz.Scheduler Object in Service class-->https://stackoverflow.com/questions/54879771
+Quartz CronTrigger - Getting next fire time-->https://stackoverflow.com/questions/9063784
+Scheduling a task in Java to run every X days or execute once only-->https://stackoverflow.com/questions/32656029
+How to pass instance variables into Quartz job?-->https://stackoverflow.com/questions/58270938
+quartz scheduler using QuartzInitializerServlet-->https://stackoverflow.com/questions/36899108
+Quartz SimpleScheduleBuilder with base time and interval in c#-->https://stackoverflow.com/questions/58973630
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/58025578
+Using CDI in Quartz Jobs-->https://stackoverflow.com/questions/28282571
+Quartz - schedule jobs every two Weeks on several Day of week and time-->https://stackoverflow.com/questions/14520689
+Quartz scheduler behaves inconsistently-->https://stackoverflow.com/questions/28100209
+Spring: How to Monitor Quartz Job from controller?-->https://stackoverflow.com/questions/17519660
+Running a Job only once Using Quartz-->https://stackoverflow.com/questions/54818420
+Bamboo Deployment Wait Until No Quartz Jobs With Grails-->https://stackoverflow.com/questions/12550898
+execute a schedule with quartz in visual start now with interval 24 hours-->https://stackoverflow.com/questions/35071844
+Retrieve servletContext reference in quartz scheduler-->https://stackoverflow.com/questions/35182384
+Cron Expression for Hour:Minute to Hour:Minute-->https://stackoverflow.com/questions/37656803
+Quartz run job on startup-->https://stackoverflow.com/questions/19966647
+GetFireTimeAfter method of ITrigger returning a date which is part of HolidayCalender-->https://stackoverflow.com/questions/46957577
+How to dynamically add a Quartz Job in JBoss6-->https://stackoverflow.com/questions/6432956
+Quartz : Why does this Trigger not fire?-->https://stackoverflow.com/questions/17318602
+Java Job Scheduling: Is this possible with Quartz, if not what are my alternatives?-->https://stackoverflow.com/questions/53619233
+asp.net cron job quartz.net bug, not firing always-->https://stackoverflow.com/questions/34268961
+Dynamic config Spring batch execution time and parameters via database configured parameters-->https://stackoverflow.com/questions/58424088
+Java Quartz-scheduler between time-->https://stackoverflow.com/questions/52735212
+Quartz.Net - delay a simple trigger to start-->https://stackoverflow.com/questions/37312321
+How to make a Job raise an EventHandler in Quartz.Net?-->https://stackoverflow.com/questions/35778898
+Run a job every X days but only between two specific dates and times-->https://stackoverflow.com/questions/26595446
+Quartz scheduler-Time between-->https://stackoverflow.com/questions/15656084
+How to stop scheduling in Quartz Enterprise Scheduler .NET 3.0-->https://stackoverflow.com/questions/48270123
+Quartz trigger based on file existence?-->https://stackoverflow.com/questions/24526079
+How to bring Quartz scheduler to standby-->https://stackoverflow.com/questions/48079118
+How can I find which Quartz job a thread is running in java?-->https://stackoverflow.com/questions/39590693
+Repeat Interval Cannot Be Zero-->https://stackoverflow.com/questions/21102760
+Quartz - Shutdown Scheduler based on Job Variable-->https://stackoverflow.com/questions/43209855
+Cron Expression not working correctly-->https://stackoverflow.com/questions/40028225
+spring mvc quartz: how to set the scheduler from the view or a html page-->https://stackoverflow.com/questions/26732583
+Scheduling a Task in VB ASP.NET MVC-->https://stackoverflow.com/questions/12270866
+Problem while executing simple quartz scheduler-->https://stackoverflow.com/questions/4552798
+java Quartz2 cron trigger is not firing immediately-->https://stackoverflow.com/questions/26018325
+Couple of questions about spring quartz-->https://stackoverflow.com/questions/21729679
+Getting "cannot convert from TriggerBuilder<Trigger> to Trigger" while running simple Quratz tutorial program-->https://stackoverflow.com/questions/56457026
+Call service from Quartz Task-->https://stackoverflow.com/questions/49287245
+Spring-Boot Quartz Job is not running-->https://stackoverflow.com/questions/44775026
+Quartz cron expression to run job at every 14 minutes from now-->https://stackoverflow.com/questions/29068028
+How to run function once at start of Quartz job in Grails, and persist variable values between calls?-->https://stackoverflow.com/questions/54925509
+Check whether the job is running or not?-->https://stackoverflow.com/questions/24569130
+how to access any job properties using NameValueCollection in Quartz.Net?-->https://stackoverflow.com/questions/11855400
+Quartz thread count-->https://stackoverflow.com/questions/39994674
+How can i change the scheduling of jobs dynamically using Spring/Quartz?-->https://stackoverflow.com/questions/36301679
+Quartz.Net Trigger on Certain Days at a Given Time-->https://stackoverflow.com/questions/26120555
+Cron schedule to run at 11:55, 12:00 and 12:05-->https://stackoverflow.com/questions/57617035
+Spring and Quartz integration in cluster mode is not overwritting existing jobs-->https://stackoverflow.com/questions/6546011
+How to pass instance variables into Quartz job?-->https://stackoverflow.com/questions/58801887
+How to restart Quartz jobs which is stored in DB?-->https://stackoverflow.com/questions/59668275
+quartz: preventing concurrent instances of a job in jobs.xml-->https://stackoverflow.com/questions/27933526
+Quartz Scheduler Administration Page: Information about misfired triggers-->https://stackoverflow.com/questions/37719868
+Quartz job to send email using Javamail, but Javamail is synchronous-->https://stackoverflow.com/questions/40487242
+Running a Job only once Using Quartz-->https://stackoverflow.com/questions/29199648
+Using Hibernate session with quartz-->https://stackoverflow.com/questions/37809130
+Get executed jobs form the scheduler in Quartz-->https://stackoverflow.com/questions/16446809
+Scheduling using Quartz-->https://stackoverflow.com/questions/28418280
+NullPointerException using Quartz rescheduler function-->https://stackoverflow.com/questions/37349532
+Is it possible to kill a current running Quartz Job?-->https://stackoverflow.com/questions/30394738
+Quartz CronTrigger is not firing at the specified startAt() time-->https://stackoverflow.com/questions/49966201
+Reflection of class type-->https://stackoverflow.com/questions/21792935
+Quartz produces unhandled null pointer exception-->https://stackoverflow.com/questions/50326827
+Wait in Main Thread for Quartz Scheduler to Finish-->https://stackoverflow.com/questions/24166485
+quartz: daily, only from 9:00 to 12:00-->https://stackoverflow.com/questions/23455822
+quartz trigger builder startnow not firing the trigger during the start-->https://stackoverflow.com/questions/29323868
+it is possible in quartz to configure a job on one server and running that job on another server?-->https://stackoverflow.com/questions/21350748
+HK2 factory for Quartz jobs, not destroying service after execution-->https://stackoverflow.com/questions/42978398
+Quartz.NET and AdoJobStore-->https://stackoverflow.com/questions/6258614
+Java pass Object to Quartzjob ( Quartz 2 )-->https://stackoverflow.com/questions/41164604
+Quartz scheduler in not running in war-->https://stackoverflow.com/questions/8534401
+How to implement Quartz.net Scheduler for simple HelloWorld-->https://stackoverflow.com/questions/12305530
+Quartz scheduler - Different jobs using same class?-->https://stackoverflow.com/questions/27776664
+Quartz: Show trigger interval/schedule details-->https://stackoverflow.com/questions/13919377
+shutdown all the quartz jobs as soon as app server is shut down?-->https://stackoverflow.com/questions/48455814
+Dynamically scheduling jobs: using cron trigger in groovy-->https://stackoverflow.com/questions/27880975
+c#/quartz - passing class as parameter of function-->https://stackoverflow.com/questions/24748231
+Nullpointer exception quartz integration with spring-->https://stackoverflow.com/questions/16936589
+[Quartz]How to display scheduled Job?-->https://stackoverflow.com/questions/4155168
+Is * * * * * ? a valid Cron Job?-->https://stackoverflow.com/questions/36690113
+Quartz cron expression for cron triggers executed every Nth Hour/Day/Week/Month-->https://stackoverflow.com/questions/2403106
+Job execution to call existing controller action method-->https://stackoverflow.com/questions/50662780
+pass parameter from job to joblistener in quartz-->https://stackoverflow.com/questions/8852223
+Quartz.net service, Scheduler has been disconnected or does not exist at server-->https://stackoverflow.com/questions/20520103
+Setting Cron trigger in config when Quartz is deployed as windows service-->https://stackoverflow.com/questions/29252841
+Quartz.net error when running job with ADOStore-->https://stackoverflow.com/questions/22411269
+How to autowired in quartz?-->https://stackoverflow.com/questions/48583624
+How to find the path of properties file dynamically from the code?-->https://stackoverflow.com/questions/32466511
+How to make a Job raise an EventHandler in Quartz.Net?-->https://stackoverflow.com/questions/47415427
+How to start a Job with several cron-triggers using the quartz-scheduler?-->https://stackoverflow.com/questions/29412573
+Is there a meaningful ITrigger.ToString() method in Quartz?-->https://stackoverflow.com/questions/33542975
+How to stop a job when 'WithRepeatCount' done in C#-->https://stackoverflow.com/questions/46798449
+How to configrue quartz to record how long jobs took to execute?-->https://stackoverflow.com/questions/16869802
+Unable to get Listing of Jobs in the Quartz Scheduler-->https://stackoverflow.com/questions/16243697
+quartz cron trigger first fire time-->https://stackoverflow.com/questions/12928375
+JavaFx: about quartz scheduler-->https://stackoverflow.com/questions/58001565
+Scheduled tasks in Jetty-->https://stackoverflow.com/questions/4959779
+cron expression independent of time presets-->https://stackoverflow.com/questions/16447094
+quartz scheduler using QuartzInitializerServlet-->https://stackoverflow.com/questions/26436454
+Avoid Quartz creating new instance every time-->https://stackoverflow.com/questions/51901349
+How can I specify end time for a quartz.net simple trigger on minute recurrence?-->https://stackoverflow.com/questions/29268606
+Invoke an EJB from a Quartz job-->https://stackoverflow.com/questions/55231365
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/2718949
+Java Quartz-scheduler between time-->https://stackoverflow.com/questions/52734123
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/49132387
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/49316580
+Delete Job Scheduler-->https://stackoverflow.com/questions/45916733
+How to execute a Struts 2 Action from inside a Quartz job. How to obtain the Container?-->https://stackoverflow.com/questions/10858568
+Add scripts dynamically as jobs using property/xml file in Quartz-->https://stackoverflow.com/questions/36641443
+Quartz Scheduler in servlets-->https://stackoverflow.com/questions/17567167
+Schedule a job in quartz with a set of triggers-->https://stackoverflow.com/questions/21293645
+How to start scheduled jobs dynamically with Spring (and Quartz)?-->https://stackoverflow.com/questions/36268959
+Java Calendar - biweekly on special days-->https://stackoverflow.com/questions/14032373
+How to use SchedulerFactoryBean.schedulerContextAsMap with javaconfig-->https://stackoverflow.com/questions/20932483
+How to delete or re-schedule a job?-->https://stackoverflow.com/questions/29008124
+Quartz scheduler -HELP NEEDED-->https://stackoverflow.com/questions/9495291
+how to send an array as parameter to quartz scheduled job in C#?-->https://stackoverflow.com/questions/34587629
+How to stop quartz scheduler externally which is running from main method-->https://stackoverflow.com/questions/43758981
+how to send an array as parameter to quartz scheduled job in C#?-->https://stackoverflow.com/questions/34587642
+How to avoid two jobs running at the same time in Quartz?-->https://stackoverflow.com/questions/8474367
+Error when a Quartz job runs with "Object Reference not set to an instance of an object"-->https://stackoverflow.com/questions/52435996
+Spring scheduler shutdown error-->https://stackoverflow.com/questions/6586116
+Data retrieval using quartz-->https://stackoverflow.com/questions/12711798
+How can I run a quartz schedule on mondays and tuesdays every two weeks?-->https://stackoverflow.com/questions/29343163
+Quartz.NET Rescheduling job with new trigger set-->https://stackoverflow.com/questions/16344940
+Schedule Quartz.NET trigger that executes once a week-->https://stackoverflow.com/questions/53755586
+Quartz CronTrigger executing jobs on wrong date/time-->https://stackoverflow.com/questions/10008308
+How to schedule my Quartz which run after every 10 minute except Saturday & Sunday-->https://stackoverflow.com/questions/55640391
+Ways to deal with Daylight Savings time with Quartz Cron Trigger-->https://stackoverflow.com/questions/22611274
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/7061304
+Scheduling a Spark Job Java-->https://stackoverflow.com/questions/39882182
+Running a Job only once Using Quartz-->https://stackoverflow.com/questions/32989040
+Job Chaining using quartz in Java-->https://stackoverflow.com/questions/45561957
+Quartz.net setting the timezone for ITrigger?-->https://stackoverflow.com/questions/46174792
+Quartz Job Annotation @DisallowConcurrentExecution Implementation-->https://stackoverflow.com/questions/58129817
+java.lang.RuntimeException: CronExpression '4 27 11 ? 8 ? 2014' is invalid,-->https://stackoverflow.com/questions/25841907
+Quartz.net Run 1 instance of a job with different JobKey and JobData-->https://stackoverflow.com/questions/46466435
+How do update a scheduled quartz Job?-->https://stackoverflow.com/questions/44400438
+issue when using quartz withMisfireHandlingInstructionIgnoreMisfires-->https://stackoverflow.com/questions/11441604
+Quartz.NET error comes every time I use it-->https://stackoverflow.com/questions/51009538
+Invoke a method every 5 minutes during working hours/days - Quartz.net-->https://stackoverflow.com/questions/47257388
+How to configure Quartz triggers in Grails to allow different schedules for testing and production-->https://stackoverflow.com/questions/24446839
+Initialize QuartzScheduler when container first loads web application-->https://stackoverflow.com/questions/11298331
+How to schedule a task that runs everyday in 13.00 h-->https://stackoverflow.com/questions/37671328
+How to enable Quartz scheduling in Jboss AS 7.0?-->https://stackoverflow.com/questions/6856800
+Firing Quartz jobs manually-->https://stackoverflow.com/questions/47674546
+Quartz Scheduler not triggering the job when configured via Spring 4-->https://stackoverflow.com/questions/30765887
+quartz compatibility with jdk version 1.4-->https://stackoverflow.com/questions/18331032
+How to access EJB from a Quartz Job-->https://stackoverflow.com/questions/8925367
+Repeating a job from quartz (Spring + Quartz application) - Job Chaining-->https://stackoverflow.com/questions/12201368
+Get a list of all currently executing jobs in a cluster with Quartz-->https://stackoverflow.com/questions/17242375
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/7479116
+how to schedule a quartz job with scala-->https://stackoverflow.com/questions/32855314
+Autowiring in Quartz multiple Jobs with Spring Boot not working-->https://stackoverflow.com/questions/48546993
+inject bean reference into a Quartz job in Spring?-->https://stackoverflow.com/questions/37797575
+getNextFireTime of my existing job-->https://stackoverflow.com/questions/13635925
+Need to set the quartz cron expression dynamically-->https://stackoverflow.com/questions/13842437
+Full Spring integration with Quartz to implement real time notification e-mails-->https://stackoverflow.com/questions/46418232
+How to simulate 'No. of occurrences' or 'Repeat Count' with CronTriggers in Java?-->https://stackoverflow.com/questions/26327264
+Schedule job using quartz schedular in simple webapp-->https://stackoverflow.com/questions/26776862
+Quartz Scheduler / Multiple (Non Clustered) Scheduler Instances-->https://stackoverflow.com/questions/27966012
+Quartz.net setting the timezone for ITrigger?-->https://stackoverflow.com/questions/36100021
+Unable to store Trigger with name: 'trigger1' and group: 'group1', because one already exists with this identification-->https://stackoverflow.com/questions/25904802
+How to persist JobDataMap changes from remote client-->https://stackoverflow.com/questions/13921304
+compare Cron Expression with current time-->https://stackoverflow.com/questions/26749115
+Dynamic job scheduling in spring boot with quartz scheduler-->https://stackoverflow.com/questions/55346522
+Running a Job only once Using Quartz-->https://stackoverflow.com/questions/11016782
+Getting Database Connection using Quartz-->https://stackoverflow.com/questions/9528797
+Scheduling Dependent Jobs in Quartz.Net-->https://stackoverflow.com/questions/6768929
+How to interrupt or stop currently running quartz job?-->https://stackoverflow.com/questions/17299387
+Quartz JobDetail missing method-->https://stackoverflow.com/questions/17860655
+Quartz JobDataMap doesn't work for not-primitive types-->https://stackoverflow.com/questions/26472365
+Spring 3's Quartz 2 implementation doesn't support requestsRecovery anymore-->https://stackoverflow.com/questions/14101742
+Quartz CronTrigger - Getting next fire time-->https://stackoverflow.com/questions/34066326
+Scheduling a windows service with quartz .NET-->https://stackoverflow.com/questions/10692102
+Is this cronExpression correct?-->https://stackoverflow.com/questions/12599750
+Add multiple triggers to single quartz job-->https://stackoverflow.com/questions/23932780
+Quartz.net jobs seem to persist after windows service ended-->https://stackoverflow.com/questions/35787457
+Monthly jobs on every 30th day using Quartz-->https://stackoverflow.com/questions/11442379
+Retrieve servletContext reference in quartz scheduler-->https://stackoverflow.com/questions/10316768
+Grails - stop or reschedule a job-->https://stackoverflow.com/questions/20371858
+How to use Quartz with QuartzInitializerListener?-->https://stackoverflow.com/questions/24094802
+how to configure spring job dynamically using quartz scheduler-->https://stackoverflow.com/questions/38391699
+Quartz.net CancellationToken-->https://stackoverflow.com/questions/48429009
+Schedule task to run everyday at specific time with Quartz.NET-->https://stackoverflow.com/questions/17295750
+getNextFireTime of my existing job-->https://stackoverflow.com/questions/13643656
+How to query the scheduled jobs from Quartz scheduler?-->https://stackoverflow.com/questions/22556598
+Run Quartz Scheduler Job with specific start, end date and within time constraints-->https://stackoverflow.com/questions/19058302
+Rescheduling Quartz at Runtime-->https://stackoverflow.com/questions/24265231
+Can I use Quartz Scheduler to fire every other month on the 30th day but if month has no 30th day, fire on the last day?-->https://stackoverflow.com/questions/26019030
+Custom Object parameters within Jobs using Quartz-scheduler-->https://stackoverflow.com/questions/21634587
+How to change cron expression in CronTrigger (quartz 2.2, spring 4.1)-->https://stackoverflow.com/questions/27077939
+Quartz.Net in ASP.Net Application-->https://stackoverflow.com/questions/11032826
+Dynamic Job Data using Quartz-->https://stackoverflow.com/questions/5347263
+Email Notifications and Reminders in Java Web app using Quartz Scheduler-->https://stackoverflow.com/questions/4905734
+Quartz scheduler in Tomcat 6, thread does not stop-->https://stackoverflow.com/questions/14501706
+Scheduling Cron Jobs With Quartz.NET-->https://stackoverflow.com/questions/14913088
+Quartz cron expression of 0/0-->https://stackoverflow.com/questions/10026016
+How to mark job as durable in Quartz .net?-->https://stackoverflow.com/questions/33615997
+Spring and Quartz integration with Java Config-->https://stackoverflow.com/questions/33750215
+Unable to store job because one already exists with this identification-->https://stackoverflow.com/questions/37996021
+Unable to store job because one already exists with this identification-->https://stackoverflow.com/questions/51724460
+How to save Quartz executed jobs?-->https://stackoverflow.com/questions/25637392
+Java Quartz CronExpression validates wrong cron expression-->https://stackoverflow.com/questions/52317282
+How to chain more than 2 jobs using JobChainingJobListener Quartz.net?-->https://stackoverflow.com/questions/29368258
+Quartz.NET error comes every time I use it-->https://stackoverflow.com/questions/50166393
+Is Spring's built in Scheduler persistent.?-->https://stackoverflow.com/questions/34373767
+Quartz fails to delete a job, now what?-->https://stackoverflow.com/questions/16175902
+Spring: How to Monitor Quartz Job from controller?-->https://stackoverflow.com/questions/17446737
+Java Quartz-Scheduler across TimeZone-->https://stackoverflow.com/questions/14353990
+How to check whether Quartz cron job is running?-->https://stackoverflow.com/questions/27395623
+Quartz recovering from multiple days misfire-->https://stackoverflow.com/questions/14223110
+Quartz.Net don't works. Bad Code. I already tried to place the IJob call in this way: Quartz.IJob, but it does not work either-->https://stackoverflow.com/questions/52013534
+Scheduling task using Spring Scheduler-->https://stackoverflow.com/questions/45615175
+Finding Last Fired time using a Cron Expression in Java-->https://stackoverflow.com/questions/51303967
+How to create Trigger Object Programmatically?-->https://stackoverflow.com/questions/4818460

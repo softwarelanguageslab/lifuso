@@ -1,0 +1,31 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:vue/vue3-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "@nuxtjs/eslint-config-typescript",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "parser": "@typescript-eslint/parser",
+    "sourceType": "module"
+  },
+  "plugins": ["vue", "@typescript-eslint"],
+  "globals": {
+    "ref": true,
+    "computed": true,
+    "useHead": true,
+    "defineNuxtPlugin": true
+  },
+  "rules": {
+    "camelcase": "off",
+    "vue/multi-word-component-names": "off"
+  }
+}
